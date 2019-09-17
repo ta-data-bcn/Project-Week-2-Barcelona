@@ -5,148 +5,154 @@
 ## Content
 - [Project Description](#project-description)
 - [Project Goals](#project-goals)
-- [Requirements](#requirements)
-- [Deliverables](#deliverables)
+- [Requirements & Deliverables](#requirements-&-deliverables)
 - [Mentoring](#mentoring)
 - [Schedule](#schedule)
 - [Datasets](#datasets)
 - [Presentation](#presentation)
 - [Tips & Tricks](#tips-&-tricks)
-- [Proposing Questions](#proposing-questions)
-
-<a name="project-description"></a>
+- [Asking Questions](#asking-questions)
 
 ## Project Description
-In this project, you will do and present an analysis of your choosing on a topic related to Barcelona. 
+In this project, you will do and present an analysis of your choosing on a topic related to Barcelona.
 
-These topics are:  
+The topics are:  
 * Transportation
 * Urban environment
 * Population 
 * Administration
-* Economics & business  
+* Economics & business
 
-You have to choose one of them! We will cover all of them.
+In this project you will work in **teams**. Your team must come to an agreement with the other teams so that each of you work on a different topic. 
 
-Possible datasets you can use are suggested in ```Dataset``` section below. 
-
-<a name="project-goals"></a>
+Possible datasets you can use are suggested in the ```Dataset``` section below. 
 
 ## Project Goals
-* Learn to propose interesting questions that can be answered with data.
-* Explore/research the data available related to your topic.
-* Build a database from the data available.
-* Perform a very simple analysis of your data and identify interesting insights.
+During this project you will:
+* Fork and manage your own git repository. 
+* Propose interesting questions to answer using data.
+* Search and explore data that will help you answer your questions. 
+* Build a database.
+* Perform a simple analysis and identify interesting insights.
+* Get used to public presentations. 
 * Learn something about Barcelona!
 
-<a name="requirements"></a>
+## Requirements & Deliverables
+The **mandatory** requirements that this project needs to satisfy are: 
+* The project must be planned. That is why creating a Kanban or Trello Board is important. You can find a template for Trello [here](https://trello.com/b/usAykV9K/project-2-barcelona). Remember that you **CAN'T CODE** until your project is planned. 
+* Your repository must be clean and organized, which means that it must include a *.gitignore* file and a README file, as well as have a well-structured file organization.  
+* Your README file must clearly include which topic you chose and which are the questions you would like to answer.
+* Your project must include a database design and a complete analysis of your data including the most meaningful insights you found.
+* Also, mind that **NO PLOTTING IS ALLOWED IN THIS PROJECT**.
 
-## Requirements
-* You must plan your project. That is why creating a Kanban or Trello Board is mandatory. You have a template for Trello [here](https://trello.com/b/usAykV9K/project-2-barcelona).
-* You **CAN'T CODE** until you project is planned.
-* Create a *.gitignore* file and include it in your repository.  
-* Specify questions you would like to answer about your topic.
-* Choose data relevant to your questions.
-* Design a structure for your database (add the aggregates you think will be useful). You don't need to provide us with the datatypes you will use, but the tables you will create and the relations between them. 
-* Complete an analysis of your data and provide the most interesting insights.
+The **mandatory** deliverables that you must turn in are:
+* Link to the repository you used while building your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!.
+* Link to Trello or picture of your Kanban Board. Include the link or picture in the README file. 
+* An Entity Relationship Diagram (ERD) that describes the structure you designed for your database. You don't need to specify the datatypes of each column, only the tables you will create, the columns they have and the relationships between the tables. Include the ERD in your README file as an image. 
 
-**NO PLOTTING IS ALLOWED IN THIS PROJECT**
-
-<a name="deliverables"></a>
-
-## Deliverables
-You must turn in the following before the due date:
-1. Repo with all of the scripts you used to clean and analyse the data.
-2. Connection information for the database where you have stored the data.
-3. Slides for a 10 minute presentation. **These must be turned in at least 30 minutes before the time of presentation**. See the section on ```Presentation``` for more information.
-
-<a name="mentoring"></a>
+The **deadline** to turn in the deliverables is right before the project presentations.
 
 ## Mentoring
 One of the TAs will be your mentor!
+
 Your mentor will:
-* Follow your project in general, will be the second person that knows more about the project, after you.
-* Check if you are following the tasks, your blockers, etc
-* Help/support you in specific questions.
+* Keep track of your project in general terms. Your mentor will be the second person that knows more about the project, after you.
+* Check if you are following your plan: are you keeping up with your tasks and deadlines? Do you have any obstacles blocking you?
+* Help/support you with specific questions.
 
-Your mentor is not meant to:
+Your mentor is **not** meant to:
 * Know everything.
-* Be your manager. You have to be the responsible person to do the tasks!
-
-<a name="schedule"></a>
+* Be your manager. You have to be responsible of your own tasks!
 
 ## Schedule
-*Tuesday - Wednesday*
-* Fork the repository.
-* Think about questions you could find interesting.
-* Do some brainstorming about data you could use to answer your questions.
-* Look for more data on the [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/en/) website, the [Catalonia Government](http://governobert.gencat.cat/ca/dades_obertes/) website, and the [Spanish Government](https://datos.gob.es/) website.
 
-*Wednesay*
-* Define tasks, defining those to be done individually and those ones to be done together.
-* Build your database and clean the data.
+| Tuesday - Wednesday |  
+|:--------:|
+* Choose your topic.
+* Propose interesting questions to answer. 
+* Brainstorm to find out which data you can use to answer your questions.
+* Research and look for the data. You can find some useful links to investigate in the ```Resources``` section.
+* Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-2-Barcelona/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
 
-*Thursday*
-* Analyse your data, identify the most interesting insights, and prepare your presentation.
+| Wednesday |  
+|:--------:|
+* Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/usAykV9K/project-2-barcelona). Define tasks, specifying those to be done individually and those to be done together.
+* Once you finish, start coding!
+* Clean your data.
+* Design and build your database. 
 
-*Friday*
-* Presentation!
+| Thursday |  
+|:--------:|
+* Analyse your data. 
+* Find the most interesting and meaningful insights.
+* Start preparing the slides for Friday's presentation. 
 
-<a name="datasets"></a>
+
+| Friday |  
+|:--------:|
+* Presentation time at **4PM**! There will be a 15-minute break during the presentations.
 
 ## Datasets
-**accidents_2017**: List of accidents handled by the local police in the city of Barcelona.   
-**air_quality_Nov2017**: Mesure data are showed of O3 (tropospheric Ozone), NO2 (Nitrogen dioxide) and PM10 (Suspended particles).  
-**air_stations_Nov2017**: Main characteristics of the air quality measure stations of the city of Barcelona.  
+### Transportation
+**accidents-2017**: List of accidents handled by the local police in the city of Barcelona.  
+**bus-stops**: Bus stops, day bus stops, night bus stops, airport bus stops of the city of Barcelona.  
+**public-transport**: Public transports (underground, Renfe, FGC, funicular, cable car, tramcar, etc) of the city of Barcelona.  
+
+### Urban environment
+**air-quality-nov-2017**: Mesure data are showed of O3 (tropospheric Ozone), NO2 (Nitrogen dioxide) and PM10 (Suspended particles).  
+**air-stations-nov-2017**: Main characteristics of the air quality measure stations of the city of Barcelona.    
+
+### Population 
 **births**: Births by nationalities and by neighbourhoods of the city of Barcelona (2013-2017).  
-**bus_stops**: Bus stops, day bus stops, night bus stops, airport bus stops of the city of Barcelona.  
-**deaths**: Deaths by quinquennial ages and by neighbourhoods of the city of Barcelona (2015-2017).  
-**immigrants_by_nationality**: Immigrants by nationality and by neighbourhoods of the city of Barcelona (2015-2017).  
+**deaths**: Deaths by quinquennial ages and by neighbourhoods of the city of Barcelona (2015-2017).   
+**immigrants_by_nationality**: Immigrants by nationality and by neighbourhoods of the city of Barcelona (2015-2017).   
 **immigrants_emigrants_by_age**: Immigrants and emigrants by quinquennial ages and by neighbourhood of the city of Barcelona (2015-2017).  
 **immigrants_emigrants_by_destination**: Immigrants and emigrants by place of origin and destination, respectively (2017).  
 **immigrants_emigrants_by_sex**: Immigrants and emigrants by sex by neighbourhoods of the city of Barcelona (2013-2017).  
 **most_frequent_baby_names**: 25 Most common baby names in Barcelona, disaggregated by sex. Years 1996-2016.  
 **most_frequent_names**: 50 Most common names of the inhabitants of Barcelona, disaggregated by decade of birth and sex.  
-**population**: Population by neighbourhood, by quinquennial ages and by genre of the city of Barcelona (2013-2017). Reading registers of inhabitants.  
-**transports**: Public transports (underground, Renfe, FGC, funicular, cable car, tramcar, etc) of the city of Barcelona.  
+**population**: Population by neighbourhood, by quinquennial ages and by genre of the city of Barcelona (2013-2017). Reading registers of inhabitants. 
+
+### Administration
+**general-election-results-2019**: Results of the general elections by census section in the city of Barcelona (2019). 
+
+### Economics & business
 **unemployment**: Registered unemployement by neighbourhood and genre in the city of Barcelona (2013-2017).
 
-<a name="presentation"></a>
-
 ## Presentation
-We recommend you compose your presentation of approximately 8 of the slides below:
+The presentation time limit is **10 minutes**! After all the presentations are over, there will be a 5-minutes break. After the break, we will hold a short debate about the projects.
+
+Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
 
 * Title of the project
-* Team 
-* Main challenges & strengths
-* Data: sources you used, problems, limitations.
-* Database: strucutre, new data you added, data you deleted, how you processed the data.
-* Main insights & explanations. Give most importance to the most interesting or important questions. 
+* Team presentation
+* Goals
+* Data - sources, problems and limitations
+* Database - data pre-processing and database structure
+* Main insights 
 * Questions you were not able to answer and why
-* Workflow: what could you have done better? What was useful?
-* Main learnings from the project
+* Main learnings: what could you have done better? What was useful?
 
-You will have 10 minutes to present your project. After all the presentations are over, we will have a 5 minutes break and then have a short debate about the projects.
-
-**Remember to present your insights as understandably as possible (with NO plots)!**
-
-<a name="tips-&-tricks"></a>
+**Remember to present your insights as understandably as possible without using plots!**
 
 ## Tips & Tricks
-* First the question. After the data.
-* Before starting to write code, think about the analysis you would like to do (workflow).
-* You will have more questions than answers. Don't worry, even if you can't answer any of your questions. Just show us why you couldn't answer something -- that itself will be  interesting!
+* Question first. Data second.
+* Before coding, think about the workflow of your analysis.
+* You will have more questions than answers. It's not a problem if you can't answer some or any of your questions. Just show us why you couldn't answer, that itself will be interesting!
 
-<a name="proposing-questions"></a>
-
-## Proposing Questions
-For example, we are doing a project about the population in Barcelona.
-We could do, for example, a *descriptive* question as: How many people there is in my neighbourhood? And you would need to look for the data for that.
-But you could also to propose an *analytic* question as: Is my neighbourhood the best? Here you would need to think how could you answer it, the *best* word is the key. Could mean:
+## Asking Questions
+Imagine that our project is about the population of Barcelona.
+We could, for example, try to answer a *descriptive* question such as: How many people are living in my neighbourhood? And you would need to look for specific data that can answer that question.
+But your question could also be an *analytic* one such as: Is my neighbourhood the best? In this case you will need to think what the word *best* best means. For example it could mean:
 * Safer
 * More cultural events
 * More schools
 * ...
 
-You will need to propose the way you are trying to answer the question.
-This is very interesting and you will keep doing this for the rest of the bootcamp.
+Analytic questions require you to think about the *how* of answering a question.
+This is one of the most interesting part of the process and you will be doing it for the rest of the bootcamp.
+
+### Resources
+* [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/en/)
+* [Catalonia Government Open Data](http://governobert.gencat.cat/ca/dades_obertes/)
+* [Spanish Government Open Data](https://datos.gob.es/)

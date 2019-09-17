@@ -13,37 +13,33 @@
 - [Organization](#organization)
 - [Links](#links)
 
-<a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
-
-<a name="hypotheses-/-questions"></a>
+Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to explain. 
 
 ## Hypotheses / Questions
 What are the questions you would like to answer with your project? Write your hypotheses here.
 
-<a name="dataset"></a>
-
 ## Dataset
 Where did you get your data? What dataset did you use or did you build your own datset. Provide links to the data if available.
 
-[Dataset]() 
+[Dataset link]() 
 
-<a name="workflow"></a>
+## Database
+What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+
+[Entity Relationship Diagram image]
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
-
-<a name="organization"></a>
+Outline the workflow you used in your project. What are the steps you went through?
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+How did you organize your work? Did you use any tools like a trello or kanban board?
 
-<a name="links"></a>
+What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
+Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
