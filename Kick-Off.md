@@ -46,7 +46,7 @@ The **mandatory** requirements that this project needs to satisfy are:
 * Also, mind that **NO PLOTTING IS ALLOWED IN THIS PROJECT**.
 
 The **mandatory** deliverables that you must turn in are:
-* Link to the repository you used while building your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!.
+* Link to the repository you used while building your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!
 * Link to Trello or picture of your Kanban Board. Include the link or picture in the README file. 
 * An Entity Relationship Diagram (ERD) that describes the structure you designed for your database. You don't need to specify the datatypes of each column, only the tables you will create, the columns they have and the relationships between the tables. Include the ERD in your README file as an image. 
 
