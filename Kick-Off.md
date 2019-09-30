@@ -38,7 +38,7 @@ During this project you will:
 * Perform a simple analysis and identify interesting insights.
 * Learn something about Barcelona!
 
-## Data Workflow
+## Data Workflow
 In this project you will focus on learning and developing Data Wrangling skills.
 
 ## Requirements & Deliverables
