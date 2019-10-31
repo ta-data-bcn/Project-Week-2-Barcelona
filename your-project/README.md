@@ -32,16 +32,24 @@ The data for this project was sourced from the Ajuntament of Barcelona Open Data
 ## Database
 The raw CSV data file was cleaned and used to populate the tables down in the ERD below. Note that not all data in teh source file was imported into the database for analysis.
 
-[insert ERD image here]
+[logo]: https://www.dropbox.com/s/ppuwne3jhkv41d6/ERD.JPG?dl=0 "Barcelona Accident Data 2018 - ERD"
+
+
+You may access the database using the credentials below
+
+endpoint: barcelona-db.cyxhqbnhiohl.eu-west-3.rds.amazonaws.com
+username: guest
+password: ABCd1234
 
 ## Workflow
 The following steps were performed during the analysis of this project.
 1.  Source raw data file.
-2.  Import CSV file into Panda dataframe for initial analysis and review.
+2.  Import CSV file into Panda dataframe for initial analysis and review. [One column contained a trailling space which caused an issue]
 3.  ERD created based on data available and analysis to be performed.
+x.  Remove whitespace from column names and selected columns (accident identifier and street name).
 4.  New dataframes created using selected columns from raw data file.
-5.  Population of aforementiones new dataframes - cleaning data during import process.
-6.  New database created on Amazon Web Services (AWS)
+5.  Population of aforementiones new dataframes - used cleaned columns as required.
+6.  New database created on Amazon Web Services (AWS).
 7.  Respective Panda dataframes used to populate the tables on the new database.
 8.  XXXXXXXXX
 
