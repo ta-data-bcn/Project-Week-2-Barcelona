@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*Elliott Coyne 7 Sabbah *
+# Analysis of Road Traffic Accidents in Barcelona
+*Elliott and Sabbah *
 
 *Data Analysis, October 2019 - Barcelona*
 
@@ -32,7 +32,7 @@ The data for this project was sourced from the Ajuntament of Barcelona Open Data
 ## Database
 The raw CSV data file was cleaned and used to populate the tables down in the ERD below. Note that not all data in teh source file was imported into the database for analysis.
 
-[logo]: https://www.dropbox.com/s/ppuwne3jhkv41d6/ERD.JPG?dl=0 "Barcelona Accident Data 2018 - ERD"
+![logo](https://www.dropbox.com/s/ppuwne3jhkv41d6/ERD.JPG?raw=1) "Barcelona Accident Data 2018 - ERD"
 
 
 You may access the database using the credentials below
@@ -58,13 +58,13 @@ In order to idenitfy and track all tasks required to be completed, a Trello boar
 
 Within the GitHub respository there are two folders.
 
-The your-project folder contains XXXXX
-The datasets folders contains XXXXX
+The 'your-project' folder contains a the IPYNB and SQL files used to load the raw data CSV, which also resides here. The ERD is in this folder too.
+The 'datasets' folders contains a selection of other datasets which were available (but not used) during the discovery phase of this project.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/tristar82/Project-Week-2-Barcelona)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/G0laRJKn/accidents-in-barcelona)  
 [Raw Data Sat](https://opendata-ajuntament.barcelona.cat/data/dataset/317e3743-fb79-4d2f-a128-5f12d2c9a55a/resource/6e2daeb5-e359-43ad-b0b5-7fdf438c8d6f/download/2018_accidents_vehicles_gu_bcn_.csv) 
