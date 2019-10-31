@@ -71,6 +71,7 @@ ehthumbs_vista.db
 #EC Added - folders to ignore
 your-project/images/
 your-project/archive/
+your-project/working/
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
