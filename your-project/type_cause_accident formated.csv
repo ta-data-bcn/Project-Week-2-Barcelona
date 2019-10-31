@@ -1,0 +1,1885 @@
+,Codi_expedient,Tipus_accident,Descripcio_causa_mediata
+0,2018S000001    ,Abast multiple,Not_Specified
+1,2018S000002    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+2,2018S000003    ,Abast,Not_Specified
+3,2018S000004    ,Xoc contra element estÃ tic,Not_Specified
+4,2018S000005    ,Bolcada (mÃ©s de dues rodes),Not_Specified
+5,2018S000006    ,Abast,Not_Specified
+6,2018S000007    ,Abast,Not_Specified
+7,2018S000008    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+8,2018S000009    ,Col.lisiÃ³ lateral,Not_Specified
+9,2018S000010    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+10,2018S000011    ,Atropellament,Not_Specified
+11,2018S000012    ,Atropellament,Not_Specified
+12,2018S000013    ,Col.lisiÃ³ lateral,Not_Specified
+13,2018S000014    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+14,2018S000015    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+15,2018S000016    ,Col.lisiÃ³ lateral,Not_Specified
+16,2018S000017    ,Col.lisiÃ³ lateral,Not_Specified
+17,2018S000018    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+18,2018S000019    ,Col.lisiÃ³ lateral,Not_Specified
+19,2018S000020    ,Altres,Not_Specified
+20,2018S000021    ,Abast,No hi ha causa mediata
+21,2018S000022    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+22,2018S000023    ,Xoc contra element estÃ tic,Not_Specified
+23,2018S000023    ,Caiguda (dues rodes),Not_Specified
+24,2018S000024    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+25,2018S000025    ,Atropellament,Not_Specified
+26,2018S000026    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+27,2018S000027    ,Atropellament,Not_Specified
+28,2018S000028    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+29,2018S000029    ,Col.lisiÃ³ lateral,Not_Specified
+30,2018S000030    ,Atropellament,Not_Specified
+31,2018S000031    ,Caiguda interior vehicle,No hi ha causa mediata
+32,2018S000032    ,Atropellament,Not_Specified
+33,2018S000033    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+34,2018S000034    ,Abast multiple,Not_Specified
+35,2018S000035    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+36,2018S000036    ,Abast,Not_Specified
+37,2018S000037    ,Col.lisiÃ³ lateral,Not_Specified
+38,2018S000038    ,Col.lisiÃ³ lateral,Not_Specified
+39,2018S000039    ,Col.lisiÃ³ lateral,Not_Specified
+40,2018S000040    ,Abast,No hi ha causa mediata
+41,2018S000041    ,Altres,Not_Specified
+42,2018S000041    ,Caiguda (dues rodes),Not_Specified
+43,2018S000042    ,Atropellament,Not_Specified
+44,2018S000043    ,Xoc contra element estÃ tic,Not_Specified
+45,2018S000044    ,Atropellament,Not_Specified
+46,2018S000045    ,Abast,Not_Specified
+47,2018S000046    ,Abast,Not_Specified
+48,2018S000047    ,Col.lisiÃ³ lateral,Not_Specified
+49,2018S000048    ,Abast,Not_Specified
+50,2018S000049    ,Caiguda (dues rodes),Not_Specified
+51,2018S000050    ,Abast,No hi ha causa mediata
+52,2018S000051    ,Caiguda (dues rodes),Not_Specified
+53,2018S000051    ,Abast,Not_Specified
+54,2018S000052    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+55,2018S000053    ,Abast,Not_Specified
+56,2018S000054    ,Col.lisiÃ³ lateral,Not_Specified
+57,2018S000055    ,Caiguda (dues rodes),Not_Specified
+58,2018S000055    ,Col.lisiÃ³ lateral,Not_Specified
+59,2018S000056    ,Abast,Not_Specified
+60,2018S000057    ,Abast multiple,Not_Specified
+61,2018S000058    ,Abast,Not_Specified
+62,2018S000059    ,Atropellament,Not_Specified
+63,2018S000060    ,Caiguda (dues rodes),Not_Specified
+64,2018S000060    ,Col.lisiÃ³ lateral,Not_Specified
+65,2018S000061    ,Col.lisiÃ³ lateral,Not_Specified
+66,2018S000062    ,Abast,Not_Specified
+67,2018S000063    ,Col.lisiÃ³ lateral,Not_Specified
+68,2018S000064    ,Caiguda interior vehicle,Not_Specified
+69,2018S000065    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+70,2018S000066    ,Caiguda (dues rodes),AlcoholÃ¨mia
+71,2018S000067    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+72,2018S000068    ,Abast,Not_Specified
+73,2018S000069    ,Col.lisiÃ³ lateral,Not_Specified
+74,2018S000070    ,Atropellament,No hi ha causa mediata
+75,2018S000071    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+76,2018S000072    ,Caiguda (dues rodes),Not_Specified
+77,2018S000073    ,Atropellament,Not_Specified
+78,2018S000074    ,Altres,Not_Specified
+79,2018S000075    ,Atropellament,Not_Specified
+80,2018S000076    ,Atropellament,No hi ha causa mediata
+81,2018S000076    ,Abast,No hi ha causa mediata
+82,2018S000077    ,Abast,Not_Specified
+83,2018S000078    ,Abast multiple,Not_Specified
+84,2018S000079    ,Col.lisiÃ³ lateral,Not_Specified
+85,2018S000080    ,Col.lisiÃ³ lateral,Not_Specified
+86,2018S000081    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+87,2018S000082    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+88,2018S000083    ,Caiguda interior vehicle,Not_Specified
+89,2018S000084    ,Atropellament,Not_Specified
+90,2018S000085    ,Col.lisiÃ³ lateral,Not_Specified
+91,2018S000086    ,Col.lisiÃ³ lateral,Not_Specified
+92,2018S000087    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+93,2018S000088    ,Abast,Not_Specified
+94,2018S000089    ,Col.lisiÃ³ frontal,Not_Specified
+95,2018S000089    ,Col.lisiÃ³ lateral,Not_Specified
+96,2018S000090    ,Caiguda interior vehicle,Not_Specified
+97,2018S000091    ,Abast,Not_Specified
+98,2018S000092    ,Atropellament,No hi ha causa mediata
+99,2018S000093    ,Col.lisiÃ³ lateral,Not_Specified
+100,2018S000094    ,Col.lisiÃ³ lateral,Not_Specified
+101,2018S000095    ,Atropellament,Estat de la senyalitzaciÃ³
+102,2018S000096    ,Col.lisiÃ³ lateral,Not_Specified
+103,2018S000097    ,Xoc contra element estÃ tic,Not_Specified
+104,2018S000098    ,Abast,Not_Specified
+105,2018S000099    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+106,2018S000100    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+107,2018S000101    ,Abast,Not_Specified
+108,2018S000102    ,Abast,Not_Specified
+109,2018S000103    ,Abast,Not_Specified
+110,2018S000104    ,Atropellament,Not_Specified
+111,2018S000105    ,Altres,Not_Specified
+112,2018S000106    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+113,2018S000107    ,Col.lisiÃ³ lateral,Not_Specified
+114,2018S000108    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+115,2018S000109    ,Caiguda interior vehicle,Not_Specified
+116,2018S000110    ,Col.lisiÃ³ lateral,Not_Specified
+117,2018S000111    ,Xoc contra element estÃ tic,Not_Specified
+118,2018S000112    ,Atropellament,Not_Specified
+119,2018S000113    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+120,2018S000114    ,Xoc contra element estÃ tic,Not_Specified
+121,2018S000115    ,Xoc contra element estÃ tic,Not_Specified
+122,2018S000116    ,Xoc contra element estÃ tic,Not_Specified
+123,2018S000117    ,Atropellament,Not_Specified
+124,2018S000118    ,Atropellament,Not_Specified
+125,2018S000119    ,Col.lisiÃ³ lateral,Not_Specified
+126,2018S000120    ,Abast multiple,Not_Specified
+127,2018S000121    ,Caiguda (dues rodes),Not_Specified
+128,2018S000121    ,Atropellament,Not_Specified
+129,2018S000122    ,Col.lisiÃ³ lateral,Not_Specified
+130,2018S000123    ,Atropellament,Not_Specified
+131,2018S000124    ,Abast,Not_Specified
+132,2018S000125    ,Col.lisiÃ³ lateral,Not_Specified
+133,2018S000126    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+134,2018S000126    ,Col.lisiÃ³ lateral,Not_Specified
+135,2018S000127    ,Abast multiple,Not_Specified
+136,2018S000128    ,Abast,No hi ha causa mediata
+137,2018S000129    ,Atropellament,Not_Specified
+138,2018S000130    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+139,2018S000131    ,Altres,Not_Specified
+140,2018S000132    ,Caiguda (dues rodes),Not_Specified
+141,2018S000133    ,Abast,Not_Specified
+142,2018S000134    ,Xoc contra element estÃ tic,Not_Specified
+143,2018S000135    ,Abast,Not_Specified
+144,2018S000136    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+145,2018S000137    ,Abast,Not_Specified
+146,2018S000138    ,Abast,Not_Specified
+147,2018S000139    ,Abast,No hi ha causa mediata
+148,2018S000140    ,Caiguda interior vehicle,Not_Specified
+149,2018S000141    ,Xoc contra element estÃ tic,Not_Specified
+150,2018S000142    ,Abast,Not_Specified
+151,2018S000143    ,Abast,Not_Specified
+152,2018S000144    ,Caiguda (dues rodes),Not_Specified
+153,2018S000145    ,Caiguda (dues rodes),Not_Specified
+154,2018S000146    ,Col.lisiÃ³ lateral,Not_Specified
+155,2018S000147    ,Caiguda interior vehicle,Not_Specified
+156,2018S000148    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+157,2018S000149    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+158,2018S000150    ,Caiguda (dues rodes),No hi ha causa mediata
+159,2018S000150    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+160,2018S000151    ,Col.lisiÃ³ lateral,Not_Specified
+161,2018S000152    ,Abast,Not_Specified
+162,2018S000153    ,Caiguda (dues rodes),Not_Specified
+163,2018S000154    ,Atropellament,Not_Specified
+164,2018S000155    ,Abast,Not_Specified
+165,2018S000156    ,Col.lisiÃ³ lateral,Not_Specified
+166,2018S000157    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+167,2018S000158    ,Atropellament,Not_Specified
+168,2018S000159    ,Caiguda (dues rodes),Not_Specified
+169,2018S000160    ,Abast,Not_Specified
+170,2018S000161    ,Col.lisiÃ³ lateral,Not_Specified
+171,2018S000162    ,Col.lisiÃ³ lateral,Not_Specified
+172,2018S000162    ,Xoc contra element estÃ tic,Not_Specified
+173,2018S000163    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+174,2018S000164    ,Col.lisiÃ³ lateral,Not_Specified
+175,2018S000165    ,Col.lisiÃ³ lateral,Not_Specified
+176,2018S000166    ,Col.lisiÃ³ lateral,Not_Specified
+177,2018S000167    ,Col.lisiÃ³ lateral,Not_Specified
+178,2018S000168    ,Xoc contra element estÃ tic,Not_Specified
+179,2018S000169    ,Abast,Not_Specified
+180,2018S000170    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+181,2018S000171    ,Atropellament,Not_Specified
+182,2018S000172    ,Col.lisiÃ³ lateral,Not_Specified
+183,2018S000173    ,Col.lisiÃ³ lateral,Not_Specified
+184,2018S000174    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+185,2018S000175    ,Abast,Not_Specified
+186,2018S000176    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+187,2018S000177    ,Atropellament,Not_Specified
+188,2018S000178    ,Altres,Not_Specified
+189,2018S000179    ,Col.lisiÃ³ lateral,Not_Specified
+190,2018S000180    ,Xoc contra element estÃ tic,No hi ha causa mediata
+191,2018S000181    ,Col.lisiÃ³ lateral,Not_Specified
+192,2018S000182    ,Abast,Not_Specified
+193,2018S000183    ,Caiguda (dues rodes),Not_Specified
+194,2018S000184    ,Col.lisiÃ³ lateral,Not_Specified
+195,2018S000185    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+196,2018S000186    ,Abast,Not_Specified
+197,2018S000187    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+198,2018S000188    ,Col.lisiÃ³ lateral,Not_Specified
+199,2018S000189    ,Abast,Not_Specified
+200,2018S000190    ,Col.lisiÃ³ lateral,Not_Specified
+201,2018S000191    ,Col.lisiÃ³ lateral,Not_Specified
+202,2018S000192    ,Caiguda (dues rodes),No hi ha causa mediata
+203,2018S000192    ,Abast,No hi ha causa mediata
+204,2018S000193    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+205,2018S000194    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+206,2018S000195    ,Col.lisiÃ³ lateral,Not_Specified
+207,2018S000196    ,Abast,Not_Specified
+208,2018S000197    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+209,2018S000198    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+210,2018S000199    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+211,2018S000200    ,Atropellament,Not_Specified
+212,2018S000201    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+213,2018S000202    ,Atropellament,Not_Specified
+214,2018S000203    ,Caiguda (dues rodes),Not_Specified
+215,2018S000204    ,Xoc contra element estÃ tic,Not_Specified
+216,2018S000205    ,Abast,Not_Specified
+217,2018S000206    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+218,2018S000207    ,Col.lisiÃ³ lateral,Not_Specified
+219,2018S000208    ,Caiguda (dues rodes),Not_Specified
+220,2018S000209    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+221,2018S000210    ,Col.lisiÃ³ lateral,Not_Specified
+222,2018S000211    ,Caiguda (dues rodes),Not_Specified
+223,2018S000212    ,Abast,Not_Specified
+224,2018S000213    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+225,2018S000214    ,Col.lisiÃ³ lateral,Not_Specified
+226,2018S000215    ,Abast,Not_Specified
+227,2018S000216    ,Caiguda interior vehicle,Not_Specified
+228,2018S000217    ,Abast,Not_Specified
+229,2018S000218    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+230,2018S000219    ,Col.lisiÃ³ frontal,Not_Specified
+231,2018S000220    ,Atropellament,Not_Specified
+232,2018S000221    ,Abast,Not_Specified
+233,2018S000222    ,Abast,Not_Specified
+234,2018S000223    ,Caiguda interior vehicle,Not_Specified
+235,2018S000224    ,Caiguda interior vehicle,Not_Specified
+236,2018S000225    ,Abast,Not_Specified
+237,2018S000226    ,Col.lisiÃ³ lateral,Not_Specified
+238,2018S000227    ,Col.lisiÃ³ lateral,Not_Specified
+239,2018S000228    ,Atropellament,Not_Specified
+240,2018S000229    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+241,2018S000230    ,Atropellament,Not_Specified
+242,2018S000231    ,Abast,Not_Specified
+243,2018S000232    ,Abast,Not_Specified
+244,2018S000233    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+245,2018S000233    ,Caiguda (dues rodes),Not_Specified
+246,2018S000234    ,Atropellament,Not_Specified
+247,2018S000235    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+248,2018S000236    ,Abast,Not_Specified
+249,2018S000237    ,Abast,Not_Specified
+250,2018S000238    ,Col.lisiÃ³ lateral,Not_Specified
+251,2018S000239    ,Atropellament,No hi ha causa mediata
+252,2018S000240    ,Abast,Not_Specified
+253,2018S000241    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+254,2018S000242    ,Caiguda (dues rodes),Not_Specified
+255,2018S000242    ,Col.lisiÃ³ lateral,Not_Specified
+256,2018S000243    ,Abast,No hi ha causa mediata
+257,2018S000244    ,Caiguda (dues rodes),No hi ha causa mediata
+258,2018S000245    ,Col.lisiÃ³ lateral,Not_Specified
+259,2018S000246    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+260,2018S000247    ,Abast,Not_Specified
+261,2018S000249    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+262,2018S000250    ,Xoc contra element estÃ tic,Not_Specified
+263,2018S000251    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+264,2018S000252    ,Atropellament,No hi ha causa mediata
+265,2018S000253    ,Col.lisiÃ³ lateral,Not_Specified
+266,2018S000254    ,Abast,Not_Specified
+267,2018S000255    ,Atropellament,Not_Specified
+268,2018S000256    ,Abast,Not_Specified
+269,2018S000257    ,Abast,Not_Specified
+270,2018S000258    ,Col.lisiÃ³ lateral,Not_Specified
+271,2018S000259    ,Abast multiple,Not_Specified
+272,2018S000260    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+273,2018S000261    ,Atropellament,No hi ha causa mediata
+274,2018S000262    ,Abast,Not_Specified
+275,2018S000263    ,Abast,Not_Specified
+276,2018S000264    ,Caiguda (dues rodes),Not_Specified
+277,2018S000265    ,Caiguda (dues rodes),Not_Specified
+278,2018S000265    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+279,2018S000266    ,Abast,Not_Specified
+280,2018S000267    ,Xoc contra element estÃ tic,Not_Specified
+281,2018S000268    ,Col.lisiÃ³ lateral,Not_Specified
+282,2018S000269    ,Abast,No hi ha causa mediata
+283,2018S000270    ,Caiguda (dues rodes),No hi ha causa mediata
+284,2018S000271    ,Caiguda interior vehicle,Not_Specified
+285,2018S000272    ,Col.lisiÃ³ lateral,Not_Specified
+286,2018S000273    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+287,2018S000274    ,Col.lisiÃ³ lateral,Not_Specified
+288,2018S000275    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+289,2018S000276    ,Abast,Not_Specified
+290,2018S000277    ,Abast,Not_Specified
+291,2018S000278    ,Abast,Not_Specified
+292,2018S000279    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+293,2018S000280    ,Altres,Not_Specified
+294,2018S000280    ,Caiguda (dues rodes),Not_Specified
+295,2018S000281    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+296,2018S000282    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+297,2018S000283    ,Abast,Not_Specified
+298,2018S000284    ,Abast,Not_Specified
+299,2018S000285    ,Col.lisiÃ³ lateral,Not_Specified
+300,2018S000286    ,Abast,No hi ha causa mediata
+301,2018S000287    ,Abast multiple,No hi ha causa mediata
+302,2018S000288    ,Abast,Not_Specified
+303,2018S000289    ,Col.lisiÃ³ lateral,Not_Specified
+304,2018S000290    ,Xoc amb animal a la calÃ§ada,Not_Specified
+305,2018S000291    ,Atropellament,No hi ha causa mediata
+306,2018S000292    ,Caiguda (dues rodes),Not_Specified
+307,2018S000293    ,Col.lisiÃ³ lateral,Not_Specified
+308,2018S000294    ,Abast,No hi ha causa mediata
+309,2018S000294    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+310,2018S000295    ,Col.lisiÃ³ lateral,Not_Specified
+311,2018S000296    ,Caiguda interior vehicle,Not_Specified
+312,2018S000297    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+313,2018S000298    ,Abast,Not_Specified
+314,2018S000299    ,Col.lisiÃ³ lateral,Not_Specified
+315,2018S000300    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+316,2018S000301    ,Atropellament,Not_Specified
+317,2018S000302    ,Caiguda (dues rodes),Not_Specified
+318,2018S000303    ,Atropellament,Not_Specified
+319,2018S000304    ,Abast,Not_Specified
+320,2018S000305    ,Col.lisiÃ³ lateral,Not_Specified
+321,2018S000306    ,Xoc contra element estÃ tic,Not_Specified
+322,2018S000307    ,Abast,Not_Specified
+323,2018S000308    ,Abast,Not_Specified
+324,2018S000309    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+325,2018S000310    ,Abast,Not_Specified
+326,2018S000311    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+327,2018S000312    ,Col.lisiÃ³ lateral,Not_Specified
+328,2018S000313    ,Xoc contra element estÃ tic,Not_Specified
+329,2018S000314    ,Abast,No hi ha causa mediata
+330,2018S000315    ,Caiguda (dues rodes),Not_Specified
+331,2018S000315    ,Xoc contra element estÃ tic,Not_Specified
+332,2018S000316    ,Col.lisiÃ³ lateral,Not_Specified
+333,2018S000317    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+334,2018S000318    ,Xoc contra element estÃ tic,Not_Specified
+335,2018S000318    ,Caiguda (dues rodes),Not_Specified
+336,2018S000319    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+337,2018S000320    ,Abast,Not_Specified
+338,2018S000321    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+339,2018S000322    ,Abast,Not_Specified
+340,2018S000323    ,Col.lisiÃ³ lateral,Not_Specified
+341,2018S000324    ,Col.lisiÃ³ lateral,Not_Specified
+342,2018S000325    ,Xoc contra element estÃ tic,Not_Specified
+343,2018S000326    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+344,2018S000327    ,Xoc contra element estÃ tic,Not_Specified
+345,2018S000328    ,Abast multiple,Not_Specified
+346,2018S000329    ,Abast,Not_Specified
+347,2018S000330    ,Atropellament,Not_Specified
+348,2018S000331    ,Atropellament,No hi ha causa mediata
+349,2018S000332    ,Atropellament,Not_Specified
+350,2018S000333    ,Caiguda interior vehicle,Not_Specified
+351,2018S000334    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+352,2018S000335    ,Caiguda interior vehicle,Not_Specified
+353,2018S000336    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+354,2018S000337    ,Caiguda (dues rodes),Not_Specified
+355,2018S000338    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+356,2018S000339    ,Col.lisiÃ³ frontal,No hi ha causa mediata
+357,2018S000340    ,Caiguda interior vehicle,Not_Specified
+358,2018S000341    ,Caiguda (dues rodes),Not_Specified
+359,2018S000342    ,Caiguda (dues rodes),Not_Specified
+360,2018S000343    ,Xoc contra element estÃ tic,Not_Specified
+361,2018S000344    ,Abast,AlcoholÃ¨mia
+362,2018S000345    ,Abast,Not_Specified
+363,2018S000346    ,Abast,Not_Specified
+364,2018S000347    ,Xoc contra element estÃ tic,Not_Specified
+365,2018S000349    ,Abast multiple,Not_Specified
+366,2018S000350    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+367,2018S000351    ,Abast,Not_Specified
+368,2018S000352    ,Altres,Not_Specified
+369,2018S000353    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+370,2018S000354    ,Col.lisiÃ³ lateral,Not_Specified
+371,2018S000355    ,Abast,Not_Specified
+372,2018S000356    ,Col.lisiÃ³ lateral,Not_Specified
+373,2018S000357    ,Abast,Not_Specified
+374,2018S000358    ,Col.lisiÃ³ lateral,Not_Specified
+375,2018S000359    ,Caiguda interior vehicle,Not_Specified
+376,2018S000360    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+377,2018S000360    ,Xoc contra element estÃ tic,No hi ha causa mediata
+378,2018S000361    ,Caiguda (dues rodes),Not_Specified
+379,2018S000362    ,Abast,Not_Specified
+380,2018S000363    ,Col.lisiÃ³ lateral,Not_Specified
+381,2018S000364    ,Abast,Not_Specified
+382,2018S000364    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+383,2018S000365    ,Col.lisiÃ³ lateral,Not_Specified
+384,2018S000366    ,Abast multiple,Not_Specified
+385,2018S000367    ,Atropellament,Not_Specified
+386,2018S000368    ,Col.lisiÃ³ lateral,Not_Specified
+387,2018S000369    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+388,2018S000370    ,Col.lisiÃ³ lateral,Not_Specified
+389,2018S000371    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+390,2018S000372    ,Abast,Not_Specified
+391,2018S000373    ,Atropellament,Not_Specified
+392,2018S000374    ,Col.lisiÃ³ lateral,Not_Specified
+393,2018S000375    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+394,2018S000376    ,Caiguda (dues rodes),Not_Specified
+395,2018S000377    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+396,2018S000378    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+397,2018S000379    ,Col.lisiÃ³ lateral,Not_Specified
+398,2018S000380    ,Atropellament,Not_Specified
+399,2018S000381    ,Atropellament,Not_Specified
+400,2018S000382    ,Abast,Not_Specified
+401,2018S000383    ,Caiguda interior vehicle,Not_Specified
+402,2018S000384    ,Col.lisiÃ³ lateral,Not_Specified
+403,2018S000385    ,Atropellament,Not_Specified
+404,2018S000386    ,Atropellament,Not_Specified
+405,2018S000387    ,Col.lisiÃ³ lateral,Not_Specified
+406,2018S000388    ,Col.lisiÃ³ lateral,Not_Specified
+407,2018S000389    ,Col.lisiÃ³ lateral,Not_Specified
+408,2018S000390    ,Caiguda interior vehicle,Not_Specified
+409,2018S000391    ,Caiguda (dues rodes),Not_Specified
+410,2018S000392    ,Col.lisiÃ³ lateral,Not_Specified
+411,2018S000393    ,Xoc contra element estÃ tic,Not_Specified
+412,2018S000393    ,Col.lisiÃ³ lateral,Not_Specified
+413,2018S000394    ,Abast,Not_Specified
+414,2018S000395    ,Atropellament,No hi ha causa mediata
+415,2018S000396    ,Col.lisiÃ³ lateral,Not_Specified
+416,2018S000397    ,Caiguda (dues rodes),Not_Specified
+417,2018S000398    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+418,2018S000399    ,Abast,Not_Specified
+419,2018S000400    ,Abast,Not_Specified
+420,2018S000401    ,Atropellament,Not_Specified
+421,2018S000402    ,Abast,Not_Specified
+422,2018S000403    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+423,2018S000404    ,Abast,Not_Specified
+424,2018S000405    ,Atropellament,Not_Specified
+425,2018S000406    ,Col.lisiÃ³ lateral,Not_Specified
+426,2018S000407    ,Col.lisiÃ³ lateral,Not_Specified
+427,2018S000408    ,Abast,Not_Specified
+428,2018S000409    ,Col.lisiÃ³ lateral,Not_Specified
+429,2018S000410    ,Col.lisiÃ³ lateral,Not_Specified
+430,2018S000411    ,Atropellament,Not_Specified
+431,2018S000412    ,Atropellament,Not_Specified
+432,2018S000413    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+433,2018S000414    ,Caiguda (dues rodes),Not_Specified
+434,2018S000414    ,Abast,Not_Specified
+435,2018S000415    ,Xoc amb animal a la calÃ§ada,No hi ha causa mediata
+436,2018S000416    ,Caiguda (dues rodes),No hi ha causa mediata
+437,2018S000417    ,Atropellament,Not_Specified
+438,2018S000418    ,Abast multiple,Not_Specified
+439,2018S000419    ,Caiguda (dues rodes),Not_Specified
+440,2018S000420    ,Caiguda (dues rodes),Not_Specified
+441,2018S000421    ,Abast,Not_Specified
+442,2018S000422    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+443,2018S000423    ,Xoc contra element estÃ tic,Not_Specified
+444,2018S000424    ,Abast,Not_Specified
+445,2018S000425    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+446,2018S000426    ,Abast,Not_Specified
+447,2018S000427    ,Caiguda (dues rodes),Not_Specified
+448,2018S000427    ,Abast,Not_Specified
+449,2018S000428    ,Col.lisiÃ³ lateral,Not_Specified
+450,2018S000429    ,Atropellament,Not_Specified
+451,2018S000430    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+452,2018S000430    ,Abast,No hi ha causa mediata
+453,2018S000431    ,Col.lisiÃ³ lateral,Not_Specified
+454,2018S000432    ,Xoc contra element estÃ tic,No hi ha causa mediata
+455,2018S000433    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+456,2018S000434    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+457,2018S000435    ,Atropellament,Not_Specified
+458,2018S000436    ,Col.lisiÃ³ lateral,Not_Specified
+459,2018S000437    ,Xoc contra element estÃ tic,Not_Specified
+460,2018S000437    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+461,2018S000437    ,Atropellament,Not_Specified
+462,2018S000438    ,Xoc contra element estÃ tic,Not_Specified
+463,2018S000439    ,Abast,Not_Specified
+464,2018S000440    ,Altres,Not_Specified
+465,2018S000441    ,Abast,Not_Specified
+466,2018S000442    ,Col.lisiÃ³ lateral,Not_Specified
+467,2018S000443    ,Caiguda (dues rodes),Not_Specified
+468,2018S000443    ,Atropellament,Not_Specified
+469,2018S000444    ,Col.lisiÃ³ lateral,Not_Specified
+470,2018S000445    ,Atropellament,Not_Specified
+471,2018S000446    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+472,2018S000446    ,Abast,Not_Specified
+473,2018S000447    ,Abast multiple,Not_Specified
+474,2018S000448    ,Abast,Not_Specified
+475,2018S000448    ,Col.lisiÃ³ lateral,Not_Specified
+476,2018S000449    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+477,2018S000450    ,Col.lisiÃ³ lateral,Not_Specified
+478,2018S000451    ,Col.lisiÃ³ lateral,Not_Specified
+479,2018S000452    ,Xoc contra element estÃ tic,Not_Specified
+480,2018S000453    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+481,2018S000454    ,Abast,No hi ha causa mediata
+482,2018S000455    ,Abast multiple,No hi ha causa mediata
+483,2018S000456    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+484,2018S000457    ,Col.lisiÃ³ lateral,Not_Specified
+485,2018S000458    ,Caiguda (dues rodes),Not_Specified
+486,2018S000459    ,Abast,Not_Specified
+487,2018S000460    ,Atropellament,Not_Specified
+488,2018S000462    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+489,2018S000463    ,Atropellament,Not_Specified
+490,2018S000464    ,Col.lisiÃ³ frontal,Not_Specified
+491,2018S000464    ,Caiguda (dues rodes),Not_Specified
+492,2018S000465    ,Col.lisiÃ³ lateral,Not_Specified
+493,2018S000466    ,Col.lisiÃ³ lateral,Not_Specified
+494,2018S000467    ,Caiguda interior vehicle,Not_Specified
+495,2018S000468    ,Abast,Not_Specified
+496,2018S000469    ,Atropellament,No hi ha causa mediata
+497,2018S000470    ,Col.lisiÃ³ lateral,Not_Specified
+498,2018S000471    ,Abast,Not_Specified
+499,2018S000472    ,Abast,Not_Specified
+500,2018S000473    ,Col.lisiÃ³ lateral,Not_Specified
+501,2018S000474    ,Xoc contra element estÃ tic,Not_Specified
+502,2018S000475    ,Abast,Not_Specified
+503,2018S000476    ,Col.lisiÃ³ lateral,Not_Specified
+504,2018S000477    ,Abast multiple,No hi ha causa mediata
+505,2018S000478    ,Abast,Not_Specified
+506,2018S000479    ,Col.lisiÃ³ lateral,Not_Specified
+507,2018S000480    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+508,2018S000481    ,Abast,Not_Specified
+509,2018S000482    ,Abast,Not_Specified
+510,2018S000483    ,Xoc contra element estÃ tic,Not_Specified
+511,2018S000484    ,Col.lisiÃ³ lateral,Not_Specified
+512,2018S000485    ,Col.lisiÃ³ lateral,Not_Specified
+513,2018S000486    ,Col.lisiÃ³ lateral,Not_Specified
+514,2018S000487    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+515,2018S000488    ,Abast,Not_Specified
+516,2018S000489    ,Col.lisiÃ³ lateral,Not_Specified
+517,2018S000490    ,Abast,Not_Specified
+518,2018S000491    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+519,2018S000492    ,Col.lisiÃ³ lateral,Not_Specified
+520,2018S000493    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+521,2018S000494    ,Col.lisiÃ³ lateral,Not_Specified
+522,2018S000495    ,Col.lisiÃ³ lateral,Not_Specified
+523,2018S000495    ,Caiguda (dues rodes),Not_Specified
+524,2018S000496    ,Col.lisiÃ³ frontal,Not_Specified
+525,2018S000497    ,Abast,Not_Specified
+526,2018S000498    ,Abast,No hi ha causa mediata
+527,2018S000499    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+528,2018S000500    ,Caiguda (dues rodes),Not_Specified
+529,2018S000501    ,Col.lisiÃ³ lateral,Not_Specified
+530,2018S000502    ,Altres,Not_Specified
+531,2018S000503    ,Abast,Not_Specified
+532,2018S000504    ,Col.lisiÃ³ lateral,Not_Specified
+533,2018S000505    ,Abast,No hi ha causa mediata
+534,2018S000506    ,Col.lisiÃ³ lateral,Not_Specified
+535,2018S000507    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+536,2018S000508    ,Atropellament,Not_Specified
+537,2018S000509    ,Col.lisiÃ³ lateral,Not_Specified
+538,2018S000510    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+539,2018S000511    ,Col.lisiÃ³ lateral,Not_Specified
+540,2018S000512    ,Caiguda (dues rodes),Not_Specified
+541,2018S000512    ,Col.lisiÃ³ frontal,Not_Specified
+542,2018S000513    ,Col.lisiÃ³ lateral,Not_Specified
+543,2018S000514    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+544,2018S000515    ,Xoc contra element estÃ tic,Not_Specified
+545,2018S000516    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+546,2018S000517    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+547,2018S000518    ,Xoc contra element estÃ tic,Not_Specified
+548,2018S000519    ,Col.lisiÃ³ lateral,Not_Specified
+549,2018S000520    ,Xoc contra element estÃ tic,Not_Specified
+550,2018S000521    ,Caiguda (dues rodes),Not_Specified
+551,2018S000522    ,Atropellament,No hi ha causa mediata
+552,2018S000523    ,Atropellament,Not_Specified
+553,2018S000523    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+554,2018S000524    ,Caiguda (dues rodes),Not_Specified
+555,2018S000524    ,Abast,Not_Specified
+556,2018S000525    ,Abast multiple,Not_Specified
+557,2018S000527    ,Abast,Not_Specified
+558,2018S000528    ,Abast,Not_Specified
+559,2018S000529    ,Atropellament,Not_Specified
+560,2018S000529    ,Altres,Not_Specified
+561,2018S000530    ,Altres,Not_Specified
+562,2018S000531    ,Xoc contra element estÃ tic,Not_Specified
+563,2018S000532    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+564,2018S000533    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+565,2018S000534    ,Caiguda (dues rodes),Not_Specified
+566,2018S000534    ,Col.lisiÃ³ lateral,Not_Specified
+567,2018S000535    ,Col.lisiÃ³ lateral,Not_Specified
+568,2018S000536    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+569,2018S000537    ,Caiguda interior vehicle,Not_Specified
+570,2018S000538    ,Xoc contra element estÃ tic,No hi ha causa mediata
+571,2018S000539    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+572,2018S000540    ,Xoc contra element estÃ tic,Not_Specified
+573,2018S000541    ,Abast,Not_Specified
+574,2018S000542    ,Xoc contra element estÃ tic,Not_Specified
+575,2018S000543    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+576,2018S000544    ,Abast,Not_Specified
+577,2018S000545    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+578,2018S000546    ,Col.lisiÃ³ lateral,Not_Specified
+579,2018S000547    ,Caiguda interior vehicle,Not_Specified
+580,2018S000548    ,Col.lisiÃ³ frontal,Not_Specified
+581,2018S000549    ,Abast,Not_Specified
+582,2018S000550    ,Altres,Not_Specified
+583,2018S000551    ,Abast multiple,Not_Specified
+584,2018S000552    ,Atropellament,Not_Specified
+585,2018S000553    ,Caiguda interior vehicle,Not_Specified
+586,2018S000554    ,Abast,Not_Specified
+587,2018S000555    ,Xoc contra element estÃ tic,Not_Specified
+588,2018S000556    ,Col.lisiÃ³ lateral,Not_Specified
+589,2018S000557    ,Col.lisiÃ³ lateral,Not_Specified
+590,2018S000558    ,Col.lisiÃ³ frontal,Not_Specified
+591,2018S000559    ,Col.lisiÃ³ lateral,Not_Specified
+592,2018S000559    ,Caiguda (dues rodes),Not_Specified
+593,2018S000560    ,Xoc contra element estÃ tic,Not_Specified
+594,2018S000560    ,Col.lisiÃ³ lateral,Not_Specified
+595,2018S000561    ,Abast,No hi ha causa mediata
+596,2018S000562    ,Atropellament,Not_Specified
+597,2018S000563    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+598,2018S000564    ,Abast,No hi ha causa mediata
+599,2018S000565    ,Abast multiple,Not_Specified
+600,2018S000566    ,Col.lisiÃ³ lateral,Not_Specified
+601,2018S000567    ,Col.lisiÃ³ lateral,Not_Specified
+602,2018S000568    ,Abast,Not_Specified
+603,2018S000569    ,Col.lisiÃ³ lateral,Not_Specified
+604,2018S000570    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+605,2018S000571    ,Caiguda (dues rodes),Not_Specified
+606,2018S000572    ,Atropellament,Not_Specified
+607,2018S000573    ,Col.lisiÃ³ lateral,Not_Specified
+608,2018S000573    ,Abast,Not_Specified
+609,2018S000575    ,Altres,Not_Specified
+610,2018S000576    ,Atropellament,Not_Specified
+611,2018S000577    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+612,2018S000578    ,Atropellament,Not_Specified
+613,2018S000579    ,Abast,Not_Specified
+614,2018S000580    ,Col.lisiÃ³ lateral,Not_Specified
+615,2018S000581    ,Abast,Not_Specified
+616,2018S000582    ,Abast,Not_Specified
+617,2018S000583    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+618,2018S000584    ,Col.lisiÃ³ lateral,Not_Specified
+619,2018S000585    ,Col.lisiÃ³ lateral,Not_Specified
+620,2018S000586    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+621,2018S000587    ,Atropellament,Not_Specified
+622,2018S000588    ,Abast,Not_Specified
+623,2018S000589    ,Abast,Not_Specified
+624,2018S000590    ,Col.lisiÃ³ lateral,Not_Specified
+625,2018S000591    ,Col.lisiÃ³ lateral,Not_Specified
+626,2018S000592    ,Col.lisiÃ³ lateral,Not_Specified
+627,2018S000593    ,Atropellament,Not_Specified
+628,2018S000594    ,Caiguda (dues rodes),Not_Specified
+629,2018S000595    ,Col.lisiÃ³ lateral,Not_Specified
+630,2018S000596    ,Abast,Not_Specified
+631,2018S000597    ,Atropellament,Not_Specified
+632,2018S000598    ,Xoc contra element estÃ tic,Not_Specified
+633,2018S000599    ,Col.lisiÃ³ fronto-lateral,AlcoholÃ¨mia
+634,2018S000600    ,Xoc contra element estÃ tic,Not_Specified
+635,2018S000601    ,Col.lisiÃ³ lateral,Not_Specified
+636,2018S000602    ,Col.lisiÃ³ lateral,Not_Specified
+637,2018S000603    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+638,2018S000604    ,Abast,Not_Specified
+639,2018S000605    ,Atropellament,Not_Specified
+640,2018S000606    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+641,2018S000607    ,Atropellament,Not_Specified
+642,2018S000607    ,Col.lisiÃ³ lateral,Not_Specified
+643,2018S000608    ,Col.lisiÃ³ lateral,Not_Specified
+644,2018S000609    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+645,2018S000610    ,Caiguda interior vehicle,No hi ha causa mediata
+646,2018S000611    ,Abast,No hi ha causa mediata
+647,2018S000612    ,Abast,Not_Specified
+648,2018S000613    ,Caiguda (dues rodes),Not_Specified
+649,2018S000614    ,Abast,Not_Specified
+650,2018S000615    ,Col.lisiÃ³ lateral,Not_Specified
+651,2018S000616    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+652,2018S000617    ,Atropellament,Not_Specified
+653,2018S000618    ,Abast multiple,Not_Specified
+654,2018S000619    ,Caiguda (dues rodes),Not_Specified
+655,2018S000620    ,Abast,Not_Specified
+656,2018S000621    ,Abast,Not_Specified
+657,2018S000622    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+658,2018S000623    ,Col.lisiÃ³ frontal,Not_Specified
+659,2018S000624    ,Caiguda (dues rodes),Not_Specified
+660,2018S000625    ,Col.lisiÃ³ lateral,Not_Specified
+661,2018S000626    ,Abast,Not_Specified
+662,2018S000626    ,Caiguda (dues rodes),Not_Specified
+663,2018S000627    ,Col.lisiÃ³ frontal,Not_Specified
+664,2018S000628    ,Atropellament,Not_Specified
+665,2018S000629    ,Col.lisiÃ³ lateral,Not_Specified
+666,2018S000630    ,Caiguda (dues rodes),Not_Specified
+667,2018S000631    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+668,2018S000632    ,Col.lisiÃ³ lateral,Not_Specified
+669,2018S000633    ,Col.lisiÃ³ lateral,Not_Specified
+670,2018S000634    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+671,2018S000635    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+672,2018S000636    ,Abast,Not_Specified
+673,2018S000636    ,Caiguda (dues rodes),Not_Specified
+674,2018S000637    ,Atropellament,Not_Specified
+675,2018S000638    ,Caiguda (dues rodes),Not_Specified
+676,2018S000639    ,Altres,Not_Specified
+677,2018S000640    ,Xoc contra element estÃ tic,Not_Specified
+678,2018S000640    ,Abast,Not_Specified
+679,2018S000641    ,Abast,No hi ha causa mediata
+680,2018S000642    ,Abast,Not_Specified
+681,2018S000643    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+682,2018S000644    ,Col.lisiÃ³ lateral,Not_Specified
+683,2018S000645    ,Col.lisiÃ³ lateral,Not_Specified
+684,2018S000646    ,Abast,Not_Specified
+685,2018S000647    ,Abast,Not_Specified
+686,2018S000648    ,Abast,Not_Specified
+687,2018S000648    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+688,2018S000649    ,Abast,Not_Specified
+689,2018S000650    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+690,2018S000651    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+691,2018S000652    ,Caiguda (dues rodes),Not_Specified
+692,2018S000653    ,Caiguda (dues rodes),Not_Specified
+693,2018S000654    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+694,2018S000654    ,Caiguda (dues rodes),Not_Specified
+695,2018S000655    ,Col.lisiÃ³ lateral,Not_Specified
+696,2018S000656    ,Xoc contra element estÃ tic,Not_Specified
+697,2018S000657    ,Col.lisiÃ³ lateral,Not_Specified
+698,2018S000658    ,Col.lisiÃ³ lateral,Not_Specified
+699,2018S000659    ,Col.lisiÃ³ lateral,Not_Specified
+700,2018S000660    ,Caiguda interior vehicle,Not_Specified
+701,2018S000661    ,Abast,Not_Specified
+702,2018S000662    ,Col.lisiÃ³ lateral,Not_Specified
+703,2018S000663    ,Col.lisiÃ³ lateral,Not_Specified
+704,2018S000664    ,Col.lisiÃ³ lateral,Not_Specified
+705,2018S000665    ,Abast,Not_Specified
+706,2018S000666    ,Caiguda (dues rodes),Not_Specified
+707,2018S000667    ,Col.lisiÃ³ lateral,Not_Specified
+708,2018S000668    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+709,2018S000669    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+710,2018S000670    ,Caiguda (dues rodes),No hi ha causa mediata
+711,2018S000671    ,Col.lisiÃ³ lateral,Not_Specified
+712,2018S000672    ,Col.lisiÃ³ lateral,Not_Specified
+713,2018S000673    ,Atropellament,Not_Specified
+714,2018S000674    ,Col.lisiÃ³ lateral,Not_Specified
+715,2018S000675    ,Atropellament,Not_Specified
+716,2018S000676    ,Abast,Not_Specified
+717,2018S000677    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+718,2018S000678    ,Abast,Not_Specified
+719,2018S000679    ,Atropellament,Not_Specified
+720,2018S000680    ,Abast,Not_Specified
+721,2018S000681    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+722,2018S000682    ,Atropellament,Not_Specified
+723,2018S000683    ,Abast,Not_Specified
+724,2018S000684    ,Atropellament,Not_Specified
+725,2018S000686    ,Altres,Not_Specified
+726,2018S000687    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+727,2018S000688    ,Abast,Not_Specified
+728,2018S000689    ,Atropellament,Not_Specified
+729,2018S000690    ,Atropellament,Not_Specified
+730,2018S000691    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+731,2018S000692    ,Xoc contra element estÃ tic,Not_Specified
+732,2018S000693    ,Abast,Not_Specified
+733,2018S000694    ,Caiguda interior vehicle,No hi ha causa mediata
+734,2018S000695    ,Xoc contra element estÃ tic,Not_Specified
+735,2018S000696    ,Col.lisiÃ³ lateral,Not_Specified
+736,2018S000696    ,Abast,Not_Specified
+737,2018S000697    ,Abast,Not_Specified
+738,2018S000698    ,Abast,Not_Specified
+739,2018S000699    ,Caiguda (dues rodes),No hi ha causa mediata
+740,2018S000700    ,Atropellament,Not_Specified
+741,2018S000701    ,Caiguda (dues rodes),Not_Specified
+742,2018S000702    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+743,2018S000703    ,Abast,Not_Specified
+744,2018S000704    ,Abast,Not_Specified
+745,2018S000705    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+746,2018S000706    ,Abast multiple,Not_Specified
+747,2018S000707    ,Xoc contra element estÃ tic,Not_Specified
+748,2018S000708    ,Col.lisiÃ³ lateral,Not_Specified
+749,2018S000709    ,Atropellament,Not_Specified
+750,2018S000710    ,Bolcada (mÃ©s de dues rodes),Not_Specified
+751,2018S000711    ,Caiguda (dues rodes),Not_Specified
+752,2018S000712    ,Col.lisiÃ³ lateral,Not_Specified
+753,2018S000713    ,Xoc contra element estÃ tic,Not_Specified
+754,2018S000714    ,Abast,Not_Specified
+755,2018S000715    ,Abast,Not_Specified
+756,2018S000716    ,Atropellament,Not_Specified
+757,2018S000717    ,Col.lisiÃ³ lateral,Not_Specified
+758,2018S000718    ,Abast multiple,Not_Specified
+759,2018S000719    ,Col.lisiÃ³ lateral,Not_Specified
+760,2018S000720    ,Col.lisiÃ³ frontal,Not_Specified
+761,2018S000721    ,Xoc contra element estÃ tic,Not_Specified
+762,2018S000722    ,Col.lisiÃ³ lateral,Not_Specified
+763,2018S000723    ,Col.lisiÃ³ lateral,Not_Specified
+764,2018S000724    ,Caiguda (dues rodes),Not_Specified
+765,2018S000725    ,Xoc contra element estÃ tic,AlcoholÃ¨mia
+766,2018S000726    ,Col.lisiÃ³ frontal,AlcoholÃ¨mia
+767,2018S000727    ,Atropellament,Not_Specified
+768,2018S000728    ,Xoc contra element estÃ tic,Not_Specified
+769,2018S000729    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+770,2018S000730    ,Xoc contra element estÃ tic,No hi ha causa mediata
+771,2018S000731    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+772,2018S000732    ,Abast,Not_Specified
+773,2018S000733    ,Xoc contra element estÃ tic,Not_Specified
+774,2018S000734    ,Caiguda interior vehicle,Not_Specified
+775,2018S000735    ,Abast,Not_Specified
+776,2018S000736    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+777,2018S000737    ,Col.lisiÃ³ lateral,Not_Specified
+778,2018S000738    ,Abast,Not_Specified
+779,2018S000739    ,Col.lisiÃ³ lateral,Not_Specified
+780,2018S000740    ,Atropellament,Not_Specified
+781,2018S000741    ,Abast,Not_Specified
+782,2018S000742    ,Caiguda interior vehicle,Not_Specified
+783,2018S000743    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+784,2018S000744    ,Abast,Not_Specified
+785,2018S000745    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+786,2018S000746    ,Col.lisiÃ³ lateral,Not_Specified
+787,2018S000747    ,Atropellament,Not_Specified
+788,2018S000748    ,Col.lisiÃ³ lateral,Not_Specified
+789,2018S000749    ,Bolcada (mÃ©s de dues rodes),Not_Specified
+790,2018S000749    ,Xoc contra element estÃ tic,Not_Specified
+791,2018S000750    ,Atropellament,Not_Specified
+792,2018S000751    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+793,2018S000752    ,Col.lisiÃ³ lateral,Not_Specified
+794,2018S000753    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+795,2018S000754    ,Col.lisiÃ³ lateral,Not_Specified
+796,2018S000755    ,Abast,Not_Specified
+797,2018S000756    ,Col.lisiÃ³ lateral,Not_Specified
+798,2018S000757    ,Col.lisiÃ³ lateral,Not_Specified
+799,2018S000758    ,Col.lisiÃ³ lateral,Not_Specified
+800,2018S000759    ,Altres,Not_Specified
+801,2018S000760    ,Abast multiple,No hi ha causa mediata
+802,2018S000761    ,Xoc contra element estÃ tic,Not_Specified
+803,2018S000761    ,Col.lisiÃ³ frontal,Not_Specified
+804,2018S000762    ,Abast,No hi ha causa mediata
+805,2018S000763    ,Abast,Not_Specified
+806,2018S000764    ,Col.lisiÃ³ lateral,Not_Specified
+807,2018S000765    ,Atropellament,Not_Specified
+808,2018S000766    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+809,2018S000767    ,Abast,Not_Specified
+810,2018S000768    ,Col.lisiÃ³ lateral,Not_Specified
+811,2018S000769    ,Abast,Not_Specified
+812,2018S000770    ,Abast multiple,Not_Specified
+813,2018S000771    ,Col.lisiÃ³ lateral,Not_Specified
+814,2018S000772    ,Col.lisiÃ³ lateral,Not_Specified
+815,2018S000773    ,Atropellament,Not_Specified
+816,2018S000774    ,Atropellament,Not_Specified
+817,2018S000775    ,Caiguda interior vehicle,Not_Specified
+818,2018S000776    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+819,2018S000777    ,Caiguda interior vehicle,No hi ha causa mediata
+820,2018S000778    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+821,2018S000779    ,Caiguda (dues rodes),Not_Specified
+822,2018S000780    ,Xoc contra element estÃ tic,No hi ha causa mediata
+823,2018S000781    ,Caiguda interior vehicle,Not_Specified
+824,2018S000782    ,Caiguda interior vehicle,Not_Specified
+825,2018S000783    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+826,2018S000784    ,Abast,No hi ha causa mediata
+827,2018S000785    ,Abast,No hi ha causa mediata
+828,2018S000786    ,Col.lisiÃ³ lateral,Not_Specified
+829,2018S000787    ,Abast,No hi ha causa mediata
+830,2018S000788    ,Abast,Not_Specified
+831,2018S000789    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+832,2018S000790    ,Atropellament,Not_Specified
+833,2018S000791    ,Xoc contra element estÃ tic,Not_Specified
+834,2018S000792    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+835,2018S000793    ,Altres,No hi ha causa mediata
+836,2018S000794    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+837,2018S000795    ,Caiguda (dues rodes),Not_Specified
+838,2018S000796    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+839,2018S000797    ,Caiguda (dues rodes),Not_Specified
+840,2018S000797    ,Sortida de via amb xoc o col.lisiÃ³,Not_Specified
+841,2018S000798    ,Atropellament,Not_Specified
+842,2018S000799    ,Col.lisiÃ³ lateral,Not_Specified
+843,2018S000800    ,Caiguda (dues rodes),No hi ha causa mediata
+844,2018S000801    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+845,2018S000802    ,Abast,Not_Specified
+846,2018S000803    ,Abast,No hi ha causa mediata
+847,2018S000804    ,Abast multiple,No hi ha causa mediata
+848,2018S000805    ,Abast,Not_Specified
+849,2018S000806    ,Col.lisiÃ³ lateral,Not_Specified
+850,2018S000807    ,Abast,Not_Specified
+851,2018S000808    ,Atropellament,Not_Specified
+852,2018S000808    ,Col.lisiÃ³ lateral,Not_Specified
+853,2018S000808    ,Altres,Not_Specified
+854,2018S000809    ,Atropellament,Not_Specified
+855,2018S000810    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+856,2018S000811    ,Abast,Not_Specified
+857,2018S000812    ,Atropellament,Not_Specified
+858,2018S000813    ,Col.lisiÃ³ lateral,Not_Specified
+859,2018S000814    ,Xoc contra element estÃ tic,Not_Specified
+860,2018S000815    ,Col.lisiÃ³ lateral,Not_Specified
+861,2018S000815    ,Xoc contra element estÃ tic,Not_Specified
+862,2018S000816    ,Col.lisiÃ³ lateral,Not_Specified
+863,2018S000817    ,Col.lisiÃ³ lateral,Not_Specified
+864,2018S000818    ,Caiguda (dues rodes),Not_Specified
+865,2018S000819    ,EncalÃ§,Not_Specified
+866,2018S000819    ,Abast,Not_Specified
+867,2018S000820    ,Xoc contra element estÃ tic,No hi ha causa mediata
+868,2018S000821    ,Atropellament,Not_Specified
+869,2018S000822    ,Col.lisiÃ³ lateral,Not_Specified
+870,2018S000823    ,Atropellament,Not_Specified
+871,2018S000824    ,Caiguda (dues rodes),Not_Specified
+872,2018S000825    ,Caiguda (dues rodes),Not_Specified
+873,2018S000826    ,Atropellament,Not_Specified
+874,2018S000827    ,Col.lisiÃ³ frontal,Not_Specified
+875,2018S000828    ,Altres,Not_Specified
+876,2018S000829    ,Col.lisiÃ³ lateral,Not_Specified
+877,2018S000830    ,Atropellament,Not_Specified
+878,2018S000831    ,Caiguda (dues rodes),Not_Specified
+879,2018S000832    ,Abast,Not_Specified
+880,2018S000833    ,Atropellament,Not_Specified
+881,2018S000834    ,Col.lisiÃ³ lateral,Not_Specified
+882,2018S000834    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+883,2018S000835    ,Col.lisiÃ³ lateral,Not_Specified
+884,2018S000836    ,Caiguda (dues rodes),Not_Specified
+885,2018S000837    ,Abast,Not_Specified
+886,2018S000838    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+887,2018S000839    ,Abast multiple,No hi ha causa mediata
+888,2018S000840    ,Caiguda interior vehicle,Not_Specified
+889,2018S000841    ,Col.lisiÃ³ lateral,Not_Specified
+890,2018S000842    ,Col.lisiÃ³ lateral,Not_Specified
+891,2018S000843    ,Caiguda (dues rodes),Not_Specified
+892,2018S000844    ,Abast,Not_Specified
+893,2018S000845    ,Col.lisiÃ³ lateral,Not_Specified
+894,2018S000846    ,Abast,Not_Specified
+895,2018S000847    ,Caiguda interior vehicle,Not_Specified
+896,2018S000848    ,Abast,Not_Specified
+897,2018S000849    ,Caiguda interior vehicle,Not_Specified
+898,2018S000850    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+899,2018S000851    ,Caiguda (dues rodes),Not_Specified
+900,2018S000852    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+901,2018S000853    ,Abast,No hi ha causa mediata
+902,2018S000854    ,Caiguda interior vehicle,Not_Specified
+903,2018S000855    ,Abast,No hi ha causa mediata
+904,2018S000855    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+905,2018S000856    ,Caiguda interior vehicle,Not_Specified
+906,2018S000857    ,Abast,Not_Specified
+907,2018S000858    ,Caiguda (dues rodes),Not_Specified
+908,2018S000859    ,Abast multiple,Not_Specified
+909,2018S000860    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+910,2018S000861    ,Col.lisiÃ³ lateral,Not_Specified
+911,2018S000862    ,Abast,No hi ha causa mediata
+912,2018S000863    ,Atropellament,Not_Specified
+913,2018S000863    ,Altres,Not_Specified
+914,2018S000864    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+915,2018S000865    ,Atropellament,Not_Specified
+916,2018S000866    ,Abast multiple,Not_Specified
+917,2018S000867    ,Xoc contra element estÃ tic,Not_Specified
+918,2018S000868    ,Atropellament,Not_Specified
+919,2018S000869    ,EncalÃ§,Not_Specified
+920,2018S000870    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+921,2018S000871    ,Caiguda (dues rodes),Not_Specified
+922,2018S000872    ,Atropellament,Not_Specified
+923,2018S000873    ,Abast multiple,Not_Specified
+924,2018S000874    ,Abast,Not_Specified
+925,2018S000874    ,Caiguda (dues rodes),Not_Specified
+926,2018S000875    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+927,2018S000876    ,Abast,Not_Specified
+928,2018S000877    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+929,2018S000878    ,Abast multiple,Not_Specified
+930,2018S000879    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+931,2018S000880    ,Abast,Not_Specified
+932,2018S000881    ,Abast,Not_Specified
+933,2018S000882    ,Abast multiple,Not_Specified
+934,2018S000883    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+935,2018S000884    ,Abast,Not_Specified
+936,2018S000885    ,Col.lisiÃ³ lateral,Not_Specified
+937,2018S000886    ,Atropellament,Not_Specified
+938,2018S000887    ,Abast,Not_Specified
+939,2018S000887    ,Caiguda (dues rodes),Not_Specified
+940,2018S000888    ,Col.lisiÃ³ lateral,Not_Specified
+941,2018S000890    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+942,2018S000891    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+943,2018S000892    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+944,2018S000893    ,Caiguda (dues rodes),Not_Specified
+945,2018S000893    ,Abast,Not_Specified
+946,2018S000895    ,Abast,Not_Specified
+947,2018S000896    ,Col.lisiÃ³ lateral,Not_Specified
+948,2018S000897    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+949,2018S000898    ,Col.lisiÃ³ lateral,Not_Specified
+950,2018S000898    ,Abast,Not_Specified
+951,2018S000899    ,Atropellament,Not_Specified
+952,2018S000900    ,Col.lisiÃ³ lateral,Not_Specified
+953,2018S000901    ,Caiguda interior vehicle,Not_Specified
+954,2018S000902    ,Caiguda (dues rodes),Not_Specified
+955,2018S000903    ,Col.lisiÃ³ lateral,Not_Specified
+956,2018S000904    ,Col.lisiÃ³ lateral,Not_Specified
+957,2018S000905    ,Col.lisiÃ³ lateral,Not_Specified
+958,2018S000905    ,Abast,Not_Specified
+959,2018S000906    ,Xoc contra element estÃ tic,Not_Specified
+960,2018S000907    ,Altres,Not_Specified
+961,2018S000908    ,Col.lisiÃ³ lateral,Not_Specified
+962,2018S000909    ,Abast,Not_Specified
+963,2018S000910    ,Atropellament,Not_Specified
+964,2018S000911    ,Col.lisiÃ³ lateral,Not_Specified
+965,2018S000912    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+966,2018S000913    ,Atropellament,Not_Specified
+967,2018S000914    ,Xoc amb animal a la calÃ§ada,Not_Specified
+968,2018S000914    ,Atropellament,Not_Specified
+969,2018S000915    ,Abast,Not_Specified
+970,2018S000916    ,Altres,Not_Specified
+971,2018S000917    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+972,2018S000918    ,Col.lisiÃ³ lateral,Not_Specified
+973,2018S000919    ,Abast,Not_Specified
+974,2018S000919    ,Caiguda (dues rodes),Not_Specified
+975,2018S000920    ,Abast,Not_Specified
+976,2018S000921    ,Abast,Not_Specified
+977,2018S000922    ,Altres,Not_Specified
+978,2018S000923    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+979,2018S000924    ,Abast,Not_Specified
+980,2018S000925    ,Caiguda interior vehicle,Not_Specified
+981,2018S000926    ,Caiguda (dues rodes),Not_Specified
+982,2018S000927    ,Col.lisiÃ³ lateral,Not_Specified
+983,2018S000928    ,Abast,Not_Specified
+984,2018S000929    ,Col.lisiÃ³ lateral,Not_Specified
+985,2018S000930    ,Abast,Not_Specified
+986,2018S000932    ,Xoc contra element estÃ tic,Not_Specified
+987,2018S000933    ,Xoc contra element estÃ tic,Not_Specified
+988,2018S000933    ,Bolcada (mÃ©s de dues rodes),Not_Specified
+989,2018S000934    ,Xoc contra element estÃ tic,Not_Specified
+990,2018S000935    ,Abast,Not_Specified
+991,2018S000936    ,Caiguda interior vehicle,Not_Specified
+992,2018S000937    ,Abast,No hi ha causa mediata
+993,2018S000938    ,Abast,Not_Specified
+994,2018S000939    ,Col.lisiÃ³ frontal,No hi ha causa mediata
+995,2018S000939    ,Abast,No hi ha causa mediata
+996,2018S000940    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+997,2018S000941    ,Col.lisiÃ³ frontal,AlcoholÃ¨mia
+998,2018S000941    ,Col.lisiÃ³ fronto-lateral,AlcoholÃ¨mia
+999,2018S000942    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1000,2018S000943    ,Atropellament,Not_Specified
+1001,2018S000944    ,Xoc contra element estÃ tic,Not_Specified
+1002,2018S000945    ,Atropellament,Not_Specified
+1003,2018S000946    ,Caiguda (dues rodes),Not_Specified
+1004,2018S000947    ,Abast,Not_Specified
+1005,2018S000948    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1006,2018S000949    ,Xoc contra element estÃ tic,Not_Specified
+1007,2018S000950    ,Abast,Not_Specified
+1008,2018S000951    ,Altres,Not_Specified
+1009,2018S000952    ,Xoc contra element estÃ tic,Not_Specified
+1010,2018S000953    ,Abast,Not_Specified
+1011,2018S000954    ,Col.lisiÃ³ lateral,Not_Specified
+1012,2018S000955    ,Xoc contra element estÃ tic,Not_Specified
+1013,2018S000956    ,Abast multiple,Not_Specified
+1014,2018S000957    ,Atropellament,Not_Specified
+1015,2018S000958    ,Caiguda (dues rodes),Not_Specified
+1016,2018S000959    ,Caiguda (dues rodes),Not_Specified
+1017,2018S000960    ,Abast,Not_Specified
+1018,2018S000961    ,Col.lisiÃ³ lateral,Not_Specified
+1019,2018S000962    ,Caiguda (dues rodes),Not_Specified
+1020,2018S000963    ,Caiguda (dues rodes),No hi ha causa mediata
+1021,2018S000964    ,Abast,Not_Specified
+1022,2018S000965    ,Caiguda (dues rodes),Not_Specified
+1023,2018S000966    ,Col.lisiÃ³ lateral,Not_Specified
+1024,2018S000967    ,Atropellament,Not_Specified
+1025,2018S000968    ,Xoc contra element estÃ tic,Not_Specified
+1026,2018S000969    ,Caiguda (dues rodes),Not_Specified
+1027,2018S000970    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1028,2018S000971    ,Caiguda (dues rodes),Not_Specified
+1029,2018S000972    ,Abast multiple,Not_Specified
+1030,2018S000973    ,Abast,Not_Specified
+1031,2018S000974    ,Atropellament,Not_Specified
+1032,2018S000975    ,Atropellament,Not_Specified
+1033,2018S000976    ,Abast multiple,Not_Specified
+1034,2018S000977    ,Atropellament,Not_Specified
+1035,2018S000978    ,Xoc contra element estÃ tic,Not_Specified
+1036,2018S000979    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1037,2018S000980    ,Xoc contra element estÃ tic,Not_Specified
+1038,2018S000981    ,Col.lisiÃ³ lateral,Not_Specified
+1039,2018S000982    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1040,2018S000983    ,Atropellament,Not_Specified
+1041,2018S000984    ,Abast,Not_Specified
+1042,2018S000985    ,Col.lisiÃ³ lateral,Not_Specified
+1043,2018S000986    ,Abast,Not_Specified
+1044,2018S000987    ,Caiguda interior vehicle,Not_Specified
+1045,2018S000988    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1046,2018S000989    ,Abast,Not_Specified
+1047,2018S000990    ,Abast multiple,Not_Specified
+1048,2018S000991    ,Abast,Not_Specified
+1049,2018S000992    ,Bolcada (mÃ©s de dues rodes),Not_Specified
+1050,2018S000993    ,Abast,Not_Specified
+1051,2018S000994    ,Caiguda (dues rodes),Not_Specified
+1052,2018S000995    ,Col.lisiÃ³ lateral,Not_Specified
+1053,2018S000996    ,Abast,Not_Specified
+1054,2018S000997    ,Caiguda interior vehicle,Not_Specified
+1055,2018S000998    ,Abast,Not_Specified
+1056,2018S000999    ,Caiguda (dues rodes),Not_Specified
+1057,2018S000999    ,Abast,Not_Specified
+1058,2018S001000    ,Col.lisiÃ³ lateral,Not_Specified
+1059,2018S001001    ,Abast,No hi ha causa mediata
+1060,2018S001002    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1061,2018S001003    ,Abast,Not_Specified
+1062,2018S001003    ,Col.lisiÃ³ lateral,Not_Specified
+1063,2018S001004    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1064,2018S001005    ,Caiguda interior vehicle,Not_Specified
+1065,2018S001005    ,Col.lisiÃ³ lateral,Not_Specified
+1066,2018S001006    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1067,2018S001007    ,Atropellament,Not_Specified
+1068,2018S001008    ,Xoc contra element estÃ tic,Not_Specified
+1069,2018S001008    ,EncalÃ§,Not_Specified
+1070,2018S001009    ,Col.lisiÃ³ lateral,Not_Specified
+1071,2018S001010    ,Xoc contra element estÃ tic,Not_Specified
+1072,2018S001011    ,Atropellament,Not_Specified
+1073,2018S001012    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1074,2018S001013    ,Caiguda (dues rodes),Not_Specified
+1075,2018S001014    ,Col.lisiÃ³ lateral,Not_Specified
+1076,2018S001015    ,Atropellament,Not_Specified
+1077,2018S001016    ,Xoc contra element estÃ tic,Not_Specified
+1078,2018S001016    ,Col.lisiÃ³ lateral,Not_Specified
+1079,2018S001017    ,Xoc contra element estÃ tic,Not_Specified
+1080,2018S001018    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1081,2018S001019    ,Atropellament,Not_Specified
+1082,2018S001020    ,Atropellament,Not_Specified
+1083,2018S001021    ,Abast,Not_Specified
+1084,2018S001022    ,Col.lisiÃ³ lateral,Not_Specified
+1085,2018S001023    ,Col.lisiÃ³ lateral,Not_Specified
+1086,2018S001023    ,Caiguda (dues rodes),Not_Specified
+1087,2018S001024    ,Abast,Not_Specified
+1088,2018S001025    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1089,2018S001026    ,Col.lisiÃ³ lateral,Not_Specified
+1090,2018S001027    ,Col.lisiÃ³ lateral,Not_Specified
+1091,2018S001028    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1092,2018S001029    ,Xoc contra element estÃ tic,Not_Specified
+1093,2018S001029    ,Abast,Not_Specified
+1094,2018S001030    ,Abast,Not_Specified
+1095,2018S001031    ,Col.lisiÃ³ lateral,Not_Specified
+1096,2018S001032    ,Atropellament,Not_Specified
+1097,2018S001033    ,Atropellament,No hi ha causa mediata
+1098,2018S001034    ,Atropellament,Not_Specified
+1099,2018S001035    ,Abast,Not_Specified
+1100,2018S001036    ,Abast,Not_Specified
+1101,2018S001037    ,Abast multiple,Not_Specified
+1102,2018S001038    ,Caiguda interior vehicle,Not_Specified
+1103,2018S001038    ,Caiguda (dues rodes),Not_Specified
+1104,2018S001039    ,Col.lisiÃ³ lateral,Not_Specified
+1105,2018S001040    ,Abast,Not_Specified
+1106,2018S001041    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1107,2018S001042    ,Caiguda (dues rodes),Not_Specified
+1108,2018S001043    ,Altres,Not_Specified
+1109,2018S001044    ,Col.lisiÃ³ lateral,Not_Specified
+1110,2018S001045    ,Col.lisiÃ³ lateral,Not_Specified
+1111,2018S001046    ,Abast,Not_Specified
+1112,2018S001047    ,Col.lisiÃ³ lateral,Not_Specified
+1113,2018S001048    ,Abast,Not_Specified
+1114,2018S001049    ,Caiguda (dues rodes),No hi ha causa mediata
+1115,2018S001050    ,Abast,Not_Specified
+1116,2018S001051    ,Atropellament,Not_Specified
+1117,2018S001052    ,Atropellament,Not_Specified
+1118,2018S001053    ,Abast,Not_Specified
+1119,2018S001054    ,Abast,Not_Specified
+1120,2018S001055    ,Col.lisiÃ³ lateral,Not_Specified
+1121,2018S001056    ,Abast,Not_Specified
+1122,2018S001056    ,Altres,Not_Specified
+1123,2018S001057    ,Caiguda (dues rodes),Not_Specified
+1124,2018S001058    ,Caiguda (dues rodes),Not_Specified
+1125,2018S001059    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1126,2018S001060    ,Xoc contra element estÃ tic,Not_Specified
+1127,2018S001060    ,Caiguda (dues rodes),Not_Specified
+1128,2018S001061    ,Atropellament,Not_Specified
+1129,2018S001062    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1130,2018S001063    ,Atropellament,Not_Specified
+1131,2018S001064    ,Atropellament,Not_Specified
+1132,2018S001065    ,Col.lisiÃ³ lateral,Not_Specified
+1133,2018S001066    ,Abast,Not_Specified
+1134,2018S001067    ,Abast,Not_Specified
+1135,2018S001068    ,Caiguda (dues rodes),Not_Specified
+1136,2018S001069    ,Caiguda (dues rodes),Not_Specified
+1137,2018S001070    ,Caiguda interior vehicle,Not_Specified
+1138,2018S001071    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1139,2018S001072    ,Col.lisiÃ³ lateral,Not_Specified
+1140,2018S001073    ,Col.lisiÃ³ lateral,Not_Specified
+1141,2018S001074    ,Xoc contra element estÃ tic,No hi ha causa mediata
+1142,2018S001074    ,Bolcada (mÃ©s de dues rodes),No hi ha causa mediata
+1143,2018S001075    ,Abast,Not_Specified
+1144,2018S001075    ,Caiguda (dues rodes),Not_Specified
+1145,2018S001076    ,Altres,Not_Specified
+1146,2018S001077    ,Col.lisiÃ³ lateral,Not_Specified
+1147,2018S001078    ,Col.lisiÃ³ lateral,Not_Specified
+1148,2018S001079    ,Abast,Not_Specified
+1149,2018S001080    ,Abast,Not_Specified
+1150,2018S001081    ,Abast,Not_Specified
+1151,2018S001082    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1152,2018S001083    ,Caiguda (dues rodes),Not_Specified
+1153,2018S001084    ,Col.lisiÃ³ lateral,Not_Specified
+1154,2018S001085    ,Atropellament,Not_Specified
+1155,2018S001086    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1156,2018S001087    ,Xoc contra element estÃ tic,Not_Specified
+1157,2018S001088    ,Atropellament,Not_Specified
+1158,2018S001089    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1159,2018S001090    ,Abast,Not_Specified
+1160,2018S001091    ,Atropellament,Not_Specified
+1161,2018S001092    ,Caiguda interior vehicle,Not_Specified
+1162,2018S001093    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1163,2018S001094    ,Caiguda (dues rodes),Not_Specified
+1164,2018S001095    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1165,2018S001096    ,Abast,Not_Specified
+1166,2018S001097    ,Altres,Not_Specified
+1167,2018S001098    ,Col.lisiÃ³ lateral,Not_Specified
+1168,2018S001099    ,Abast,Not_Specified
+1169,2018S001100    ,Abast,Not_Specified
+1170,2018S001101    ,Atropellament,Not_Specified
+1171,2018S001102    ,Col.lisiÃ³ lateral,Not_Specified
+1172,2018S001102    ,Caiguda (dues rodes),Not_Specified
+1173,2018S001103    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1174,2018S001104    ,Altres,No hi ha causa mediata
+1175,2018S001105    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1176,2018S001106    ,Col.lisiÃ³ lateral,Not_Specified
+1177,2018S001107    ,Col.lisiÃ³ lateral,Not_Specified
+1178,2018S001108    ,Col.lisiÃ³ lateral,Not_Specified
+1179,2018S001110    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1180,2018S001111    ,Caiguda (dues rodes),Not_Specified
+1181,2018S001112    ,Atropellament,Not_Specified
+1182,2018S001113    ,Xoc contra element estÃ tic,Not_Specified
+1183,2018S001114    ,Abast multiple,Not_Specified
+1184,2018S001115    ,Sortida de via amb xoc o col.lisiÃ³,Not_Specified
+1185,2018S001116    ,Col.lisiÃ³ lateral,Not_Specified
+1186,2018S001117    ,Altres,Not_Specified
+1187,2018S001117    ,Caiguda interior vehicle,Not_Specified
+1188,2018S001118    ,Atropellament,Not_Specified
+1189,2018S001119    ,Col.lisiÃ³ lateral,Not_Specified
+1190,2018S001120    ,Altres,Not_Specified
+1191,2018S001121    ,Col.lisiÃ³ lateral,Not_Specified
+1192,2018S001121    ,Xoc contra element estÃ tic,Not_Specified
+1193,2018S001122    ,Col.lisiÃ³ frontal,Not_Specified
+1194,2018S001123    ,Atropellament,Not_Specified
+1195,2018S001124    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1196,2018S001125    ,Col.lisiÃ³ lateral,Not_Specified
+1197,2018S001126    ,Altres,Not_Specified
+1198,2018S001127    ,Caiguda (dues rodes),No hi ha causa mediata
+1199,2018S001128    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1200,2018S001129    ,Col.lisiÃ³ frontal,Not_Specified
+1201,2018S001129    ,Col.lisiÃ³ lateral,Not_Specified
+1202,2018S001130    ,Abast,Not_Specified
+1203,2018S001131    ,Atropellament,Not_Specified
+1204,2018S001132    ,Abast,Not_Specified
+1205,2018S001133    ,Col.lisiÃ³ lateral,Not_Specified
+1206,2018S001134    ,Col.lisiÃ³ lateral,Not_Specified
+1207,2018S001135    ,Abast,Not_Specified
+1208,2018S001136    ,Abast multiple,Not_Specified
+1209,2018S001137    ,Col.lisiÃ³ lateral,Not_Specified
+1210,2018S001138    ,Abast,Not_Specified
+1211,2018S001139    ,Xoc contra element estÃ tic,Not_Specified
+1212,2018S001140    ,Caiguda (dues rodes),Not_Specified
+1213,2018S001141    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1214,2018S001142    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1215,2018S001143    ,Abast,Not_Specified
+1216,2018S001144    ,Abast,Not_Specified
+1217,2018S001145    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1218,2018S001146    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1219,2018S001147    ,Abast,Not_Specified
+1220,2018S001148    ,Col.lisiÃ³ lateral,Not_Specified
+1221,2018S001149    ,Caiguda (dues rodes),No hi ha causa mediata
+1222,2018S001150    ,Abast,No hi ha causa mediata
+1223,2018S001151    ,Xoc contra element estÃ tic,Not_Specified
+1224,2018S001152    ,Caiguda (dues rodes),Not_Specified
+1225,2018S001153    ,Abast,Not_Specified
+1226,2018S001153    ,EncalÃ§,Not_Specified
+1227,2018S001154    ,Atropellament,Not_Specified
+1228,2018S001155    ,Abast multiple,Not_Specified
+1229,2018S001156    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1230,2018S001157    ,Atropellament,Not_Specified
+1231,2018S001159    ,Abast,Not_Specified
+1232,2018S001160    ,Atropellament,Not_Specified
+1233,2018S001161    ,Abast,Not_Specified
+1234,2018S001162    ,Xoc contra element estÃ tic,Not_Specified
+1235,2018S001162    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1236,2018S001163    ,Xoc contra element estÃ tic,Not_Specified
+1237,2018S001164    ,Col.lisiÃ³ lateral,Not_Specified
+1238,2018S001165    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1239,2018S001166    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1240,2018S001167    ,Col.lisiÃ³ lateral,Not_Specified
+1241,2018S001169    ,Col.lisiÃ³ lateral,Not_Specified
+1242,2018S001170    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1243,2018S001171    ,Abast,No hi ha causa mediata
+1244,2018S001172    ,Caiguda interior vehicle,Not_Specified
+1245,2018S001173    ,Atropellament,Not_Specified
+1246,2018S001174    ,Col.lisiÃ³ lateral,Not_Specified
+1247,2018S001175    ,Col.lisiÃ³ lateral,Not_Specified
+1248,2018S001176    ,Atropellament,Not_Specified
+1249,2018S001177    ,Col.lisiÃ³ lateral,Not_Specified
+1250,2018S001178    ,Abast,Not_Specified
+1251,2018S001179    ,Caiguda (dues rodes),Not_Specified
+1252,2018S001180    ,Xoc contra element estÃ tic,Not_Specified
+1253,2018S001180    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1254,2018S001181    ,Abast,Not_Specified
+1255,2018S001182    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1256,2018S001183    ,Xoc contra element estÃ tic,Not_Specified
+1257,2018S001184    ,Abast,Not_Specified
+1258,2018S001185    ,Col.lisiÃ³ lateral,Not_Specified
+1259,2018S001186    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1260,2018S001187    ,Caiguda (dues rodes),Not_Specified
+1261,2018S001188    ,Col.lisiÃ³ lateral,Not_Specified
+1262,2018S001189    ,Abast multiple,No hi ha causa mediata
+1263,2018S001190    ,Abast,Not_Specified
+1264,2018S001191    ,Col.lisiÃ³ lateral,Not_Specified
+1265,2018S001192    ,Col.lisiÃ³ lateral,Not_Specified
+1266,2018S001193    ,Abast,No hi ha causa mediata
+1267,2018S001194    ,Atropellament,Not_Specified
+1268,2018S001195    ,Atropellament,Not_Specified
+1269,2018S001196    ,Abast,Not_Specified
+1270,2018S001197    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1271,2018S001198    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1272,2018S001199    ,Abast,Not_Specified
+1273,2018S001200    ,Abast,Not_Specified
+1274,2018S001201    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1275,2018S001202    ,Caiguda (dues rodes),Not_Specified
+1276,2018S001203    ,Abast,Not_Specified
+1277,2018S001204    ,Abast,Not_Specified
+1278,2018S001205    ,Abast,No hi ha causa mediata
+1279,2018S001206    ,Col.lisiÃ³ lateral,Not_Specified
+1280,2018S001207    ,Caiguda interior vehicle,Not_Specified
+1281,2018S001208    ,Col.lisiÃ³ lateral,Not_Specified
+1282,2018S001209    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1283,2018S001210    ,Col.lisiÃ³ lateral,Not_Specified
+1284,2018S001211    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1285,2018S001212    ,Abast,Not_Specified
+1286,2018S001213    ,Abast,Not_Specified
+1287,2018S001215    ,Atropellament,Not_Specified
+1288,2018S001216    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1289,2018S001217    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1290,2018S001218    ,Atropellament,Not_Specified
+1291,2018S001219    ,Xoc contra element estÃ tic,Not_Specified
+1292,2018S001220    ,Caiguda (dues rodes),Not_Specified
+1293,2018S001222    ,Col.lisiÃ³ lateral,Not_Specified
+1294,2018S001223    ,Caiguda (dues rodes),Not_Specified
+1295,2018S001224    ,Atropellament,Not_Specified
+1296,2018S001225    ,Col.lisiÃ³ lateral,Not_Specified
+1297,2018S001226    ,Bolcada (mÃ©s de dues rodes),Not_Specified
+1298,2018S001227    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1299,2018S001228    ,Caiguda (dues rodes),Not_Specified
+1300,2018S001229    ,Col.lisiÃ³ lateral,Not_Specified
+1301,2018S001230    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1302,2018S001231    ,Xoc contra element estÃ tic,No hi ha causa mediata
+1303,2018S001232    ,Abast,Not_Specified
+1304,2018S001233    ,Col.lisiÃ³ lateral,Not_Specified
+1305,2018S001234    ,Col.lisiÃ³ lateral,Not_Specified
+1306,2018S001235    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1307,2018S001236    ,Atropellament,Not_Specified
+1308,2018S001237    ,Atropellament,Not_Specified
+1309,2018S001238    ,Col.lisiÃ³ lateral,Not_Specified
+1310,2018S001239    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1311,2018S001240    ,Atropellament,Not_Specified
+1312,2018S001241    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1313,2018S001242    ,Caiguda (dues rodes),Not_Specified
+1314,2018S001243    ,Caiguda (dues rodes),No hi ha causa mediata
+1315,2018S001243    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1316,2018S001244    ,Col.lisiÃ³ frontal,No hi ha causa mediata
+1317,2018S001245    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1318,2018S001246    ,Col.lisiÃ³ lateral,Not_Specified
+1319,2018S001247    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1320,2018S001247    ,Abast multiple,Not_Specified
+1321,2018S001248    ,Col.lisiÃ³ lateral,Not_Specified
+1322,2018S001249    ,Caiguda interior vehicle,Not_Specified
+1323,2018S001250    ,Col.lisiÃ³ lateral,Not_Specified
+1324,2018S001251    ,Col.lisiÃ³ lateral,Not_Specified
+1325,2018S001252    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1326,2018S001253    ,Abast multiple,Not_Specified
+1327,2018S001254    ,Caiguda (dues rodes),No hi ha causa mediata
+1328,2018S001255    ,Caiguda (dues rodes),No hi ha causa mediata
+1329,2018S001256    ,Col.lisiÃ³ frontal,Not_Specified
+1330,2018S001256    ,Caiguda (dues rodes),Not_Specified
+1331,2018S001257    ,Col.lisiÃ³ lateral,Not_Specified
+1332,2018S001258    ,Abast multiple,Not_Specified
+1333,2018S001259    ,Atropellament,Not_Specified
+1334,2018S001260    ,Col.lisiÃ³ lateral,Not_Specified
+1335,2018S001261    ,Col.lisiÃ³ lateral,Not_Specified
+1336,2018S001262    ,Abast,Not_Specified
+1337,2018S001263    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1338,2018S001264    ,Atropellament,Not_Specified
+1339,2018S001265    ,Col.lisiÃ³ frontal,Not_Specified
+1340,2018S001266    ,Xoc contra element estÃ tic,Not_Specified
+1341,2018S001267    ,Col.lisiÃ³ lateral,Not_Specified
+1342,2018S001268    ,Abast,Not_Specified
+1343,2018S001269    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1344,2018S001270    ,Atropellament,Not_Specified
+1345,2018S001271    ,Atropellament,Not_Specified
+1346,2018S001272    ,Col.lisiÃ³ lateral,Not_Specified
+1347,2018S001272    ,Caiguda (dues rodes),Not_Specified
+1348,2018S001273    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1349,2018S001274    ,Abast,Not_Specified
+1350,2018S001275    ,Xoc contra element estÃ tic,Not_Specified
+1351,2018S001276    ,Atropellament,Not_Specified
+1352,2018S001277    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1353,2018S001278    ,Col.lisiÃ³ lateral,Not_Specified
+1354,2018S001279    ,Col.lisiÃ³ lateral,Not_Specified
+1355,2018S001280    ,Abast,Not_Specified
+1356,2018S001281    ,Abast multiple,Not_Specified
+1357,2018S001282    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1358,2018S001283    ,Col.lisiÃ³ lateral,Not_Specified
+1359,2018S001284    ,Xoc contra element estÃ tic,Not_Specified
+1360,2018S001285    ,Col.lisiÃ³ lateral,Not_Specified
+1361,2018S001286    ,Abast,Not_Specified
+1362,2018S001287    ,Abast multiple,Not_Specified
+1363,2018S001288    ,Abast,Not_Specified
+1364,2018S001289    ,Abast multiple,Not_Specified
+1365,2018S001290    ,Col.lisiÃ³ lateral,Not_Specified
+1366,2018S001291    ,Xoc contra element estÃ tic,Not_Specified
+1367,2018S001292    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1368,2018S001293    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1369,2018S001294    ,Caiguda (dues rodes),Not_Specified
+1370,2018S001295    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1371,2018S001296    ,Caiguda (dues rodes),Not_Specified
+1372,2018S001296    ,Abast,Not_Specified
+1373,2018S001297    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1374,2018S001298    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1375,2018S001299    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1376,2018S001300    ,Abast,No hi ha causa mediata
+1377,2018S001301    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1378,2018S001302    ,Abast,Not_Specified
+1379,2018S001303    ,Col.lisiÃ³ lateral,Not_Specified
+1380,2018S001304    ,Col.lisiÃ³ lateral,Not_Specified
+1381,2018S001305    ,Abast,Not_Specified
+1382,2018S001306    ,Abast,Not_Specified
+1383,2018S001306    ,Col.lisiÃ³ lateral,Not_Specified
+1384,2018S001307    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1385,2018S001308    ,Atropellament,Not_Specified
+1386,2018S001309    ,Col.lisiÃ³ frontal,Not_Specified
+1387,2018S001310    ,Col.lisiÃ³ lateral,Not_Specified
+1388,2018S001311    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1389,2018S001312    ,Abast,Not_Specified
+1390,2018S001313    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1391,2018S001314    ,Abast,Not_Specified
+1392,2018S001315    ,Abast,Not_Specified
+1393,2018S001316    ,Col.lisiÃ³ lateral,Not_Specified
+1394,2018S001317    ,Abast multiple,Not_Specified
+1395,2018S001318    ,Abast multiple,Not_Specified
+1396,2018S001319    ,Atropellament,Not_Specified
+1397,2018S001320    ,Atropellament,Not_Specified
+1398,2018S001321    ,Abast multiple,Not_Specified
+1399,2018S001322    ,Col.lisiÃ³ lateral,Not_Specified
+1400,2018S001323    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1401,2018S001324    ,Abast multiple,Not_Specified
+1402,2018S001325    ,Col.lisiÃ³ lateral,Not_Specified
+1403,2018S001326    ,Atropellament,Not_Specified
+1404,2018S001327    ,Abast,Not_Specified
+1405,2018S001328    ,Altres,Not_Specified
+1406,2018S001329    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1407,2018S001330    ,Col.lisiÃ³ lateral,Not_Specified
+1408,2018S001331    ,Abast,Not_Specified
+1409,2018S001332    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1410,2018S001333    ,Atropellament,Not_Specified
+1411,2018S001334    ,Col.lisiÃ³ lateral,Not_Specified
+1412,2018S001335    ,Col.lisiÃ³ lateral,Not_Specified
+1413,2018S001336    ,Atropellament,Not_Specified
+1414,2018S001337    ,Abast multiple,Not_Specified
+1415,2018S001338    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1416,2018S001339    ,Col.lisiÃ³ lateral,Not_Specified
+1417,2018S001340    ,Col.lisiÃ³ lateral,Not_Specified
+1418,2018S001341    ,Abast,Not_Specified
+1419,2018S001342    ,Caiguda (dues rodes),Not_Specified
+1420,2018S001343    ,Col.lisiÃ³ lateral,Not_Specified
+1421,2018S001344    ,Col.lisiÃ³ lateral,Not_Specified
+1422,2018S001345    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1423,2018S001346    ,Abast,Not_Specified
+1424,2018S001347    ,Abast,No hi ha causa mediata
+1425,2018S001348    ,Atropellament,Not_Specified
+1426,2018S001349    ,Caiguda interior vehicle,Not_Specified
+1427,2018S001350    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1428,2018S001351    ,Abast,Not_Specified
+1429,2018S001352    ,Abast multiple,Not_Specified
+1430,2018S001353    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1431,2018S001354    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1432,2018S001355    ,Abast,Not_Specified
+1433,2018S001356    ,Caiguda interior vehicle,Not_Specified
+1434,2018S001357    ,Col.lisiÃ³ lateral,Not_Specified
+1435,2018S001358    ,Altres,Not_Specified
+1436,2018S001359    ,Abast,Not_Specified
+1437,2018S001360    ,Col.lisiÃ³ lateral,Not_Specified
+1438,2018S001361    ,Col.lisiÃ³ lateral,Not_Specified
+1439,2018S001362    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1440,2018S001363    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1441,2018S001364    ,Abast,Not_Specified
+1442,2018S001365    ,Col.lisiÃ³ lateral,Not_Specified
+1443,2018S001366    ,Altres,Not_Specified
+1444,2018S001367    ,Col.lisiÃ³ lateral,Not_Specified
+1445,2018S001368    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1446,2018S001369    ,Abast,Not_Specified
+1447,2018S001370    ,Atropellament,Not_Specified
+1448,2018S001371    ,Abast,Not_Specified
+1449,2018S001372    ,Atropellament,Not_Specified
+1450,2018S001373    ,Col.lisiÃ³ lateral,Not_Specified
+1451,2018S001374    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1452,2018S001375    ,Xoc contra element estÃ tic,Not_Specified
+1453,2018S001376    ,Col.lisiÃ³ lateral,Not_Specified
+1454,2018S001377    ,Atropellament,Not_Specified
+1455,2018S001378    ,Col.lisiÃ³ lateral,Not_Specified
+1456,2018S001379    ,Atropellament,Not_Specified
+1457,2018S001380    ,Abast,Not_Specified
+1458,2018S001381    ,Abast,Not_Specified
+1459,2018S001382    ,Col.lisiÃ³ lateral,Not_Specified
+1460,2018S001383    ,Atropellament,Not_Specified
+1461,2018S001384    ,Col.lisiÃ³ lateral,Not_Specified
+1462,2018S001385    ,Atropellament,Not_Specified
+1463,2018S001386    ,Atropellament,Not_Specified
+1464,2018S001387    ,Atropellament,Not_Specified
+1465,2018S001388    ,Altres,Not_Specified
+1466,2018S001389    ,Col.lisiÃ³ lateral,Not_Specified
+1467,2018S001390    ,Caiguda interior vehicle,Not_Specified
+1468,2018S001391    ,Xoc contra element estÃ tic,Not_Specified
+1469,2018S001392    ,Caiguda (dues rodes),No hi ha causa mediata
+1470,2018S001392    ,Abast,No hi ha causa mediata
+1471,2018S001393    ,Col.lisiÃ³ lateral,Not_Specified
+1472,2018S001394    ,Caiguda (dues rodes),Not_Specified
+1473,2018S001395    ,Abast,Not_Specified
+1474,2018S001396    ,Caiguda (dues rodes),No hi ha causa mediata
+1475,2018S001397    ,Atropellament,Not_Specified
+1476,2018S001398    ,Col.lisiÃ³ lateral,Not_Specified
+1477,2018S001398    ,Caiguda (dues rodes),Not_Specified
+1478,2018S001399    ,Altres,Not_Specified
+1479,2018S001400    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1480,2018S001401    ,Col.lisiÃ³ lateral,Not_Specified
+1481,2018S001402    ,Altres,Not_Specified
+1482,2018S001403    ,Atropellament,Not_Specified
+1483,2018S001404    ,Abast multiple,No hi ha causa mediata
+1484,2018S001405    ,Abast,Not_Specified
+1485,2018S001406    ,Abast,Not_Specified
+1486,2018S001406    ,Col.lisiÃ³ lateral,Not_Specified
+1487,2018S001407    ,Abast,Not_Specified
+1488,2018S001408    ,Col.lisiÃ³ lateral,Not_Specified
+1489,2018S001409    ,Caiguda interior vehicle,Not_Specified
+1490,2018S001410    ,Atropellament,Not_Specified
+1491,2018S001411    ,Altres,Not_Specified
+1492,2018S001412    ,Col.lisiÃ³ lateral,Not_Specified
+1493,2018S001413    ,Col.lisiÃ³ lateral,Not_Specified
+1494,2018S001414    ,Xoc contra element estÃ tic,Not_Specified
+1495,2018S001415    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1496,2018S001416    ,Atropellament,Not_Specified
+1497,2018S001417    ,Atropellament,Not_Specified
+1498,2018S001418    ,Col.lisiÃ³ lateral,Not_Specified
+1499,2018S001419    ,Altres,Not_Specified
+1500,2018S001420    ,Atropellament,Not_Specified
+1501,2018S001421    ,Caiguda interior vehicle,Not_Specified
+1502,2018S001422    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1503,2018S001423    ,Xoc contra element estÃ tic,Not_Specified
+1504,2018S001424    ,Xoc contra element estÃ tic,Not_Specified
+1505,2018S001425    ,Col.lisiÃ³ lateral,Not_Specified
+1506,2018S001426    ,Abast,Not_Specified
+1507,2018S001427    ,Abast,No hi ha causa mediata
+1508,2018S001428    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1509,2018S001429    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1510,2018S001430    ,Atropellament,Not_Specified
+1511,2018S001431    ,Col.lisiÃ³ lateral,Not_Specified
+1512,2018S001431    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1513,2018S001432    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1514,2018S001433    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1515,2018S001434    ,Atropellament,Not_Specified
+1516,2018S001435    ,Atropellament,Not_Specified
+1517,2018S001436    ,Abast,Not_Specified
+1518,2018S001437    ,Altres,Not_Specified
+1519,2018S001438    ,Caiguda (dues rodes),Not_Specified
+1520,2018S001439    ,Caiguda interior vehicle,Not_Specified
+1521,2018S001440    ,Xoc contra element estÃ tic,Not_Specified
+1522,2018S001441    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1523,2018S001442    ,Caiguda (dues rodes),Not_Specified
+1524,2018S001443    ,Abast,Not_Specified
+1525,2018S001444    ,Col.lisiÃ³ lateral,Not_Specified
+1526,2018S001445    ,Caiguda (dues rodes),Not_Specified
+1527,2018S001446    ,Xoc contra element estÃ tic,Not_Specified
+1528,2018S001447    ,Caiguda interior vehicle,Not_Specified
+1529,2018S001448    ,Atropellament,Not_Specified
+1530,2018S001449    ,Xoc contra element estÃ tic,Not_Specified
+1531,2018S001450    ,Col.lisiÃ³ lateral,Not_Specified
+1532,2018S001451    ,Abast,No hi ha causa mediata
+1533,2018S001452    ,Col.lisiÃ³ lateral,Not_Specified
+1534,2018S001452    ,Sortida de via amb xoc o col.lisiÃ³,Not_Specified
+1535,2018S001453    ,Abast,Not_Specified
+1536,2018S001454    ,Abast multiple,No hi ha causa mediata
+1537,2018S001455    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1538,2018S001456    ,Atropellament,Not_Specified
+1539,2018S001457    ,Col.lisiÃ³ lateral,Not_Specified
+1540,2018S001457    ,Caiguda (dues rodes),Not_Specified
+1541,2018S001458    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1542,2018S001458    ,Xoc contra element estÃ tic,Not_Specified
+1543,2018S001459    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1544,2018S001460    ,Abast,Not_Specified
+1545,2018S001460    ,Col.lisiÃ³ lateral,Not_Specified
+1546,2018S001461    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1547,2018S001462    ,Abast,Not_Specified
+1548,2018S001463    ,Abast,Not_Specified
+1549,2018S001464    ,Col.lisiÃ³ lateral,Not_Specified
+1550,2018S001465    ,Caiguda interior vehicle,Not_Specified
+1551,2018S001466    ,Atropellament,Not_Specified
+1552,2018S001467    ,Atropellament,Not_Specified
+1553,2018S001468    ,Col.lisiÃ³ frontal,No hi ha causa mediata
+1554,2018S001469    ,Col.lisiÃ³ lateral,Not_Specified
+1555,2018S001470    ,Col.lisiÃ³ lateral,Not_Specified
+1556,2018S001471    ,Col.lisiÃ³ lateral,Not_Specified
+1557,2018S001472    ,Atropellament,Not_Specified
+1558,2018S001473    ,Abast,No hi ha causa mediata
+1559,2018S001474    ,Col.lisiÃ³ lateral,Not_Specified
+1560,2018S001475    ,Col.lisiÃ³ lateral,Not_Specified
+1561,2018S001476    ,Col.lisiÃ³ lateral,Not_Specified
+1562,2018S001477    ,Abast,Not_Specified
+1563,2018S001478    ,Col.lisiÃ³ frontal,Not_Specified
+1564,2018S001479    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1565,2018S001480    ,Abast,No hi ha causa mediata
+1566,2018S001481    ,Caiguda (dues rodes),Not_Specified
+1567,2018S001482    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1568,2018S001483    ,Col.lisiÃ³ lateral,Not_Specified
+1569,2018S001484    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1570,2018S001485    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1571,2018S001486    ,Caiguda interior vehicle,Not_Specified
+1572,2018S001487    ,Col.lisiÃ³ lateral,Not_Specified
+1573,2018S001488    ,Abast,Not_Specified
+1574,2018S001489    ,Atropellament,Not_Specified
+1575,2018S001490    ,Atropellament,Not_Specified
+1576,2018S001491    ,Abast,Not_Specified
+1577,2018S001493    ,Altres,Not_Specified
+1578,2018S001494    ,Col.lisiÃ³ lateral,Not_Specified
+1579,2018S001495    ,Col.lisiÃ³ frontal,Not_Specified
+1580,2018S001496    ,Col.lisiÃ³ lateral,Not_Specified
+1581,2018S001497    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1582,2018S001498    ,Atropellament,Not_Specified
+1583,2018S001499    ,Col.lisiÃ³ lateral,Not_Specified
+1584,2018S001500    ,Atropellament,Not_Specified
+1585,2018S001501    ,Abast,Not_Specified
+1586,2018S001502    ,Col.lisiÃ³ lateral,Not_Specified
+1587,2018S001503    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1588,2018S001504    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1589,2018S001505    ,Abast,Not_Specified
+1590,2018S001506    ,Abast,No hi ha causa mediata
+1591,2018S001507    ,Abast,Not_Specified
+1592,2018S001508    ,Atropellament,No hi ha causa mediata
+1593,2018S001509    ,Caiguda interior vehicle,Not_Specified
+1594,2018S001510    ,Col.lisiÃ³ lateral,Not_Specified
+1595,2018S001511    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1596,2018S001512    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1597,2018S001513    ,Col.lisiÃ³ lateral,Not_Specified
+1598,2018S001514    ,Abast,Not_Specified
+1599,2018S001515    ,Abast,Not_Specified
+1600,2018S001515    ,Col.lisiÃ³ lateral,Not_Specified
+1601,2018S001516    ,Col.lisiÃ³ lateral,Not_Specified
+1602,2018S001517    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1603,2018S001518    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1604,2018S001519    ,Abast,Not_Specified
+1605,2018S001520    ,Atropellament,Not_Specified
+1606,2018S001521    ,Atropellament,Not_Specified
+1607,2018S001522    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1608,2018S001523    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1609,2018S001524    ,Abast,No hi ha causa mediata
+1610,2018S001525    ,Abast,Not_Specified
+1611,2018S001526    ,Abast,Not_Specified
+1612,2018S001527    ,Col.lisiÃ³ lateral,Not_Specified
+1613,2018S001528    ,Caiguda interior vehicle,Not_Specified
+1614,2018S001529    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1615,2018S001530    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1616,2018S001531    ,Caiguda (dues rodes),Not_Specified
+1617,2018S001532    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1618,2018S001533    ,Col.lisiÃ³ lateral,Not_Specified
+1619,2018S001534    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1620,2018S001535    ,Caiguda (dues rodes),Not_Specified
+1621,2018S001536    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1622,2018S001537    ,Abast multiple,Not_Specified
+1623,2018S001538    ,Col.lisiÃ³ lateral,Not_Specified
+1624,2018S001539    ,Col.lisiÃ³ lateral,Not_Specified
+1625,2018S001540    ,Col.lisiÃ³ lateral,Not_Specified
+1626,2018S001541    ,Xoc contra element estÃ tic,Not_Specified
+1627,2018S001542    ,Caiguda interior vehicle,Not_Specified
+1628,2018S001543    ,Abast,Not_Specified
+1629,2018S001544    ,Abast,Not_Specified
+1630,2018S001545    ,Abast,Not_Specified
+1631,2018S001546    ,Atropellament,Not_Specified
+1632,2018S001547    ,Atropellament,Not_Specified
+1633,2018S001548    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1634,2018S001549    ,Abast,Not_Specified
+1635,2018S001550    ,Atropellament,Not_Specified
+1636,2018S001551    ,Atropellament,Not_Specified
+1637,2018S001552    ,Col.lisiÃ³ lateral,Not_Specified
+1638,2018S001553    ,Caiguda (dues rodes),Not_Specified
+1639,2018S001554    ,Caiguda (dues rodes),Not_Specified
+1640,2018S001555    ,Abast,Not_Specified
+1641,2018S001556    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1642,2018S001557    ,Atropellament,Not_Specified
+1643,2018S001557    ,Xoc contra element estÃ tic,Not_Specified
+1644,2018S001558    ,Abast,No hi ha causa mediata
+1645,2018S001559    ,Col.lisiÃ³ lateral,Not_Specified
+1646,2018S001560    ,Col.lisiÃ³ lateral,Not_Specified
+1647,2018S001561    ,Abast,Not_Specified
+1648,2018S001562    ,Abast,Not_Specified
+1649,2018S001563    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1650,2018S001564    ,Col.lisiÃ³ lateral,Not_Specified
+1651,2018S001565    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1652,2018S001566    ,Abast,Not_Specified
+1653,2018S001567    ,Col.lisiÃ³ lateral,Not_Specified
+1654,2018S001568    ,Col.lisiÃ³ lateral,Not_Specified
+1655,2018S001569    ,Atropellament,Not_Specified
+1656,2018S001570    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1657,2018S001570    ,Caiguda (dues rodes),Not_Specified
+1658,2018S001571    ,Col.lisiÃ³ lateral,Not_Specified
+1659,2018S001571    ,Xoc contra element estÃ tic,Not_Specified
+1660,2018S001572    ,Col.lisiÃ³ lateral,Not_Specified
+1661,2018S001573    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1662,2018S001574    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1663,2018S001575    ,Xoc contra element estÃ tic,No hi ha causa mediata
+1664,2018S001576    ,Atropellament,Not_Specified
+1665,2018S001577    ,Caiguda interior vehicle,Not_Specified
+1666,2018S001578    ,Caiguda (dues rodes),Not_Specified
+1667,2018S001579    ,Caiguda (dues rodes),Not_Specified
+1668,2018S001580    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1669,2018S001581    ,Atropellament,Not_Specified
+1670,2018S001581    ,Caiguda (dues rodes),Not_Specified
+1671,2018S001582    ,Col.lisiÃ³ lateral,Not_Specified
+1672,2018S001583    ,Col.lisiÃ³ lateral,Not_Specified
+1673,2018S001584    ,Abast,Not_Specified
+1674,2018S001585    ,Caiguda (dues rodes),Not_Specified
+1675,2018S001586    ,Abast,Not_Specified
+1676,2018S001587    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1677,2018S001588    ,Caiguda (dues rodes),Not_Specified
+1678,2018S001589    ,Caiguda (dues rodes),Not_Specified
+1679,2018S001590    ,Atropellament,Not_Specified
+1680,2018S001591    ,Col.lisiÃ³ lateral,Not_Specified
+1681,2018S001592    ,Caiguda (dues rodes),Not_Specified
+1682,2018S001593    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1683,2018S001594    ,Abast,Not_Specified
+1684,2018S001595    ,Xoc contra element estÃ tic,Not_Specified
+1685,2018S001596    ,Caiguda (dues rodes),Not_Specified
+1686,2018S001597    ,Xoc contra element estÃ tic,Not_Specified
+1687,2018S001597    ,Col.lisiÃ³ lateral,Not_Specified
+1688,2018S001598    ,Abast,Not_Specified
+1689,2018S001599    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1690,2018S001600    ,Caiguda interior vehicle,Not_Specified
+1691,2018S001601    ,Altres,Not_Specified
+1692,2018S001602    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1693,2018S001603    ,Col.lisiÃ³ lateral,Not_Specified
+1694,2018S001604    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1695,2018S001605    ,Col.lisiÃ³ lateral,Not_Specified
+1696,2018S001606    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1697,2018S001607    ,Atropellament,Not_Specified
+1698,2018S001608    ,Xoc contra element estÃ tic,Not_Specified
+1699,2018S001609    ,Caiguda (dues rodes),Not_Specified
+1700,2018S001610    ,Caiguda (dues rodes),Not_Specified
+1701,2018S001611    ,Abast,No hi ha causa mediata
+1702,2018S001611    ,Atropellament,No hi ha causa mediata
+1703,2018S001612    ,Col.lisiÃ³ lateral,Not_Specified
+1704,2018S001613    ,Xoc contra element estÃ tic,Not_Specified
+1705,2018S001614    ,Atropellament,Not_Specified
+1706,2018S001615    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1707,2018S001616    ,Caiguda interior vehicle,Not_Specified
+1708,2018S001617    ,Col.lisiÃ³ lateral,Not_Specified
+1709,2018S001618    ,Xoc contra element estÃ tic,Not_Specified
+1710,2018S001619    ,Abast,Not_Specified
+1711,2018S001620    ,Caiguda (dues rodes),Not_Specified
+1712,2018S001621    ,Abast,Not_Specified
+1713,2018S001622    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1714,2018S001623    ,Caiguda (dues rodes),Not_Specified
+1715,2018S001624    ,Abast,Not_Specified
+1716,2018S001625    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1717,2018S001626    ,Caiguda (dues rodes),Not_Specified
+1718,2018S001627    ,Col.lisiÃ³ lateral,Not_Specified
+1719,2018S001628    ,Abast,Not_Specified
+1720,2018S001629    ,Atropellament,Not_Specified
+1721,2018S001630    ,Atropellament,Not_Specified
+1722,2018S001631    ,Abast,Not_Specified
+1723,2018S001632    ,Xoc contra element estÃ tic,Not_Specified
+1724,2018S001633    ,Caiguda (dues rodes),Not_Specified
+1725,2018S001634    ,Caiguda (dues rodes),Not_Specified
+1726,2018S001635    ,Abast,Not_Specified
+1727,2018S001636    ,Abast,Not_Specified
+1728,2018S001636    ,Altres,Not_Specified
+1729,2018S001637    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1730,2018S001638    ,Abast,Not_Specified
+1731,2018S001639    ,Abast multiple,Not_Specified
+1732,2018S001640    ,Col.lisiÃ³ lateral,Not_Specified
+1733,2018S001640    ,Abast multiple,Not_Specified
+1734,2018S001641    ,Abast,Not_Specified
+1735,2018S001642    ,Caiguda (dues rodes),Not_Specified
+1736,2018S001643    ,Atropellament,Not_Specified
+1737,2018S001644    ,Abast,Not_Specified
+1738,2018S001645    ,Col.lisiÃ³ lateral,Not_Specified
+1739,2018S001646    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1740,2018S001647    ,Caiguda (dues rodes),Not_Specified
+1741,2018S001648    ,Abast,Not_Specified
+1742,2018S001649    ,Abast multiple,Not_Specified
+1743,2018S001650    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1744,2018S001651    ,Abast,Not_Specified
+1745,2018S001652    ,Col.lisiÃ³ lateral,Not_Specified
+1746,2018S001653    ,Xoc contra element estÃ tic,Not_Specified
+1747,2018S001654    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1748,2018S001655    ,Xoc contra element estÃ tic,Not_Specified
+1749,2018S001656    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1750,2018S001657    ,Xoc contra element estÃ tic,No hi ha causa mediata
+1751,2018S001658    ,Xoc contra element estÃ tic,No hi ha causa mediata
+1752,2018S001659    ,Abast,Not_Specified
+1753,2018S001660    ,Atropellament,Not_Specified
+1754,2018S001661    ,Abast,Not_Specified
+1755,2018S001662    ,Atropellament,Not_Specified
+1756,2018S001663    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1757,2018S001664    ,Abast multiple,Not_Specified
+1758,2018S001665    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1759,2018S001666    ,Atropellament,Not_Specified
+1760,2018S001667    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1761,2018S001668    ,Col.lisiÃ³ lateral,Not_Specified
+1762,2018S001669    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1763,2018S001670    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1764,2018S001670    ,Caiguda (dues rodes),No hi ha causa mediata
+1765,2018S001671    ,Caiguda (dues rodes),Not_Specified
+1766,2018S001672    ,Caiguda (dues rodes),Not_Specified
+1767,2018S001672    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1768,2018S001673    ,Atropellament,Not_Specified
+1769,2018S001674    ,Atropellament,No hi ha causa mediata
+1770,2018S001675    ,Col.lisiÃ³ lateral,Not_Specified
+1771,2018S001676    ,Col.lisiÃ³ lateral,Not_Specified
+1772,2018S001677    ,Abast,Not_Specified
+1773,2018S001678    ,Abast,Not_Specified
+1774,2018S001679    ,Atropellament,Not_Specified
+1775,2018S001680    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1776,2018S001681    ,Caiguda (dues rodes),Not_Specified
+1777,2018S001682    ,Atropellament,Not_Specified
+1778,2018S001683    ,Col.lisiÃ³ lateral,Not_Specified
+1779,2018S001684    ,Col.lisiÃ³ lateral,Not_Specified
+1780,2018S001685    ,Atropellament,Not_Specified
+1781,2018S001686    ,Col.lisiÃ³ lateral,Not_Specified
+1782,2018S001687    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1783,2018S001688    ,Caiguda (dues rodes),Not_Specified
+1784,2018S001689    ,Xoc contra element estÃ tic,Not_Specified
+1785,2018S001690    ,Abast,Not_Specified
+1786,2018S001690    ,Col.lisiÃ³ lateral,Not_Specified
+1787,2018S001691    ,Abast,No hi ha causa mediata
+1788,2018S001692    ,Altres,Not_Specified
+1789,2018S001693    ,Col.lisiÃ³ lateral,Not_Specified
+1790,2018S001694    ,Atropellament,Not_Specified
+1791,2018S001695    ,Xoc contra element estÃ tic,Not_Specified
+1792,2018S001696    ,Abast multiple,Not_Specified
+1793,2018S001697    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1794,2018S001698    ,Col.lisiÃ³ lateral,Not_Specified
+1795,2018S001699    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1796,2018S001700    ,Abast,Not_Specified
+1797,2018S001701    ,Col.lisiÃ³ lateral,Not_Specified
+1798,2018S001702    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1799,2018S001703    ,Abast,Not_Specified
+1800,2018S001704    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1801,2018S001705    ,Atropellament,Not_Specified
+1802,2018S001706    ,Atropellament,Not_Specified
+1803,2018S001707    ,Atropellament,Not_Specified
+1804,2018S001708    ,Col.lisiÃ³ lateral,No hi ha causa mediata
+1805,2018S001709    ,Caiguda (dues rodes),Not_Specified
+1806,2018S001710    ,Caiguda (dues rodes),Not_Specified
+1807,2018S001711    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1808,2018S001712    ,Caiguda (dues rodes),Not_Specified
+1809,2018S001713    ,Caiguda (dues rodes),Not_Specified
+1810,2018S001714    ,Abast,Not_Specified
+1811,2018S001715    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1812,2018S001716    ,Col.lisiÃ³ lateral,Not_Specified
+1813,2018S001717    ,Caiguda (dues rodes),Not_Specified
+1814,2018S001717    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1815,2018S001718    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1816,2018S001719    ,Xoc contra element estÃ tic,Not_Specified
+1817,2018S001720    ,Xoc contra element estÃ tic,Not_Specified
+1818,2018S001721    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1819,2018S001722    ,Col.lisiÃ³ lateral,Not_Specified
+1820,2018S001723    ,Col.lisiÃ³ lateral,Not_Specified
+1821,2018S001724    ,Atropellament,Not_Specified
+1822,2018S001725    ,Caiguda (dues rodes),Not_Specified
+1823,2018S001726    ,Col.lisiÃ³ lateral,Not_Specified
+1824,2018S001727    ,Atropellament,Not_Specified
+1825,2018S001728    ,Col.lisiÃ³ lateral,Not_Specified
+1826,2018S001729    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1827,2018S001730    ,Caiguda (dues rodes),Not_Specified
+1828,2018S001731    ,Col.lisiÃ³ fronto-lateral,No hi ha causa mediata
+1829,2018S001731    ,Col.lisiÃ³ frontal,No hi ha causa mediata
+1830,2018S001732    ,Abast multiple,Not_Specified
+1831,2018S001733    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1832,2018S001734    ,Abast,Not_Specified
+1833,2018S001735    ,Atropellament,Not_Specified
+1834,2018S001736    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1835,2018S001737    ,Abast,Not_Specified
+1836,2018S001738    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1837,2018S001739    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1838,2018S001740    ,Altres,Not_Specified
+1839,2018S001740    ,Caiguda (dues rodes),Not_Specified
+1840,2018S001741    ,Abast,Not_Specified
+1841,2018S001742    ,Abast,No hi ha causa mediata
+1842,2018S001743    ,Abast,Not_Specified
+1843,2018S001744    ,Abast,Not_Specified
+1844,2018S001745    ,Col.lisiÃ³ lateral,Not_Specified
+1845,2018S001746    ,Col.lisiÃ³ lateral,Not_Specified
+1846,2018S001747    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1847,2018S001748    ,Col.lisiÃ³ lateral,Not_Specified
+1848,2018S001749    ,Caiguda interior vehicle,Not_Specified
+1849,2018S001750    ,Col.lisiÃ³ lateral,Not_Specified
+1850,2018S001750    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1851,2018S001751    ,Col.lisiÃ³ lateral,Not_Specified
+1852,2018S001752    ,Caiguda interior vehicle,Not_Specified
+1853,2018S001753    ,Abast,No hi ha causa mediata
+1854,2018S001754    ,Col.lisiÃ³ lateral,Not_Specified
+1855,2018S001755    ,Xoc contra element estÃ tic,Not_Specified
+1856,2018S001756    ,Xoc contra element estÃ tic,Not_Specified
+1857,2018S001757    ,Abast,Not_Specified
+1858,2018S001758    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1859,2018S001759    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1860,2018S001760    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1861,2018S001761    ,Xoc contra element estÃ tic,Not_Specified
+1862,2018S001762    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1863,2018S001763    ,Col.lisiÃ³ lateral,Not_Specified
+1864,2018S001764    ,Atropellament,Not_Specified
+1865,2018S001765    ,EncalÃ§,Not_Specified
+1866,2018S001766    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1867,2018S001767    ,Col.lisiÃ³ frontal,No hi ha causa mediata
+1868,2018S001768    ,Caiguda interior vehicle,Not_Specified
+1869,2018S001769    ,Caiguda (dues rodes),Not_Specified
+1870,2018S001770    ,Atropellament,Not_Specified
+1871,2018S001771    ,Sortida de via amb xoc o col.lisiÃ³,Not_Specified
+1872,2018S001772    ,Abast,Not_Specified
+1873,2018S001772    ,Caiguda (dues rodes),Not_Specified
+1874,2018S001773    ,Col.lisiÃ³ lateral,Not_Specified
+1875,2018S001774    ,Atropellament,No hi ha causa mediata
+1876,2018S001775    ,Caiguda (dues rodes),Not_Specified
+1877,2018S001776    ,Atropellament,Not_Specified
+1878,2018S001777    ,Xoc contra element estÃ tic,Not_Specified
+1879,2018S001777    ,Abast,Not_Specified
+1880,2018S001778    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1881,2018S001779    ,Col.lisiÃ³ fronto-lateral,Not_Specified
+1882,2018S001780    ,Abast,Not_Specified
+1883,2018S001780    ,Caiguda (d,Not_Specified
