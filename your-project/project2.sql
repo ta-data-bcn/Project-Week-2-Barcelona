@@ -92,9 +92,3 @@ where Any = 2019 #and Nacionalitat != 'Espanya'
 group by n, y
 order by num desc
 limit 11;
-
-drop table immigrants_by_nationality;
-drop table percentages_by_country_all_years;
-drop table percentages_by_country_2015;
-drop table percentages_by_country_2016;
-drop table percentages_by_country_2017;
