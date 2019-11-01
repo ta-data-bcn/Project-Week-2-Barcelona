@@ -59,6 +59,6 @@ What does your repository look like? Explain your folder and file structure.
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/) https://github.com/Maria6694/Project-Week-2-Barcelona    
-[Slides](https://slides.com/)  
+[Slides](https://slides.com/) https://docs.google.com/presentation/d/1d9lAIk43D_1rzOmFP_qPNBnwoGBPeGL7rO04aGpHvTg/edit?usp=sharing
 [Trello](https://trello.com/en) https://trello.com/b/ZKRnX4t1/project-2
 
