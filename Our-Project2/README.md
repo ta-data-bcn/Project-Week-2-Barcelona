@@ -65,5 +65,5 @@ The second one is a SQL file with the codes that we used to query and go through
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/alieldinramadan/Project-Week-2-Barcelona)  
-[Slides](https://docs.google.com/presentation/d/1vuTeN2iXaUeRgUXoponohuf9iWkyiEh0VeH5_UkKju8/edit#slide=id.p)  
+[Slides](https://docs.google.com/presentation/d/1vuTeN2iXaUeRgUXoponohuf9iWkyiEh0VeH5_UkKju8/edit?usp=sharing)  
 [Trello](https://trello.com/b/nMwUiVvX/project-2)  
