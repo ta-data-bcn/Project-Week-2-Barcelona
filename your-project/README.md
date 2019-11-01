@@ -46,14 +46,14 @@ password: ABCd1234
 ## Workflow
 The following steps were performed during the analysis of this project.
 1.  Locate a suitable raw data file.
-2.  Import CSV file into Panda dataframe for initial analysis and review. [One column contained a trailling space which caused an issue]
+2.  Import CSV file into Pandas dataframe for initial analysis and review. [One column contained a trailling space which caused an issue]
 3.  ERD created based on data available and analysis to be performed.
-x.  Remove whitespace from column names and selected columns (accident identifier and street name).
-4.  New dataframes created using selected columns from raw data file.
-5.  Population of aforementiones new dataframes - used cleaned columns as required.
-6.  New database created on Amazon Web Services (AWS).
-7.  Respective Panda dataframes used to populate the tables on the new database.
-x. Analysis performed via both SQL quieres and within Pandas to develop our skill sets using eact methodology.
+4.  Remove whitespace from column names and selected columns (accident identifier and street name).
+5.  New dataframes created using selected columns from raw data file.
+6.  Population of aforementiones new dataframes - used cleaned columns as required.
+7.  New database created on Amazon Web Services (AWS).
+8.  Respective Pandas dataframes used to populate the tables on the new database.
+9.  Analysis performed via both SQL quieres and within Pandas to develop our skill sets using eact methodology.
 
 ## Organization
 In order to idenitfy and track all tasks required to be completed, a Trello board was utilised. The link to the Trello board used is found in the Links section below.
@@ -68,6 +68,6 @@ The 'datasets' folders contains a selection of other datasets which were availab
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/tristar82/Project-Week-2-Barcelona)  
-[Slides](https://slides.com/)  
+[Slides](https://www.dropbox.com/s/udxfsejpht96p2r/Investigation%20into%20influence%20of%20summer%20on%20RTAs%20in%20city%20of%20Barcelona.pdf?dl=0)  
 [Trello](https://trello.com/b/G0laRJKn/accidents-in-barcelona)  
 [Raw Data Sat](https://opendata-ajuntament.barcelona.cat/data/dataset/317e3743-fb79-4d2f-a128-5f12d2c9a55a/resource/6e2daeb5-e359-43ad-b0b5-7fdf438c8d6f/download/2018_accidents_vehicles_gu_bcn_.csv) 
