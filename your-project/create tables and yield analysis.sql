@@ -56,3 +56,14 @@ from accident a
 inner join accident_street ast on a.codi_expedient_clean = ast.codi_expedient_clean
 group by nom_barri;
 
+-- New need to see number of accidents by hour in October
+select hora_dia, count(a.codi_expedient_clean) as AccientsOctbyHour
+from accident a left join accident_datetime dt on a.codi_expedient_clean = dt.codi_expedient_clean
+where mes_any = 10
+group by hora_dia;
+
+-- New need to see number of accidents by hour in August
+select hora_dia, count(a.codi_expedient_clean) as AccientsAugbyHour
+from accident a left join accident_datetime dt on a.codi_expedient_clean = dt.codi_expedient_clean
+where mes_any = 8
+group by hora_dia;
