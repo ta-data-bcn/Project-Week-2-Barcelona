@@ -16,21 +16,21 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
-The local population of Barcelona are well known for taking their annual holidays during the summar month of August. During the month many businesses close - however there is an influx of visitors, who are also taking their summer break. The aim of this project is to determine if there is a change in Road Traffic Accidents (RTAs) during the month of August.
+The local population of Barcelona are well known for taking their annual holidays during the summar month of August. During the month many businesses close - however there is an influx of visitors who are also taking their summer break. The aim of this project is to determine if there is a change in the number Road Traffic Accidents (RTAs) during the month of August.
 
 ## Questions & Hypotheses
-The authors of this project have assumed that the number of accidents will vary during the month of August, compared to the rest of the year.
+The authors of this project have assumed that the number of accidents willincrease during the month of August, compared to the rest of the year.
 The questions to be answered during the analysis portion of this project are:
-1. Does the month of year influnce the number of RTAs in Barcelona.
-2. During the month of August, do accidents occur at differnet times of day compared to the rest of the year.
+1. Does the month of year influnce the number of RTAs in Barcelona?
+2. Does the time of day influence the number of RTAs?
+3. Is there seasonabl variation in the numner fo RTAs?
+3. If there a variation in the number of accidents by district within the city.
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
 The data for this project was sourced from the Ajuntament of Barcelona Open Data website (accessible in English language). The URL for this raw data CSV file is provided in the Links section below.
 
 ## Database
-The raw CSV data file was cleaned and used to populate the tables down in the ERD below. Note that not all data in teh source file was imported into the database for analysis.
+The raw CSV data file was cleaned using Pandas and subsequently populated into tables within a MySQL databse hosted on AWS. The structure and relationships of the tables is demonstrated in the ERD below. Note that not all data in the source file was imported into the database for analysis.
 
 ![logo](https://www.dropbox.com/s/ppuwne3jhkv41d6/ERD.JPG?raw=1) "Barcelona Accident Data 2018 - ERD"
 
@@ -38,12 +38,14 @@ The raw CSV data file was cleaned and used to populate the tables down in the ER
 You may access the database using the credentials below
 
 endpoint: barcelona-db.cyxhqbnhiohl.eu-west-3.rds.amazonaws.com
+
 username: guest
+
 password: ABCd1234
 
 ## Workflow
 The following steps were performed during the analysis of this project.
-1.  Source raw data file.
+1.  Locate a suitable raw data file.
 2.  Import CSV file into Panda dataframe for initial analysis and review. [One column contained a trailling space which caused an issue]
 3.  ERD created based on data available and analysis to be performed.
 x.  Remove whitespace from column names and selected columns (accident identifier and street name).
@@ -51,7 +53,7 @@ x.  Remove whitespace from column names and selected columns (accident identifie
 5.  Population of aforementiones new dataframes - used cleaned columns as required.
 6.  New database created on Amazon Web Services (AWS).
 7.  Respective Panda dataframes used to populate the tables on the new database.
-8.  XXXXXXXXX
+x. Analysis performed via both SQL quieres and within Pandas to develop our skill sets using eact methodology.
 
 ## Organization
 In order to idenitfy and track all tasks required to be completed, a Trello board was utilised. The link to the Trello board used is found in the Links section below.
@@ -59,6 +61,7 @@ In order to idenitfy and track all tasks required to be completed, a Trello boar
 Within the GitHub respository there are two folders.
 
 The 'your-project' folder contains a the IPYNB and SQL files used to load the raw data CSV, which also resides here. The ERD is in this folder too.
+
 The 'datasets' folders contains a selection of other datasets which were available (but not used) during the discovery phase of this project.
 
 ## Links
