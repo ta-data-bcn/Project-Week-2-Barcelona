@@ -58,7 +58,7 @@ Outline the workflow you used in your project. What are the steps you went throu
 Used Trello to keep track of the tasks done and those that were pending.
 
 Inside the repository there is a folder for the project called "Our_Project2".
-Inside "Our_Project2" folder, there are two files, the first of is a jupyter notebook file for the code that we used to import and work on the data.
+Inside "Our_Project2" folder, there are three files, the first two are jupyter notebook files for the codes that we used to import and work on the data.
 The second one is a SQL file with the codes that we used to query and go through the data using mySQL.
 
 ## Links
