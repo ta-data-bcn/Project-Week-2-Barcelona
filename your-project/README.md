@@ -41,3 +41,7 @@ Include links to your repository, slides and kanban board. Feel free to include 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/en)  
+
+## Information links
+[turism](https://consejosdeespana.com/barcelona/las-mejores-epocas-para-ir-a-barcelona/)
+[air_quality](https://en.wikipedia.org/wiki/Air_quality_index)
