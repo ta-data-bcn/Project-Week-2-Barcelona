@@ -12,12 +12,13 @@ with open(credentials) as f:
 
 data_folder = Path('./Project-Week-2-Barcelona/datasets/2.-Urban-Environment/air-stations-nov-2017.csv')
 df = pd.read_csv(data_folder)
-#print(df.columns)
-print(df)
+print('\nimported data -->\n', df)
 
-# create INSERT sentence
-insert_sql = 'INSERT INTO Station ({}) VALUES (%s,%s,%s)'
+# generic INSERT sentence
+insert_sql = 'INSERT INTO {} ({}) VALUES ({})'
+table_name = 'Station'
 column_names = 'name, lat, lng'
+values = '%s,%s,%s'
 
 conn = pymysql.connect(host=lines[0], user=lines[1], password=lines[2], db=lines[3])
 
@@ -26,11 +27,14 @@ cursor = conn.cursor()
 
 for i,row in df.iterrows():
     try:
-        cursor.execute(insert_sql.format(column_names), [row[0], float(row[1]), float(row[2])])
+        cursor.execute(insert_sql.format(table_name, column_names, values), [row[0], float(row[1]), float(row[2])])
         conn.commit()
-    except:
+    except pymysql.Error as e:
+        if (str(e).__contains__('Duplicate')):
+            print(f'DUPLICATED VALUE --> {[row[0], float(row[1]), float(row[2])]}')
+        else:
+            print(f'ERROR - could not insert querie {insert_sql.format(table_name, column_names, values)} with params {[row[0], float(row[1]), float(row[2])]}')
         conn.rollback()
-        print(f'ERROR - could not insert querie {insert_sql.format(column_names)} with params {[row[0], float(row[1]), float(row[2])]}')
 
 # the connection is not autocommitted by default, so we must commit to save our changes
 
