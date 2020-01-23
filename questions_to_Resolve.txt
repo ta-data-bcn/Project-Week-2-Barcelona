@@ -1,0 +1,16 @@
+URBAN ENVIRONMENT
+- calidad actual
+    - información actualizada periódicamente para hacer la media de los últimos días por localizaciones
+- fecha turistica vs standard
+    - información actualizada periódicamente de por lo menos un año entero y por zonas
+- evolución
+    - información por fecha y zona de unos cuantos años
+- estimación futuro según evolución
+    - gráfica de los últimos años
+- estaciones del año
+    - meses centrales de cada estación de algunos años
+- zonas & horarios
+    - detalles de polución por horas de cada zona a investigar
+- respiración aire contaminado
+    - litros respirados
+    - porcentajes contaminación ambientales anuales
