@@ -16,7 +16,7 @@ df = pd.read_csv(data_folder)
 print(df)
 
 # create INSERT sentence
-insert_sql = 'INSERT INTO Station ({}) VALUES (%s,%f,%f)'
+insert_sql = 'INSERT INTO Station ({}) VALUES (%s,%s,%s)'
 column_names = 'name, lat, lng'
 
 conn = pymysql.connect(host=lines[0], user=lines[1], password=lines[2], db=lines[3])
