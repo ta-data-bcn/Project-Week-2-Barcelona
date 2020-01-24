@@ -22,7 +22,7 @@ GROUP BY s.`ID`
 ORDER BY s.`name` ASC
 ;
 /**
-seems like turism affects in a positive way to PM10 as values ar higher during
+seems like turism affects in a positive way to PM as values ar higher during
 octover and november than july and august
 MAX gets learly 10 times higher passing from a good quality to a moderate state
 different areas have more or less the same value, variation is not higher than

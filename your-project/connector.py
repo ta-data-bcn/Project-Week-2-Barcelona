@@ -7,6 +7,15 @@ import re
 
 class DBConnector:
     def __init__(self, path):
+        """
+        Constructor -->
+        - path: relative or full path to the connection file
+                structure of the file:
+                - host
+                - user
+                - password
+                - database
+        """
         credentials = Path(path)
         # check file exists
         if (not credentials.exists()):
@@ -23,6 +32,15 @@ class DBConnector:
         self.insert_sql = 'INSERT INTO {} ({}) VALUES ({})'
 
     def insert_values(self, table, columns, values, row):
+        """
+        insert given values to specified table
+        - table: the table to insert values
+        - columns: columns affected, params to insert
+        - values: specify a string with '%s' for each param
+            -- 3 parameters would be str('%s,%s,%s')
+        -row: array / tuple / list with values to insert in the
+            order of the columns var
+        """
         try:
             self.cursor.execute(self.insert_sql.format(table, columns, values), row)
             self.conn.commit()
@@ -34,14 +52,30 @@ class DBConnector:
             self.conn.rollback()
     
     def execute_query(self, sql):
+        """
+        executes the given slq sentence. It can
+        only execute SELECT sentences.
+        - sql: the query to execute
+        - return >> pandas dataframe with result
+        """
         return pd.read_sql(sql, self.conn)
     
     def close_connection(self):
+        """
+        closes all open connections
+        """
         self.cursor.close()
         self.conn.close()
 
 
 def recover_integer(val):
+    """
+    gets the int value from a string
+    - val: the var to cast into int type
+    - return >> the int value in the given var
+        -- if no value could be retrieved,
+           returns null
+    """
     try:
         new_val = int(val.values[0])
     except:
@@ -53,6 +87,13 @@ def recover_integer(val):
     return new_val
 
 def recover_date(val):
+    """
+    gets a str and casts it into datetime
+    - val: the str to cast into datetime type
+        -- format needs to be '%d/%m/%Y %H:%M'
+    - return >> datetime given in val
+        -- if no date could be casted, returns now()
+    """
     try:
         generated = datetime.strptime(val, '%d/%m/%Y %H:%M')
     except:
@@ -61,6 +102,11 @@ def recover_date(val):
     return generated.strftime('%Y-%m-%d %H:%M:%S')
 
 def run_csv_file_into_sql(registry_df, stations):
+    """
+    gets a pandas dataframe and insert its alue into DB
+    - registry_df: the dataframe to insert
+    - stations: dataframe with stations
+    """
     # setting values to create the inserts
     table_name = 'Registry'
     column_names = 'no2_Val, o3_Val, pm_val, date_generate, station_ID'
@@ -154,10 +200,7 @@ registry_df = pd.read_csv(data_folder)
 print('\nimported data -->\n', registry_df)
 run_csv_file_into_sql(registry_df, stations)
 
-
-
-
-
-
-# close connections
+#####################
+# close connections #
+#####################
 db_conn.close_connection()
