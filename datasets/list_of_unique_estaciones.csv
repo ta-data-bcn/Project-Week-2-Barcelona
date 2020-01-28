@@ -1,0 +1,464 @@
+﻿id;streetName;streetNumber
+1;Gran Via Corts Catalanes;760
+2;Roger de Flor/ Gran Vi­a;126
+3;Ni pols;82
+4;Ribes;13
+5;Pg Llui­s Companys;11
+6;Pg Llui­s Companys;18
+7;Pg Llui­s Companys;1
+8;Pg Llui­s Companys;2
+9;Marqui¨s de l'Argentera;13
+11;Passeig Mari­tim;19
+12;Pg Mari­tim Barceloneta;23
+13;Avinguda Litoral;16
+14;Avinguda del Marques Argentera;15
+15;Girona;68
+16;Av. Meridiana;47
+17;Av. Meridiana;47
+18;Rosselli³;453
+19;Rosselli³;354
+20;Cartagena;308
+21;Sant Antoni Maria Claret;214
+22;Sardenya;292
+23;Bruc;45
+24;Marina;199
+25;Bruc;102
+26;Dos Maig;230
+27;Proveni§a;322
+28;Sardenya;362
+29;Proveni§a;388
+30;Diagonal;231
+31;Plai§a del Mar;72
+32;Plai§a del Mar;1
+33;Pontevedra;58B
+34;Sant Pere Mi©s Alt;4
+35;Sant Ramon de Penyafort;1
+36;Catedral;6
+37;Pl. Antonio Li³pez;NA
+38;Pl. Pau Vila;NA
+39;Pl. Pau Vila;NA
+40;Doctor Aiguader;2
+41;Pl. Poeta Bosci /Atli ntida;NA
+42;Ciutat de Granada;168
+43;Av Meridiana;80
+44;Av Meridiana;66
+45;Marina;66
+46;Ramon trias Fargas;19
+47;Ramon Trias Fargas;NA
+48;Meridiana;40
+49;Rosa Sensat en front;20
+50;Av. Paral.lel;54
+51;Pl. Viceni§ Martorell;NA
+53;Pl. Carles Pi i Sunyer;NA
+54;Sant Oleguer;2
+55;La Rambla;80
+56;Portal de Santa Madrona;2
+57;La Rambla;2
+58;Plai§a dels i€ngels;1
+59;Plai§a dels i€ngels;2
+60;Rambla Catalunya;47
+61;Rambla Catalunya;42
+62;Pl. Catalunya;5
+63;Pl. Catalunya;7
+64;Pl. Catalunya;NA
+65;Pl. Catalunya;NA
+66;Gran Via;609
+67;Rocafort;214
+68;Rambla Catalunya;133
+69;Avda. Litoral;NA
+70;Comte Urgell;23
+71;Floridablanca;145
+72;Proveni§a;215
+73;Enric Granados;93
+74;Josep Tarradellas;133
+75;Josep Tarradellas;58
+76;Ci²rsega;216
+78;Pl. Universitat;NA
+79;Pl. Universitat;NA
+80;Enric Granados;35
+81;Vilamari­ davant;61
+82;Rocafort;72
+83;Comte Borrell;177
+84;Comte d'Urgell;75 B
+85;Paral.lel;146
+86;Viladomat;2
+87;Mallorca;41
+88;Londres;101
+89;Rosselli³;101
+90;Rosselli³;108
+91;Comte Borrell;119
+92;Proveni§a;241
+93;Gran Via;375
+94;Gran Via;375
+95;Tarragona;103
+96;Gran Via;361
+97;Tarragona;141
+98;Viriat;45
+99;Viriat;53
+100;Tarragona;159
+101;Av. Diagonal;602
+102;Av. Diagonal;612
+103;Aragi³;629
+104;C/Vali¨ncia;621
+105;PL. Urquinaona;9
+106;Pl. Joanic;s/n
+107;Travessera de Gracia;92
+108;Indiºstria;10
+109;C/ Londres;53
+110;Avda. Roma;136
+111;Calabria;137
+112;Floridablanca;49
+113;Sant Pau;51
+114;Pl. Jean Genet;1
+115;Marqui©s d'Argentera;3
+116;Salvat Papasseit;72
+117;Rosa Sensat;12
+118;Sardenya;3
+119;Sardenya;178
+120;Lepant;278
+121;Castillejos;258
+122;Ni pols;344
+123;Girona;142
+124;Passeig Joan de Borbi³;s/n
+125;Passeig Maritim;31
+126;Passeig de Colom;NA
+127;Aragi³;661
+128;Rambla Guipiºscoa;43
+129;Manso;46
+130;Rambla Guipiºscoa;103
+131;Rambla Guipiºscoa;158
+132;Pl. Valenti­ Amirall;NA
+133;Gran Vi­a;902
+134;Bac de Roda;157
+135;Gran Vi­a;981
+136;Gran Vi­a;1062
+137;Gran Vi­a, 1041/ Selva de Mar;1041
+138;Gran Vi­a;1118
+139;Gran Vi­a;1131
+140;Viladomat;122
+141;Gran Via;940
+142;Sancho de ivila;104
+143;Sancho de ivila;170
+144;Castella;28
+145;Pere IV;301
+146;Pere IV;464
+147;Rambla Prim;79
+148;Ronda Sant Pau;79
+149;Pujades;57B
+150;Espronceda;124
+151;Pallars;462
+152;Pujades;121
+153;Pujades;173
+154;Pujades;191
+155;Pujades;311
+156;Diagonal;46
+157;C/ LLULL - RBLA. PRIM;465
+158;Rambla de Prim;19
+159;Avda. Diagonal;26
+160;Avda. d'Eduard Maristany;1
+161;Ramon Turro;91
+162;Ramon Turro;292
+163;Avda. Icaria;202
+164;Independi¨ncia;379
+165;Carrer del Doctor Trueta;221
+166;Bilbao;11
+167;Bac de Roda;11
+168;Selva de Mar;0
+169;Avda. Litoral;40
+170;Avda. Litoral;40
+171;Passeig Mari­tim de la Nova Ici ria;83
+172;Passeig Mari­tim de la Nova Ici ria;83
+173;Avda. Litoral;84
+174;Passeig de Garcia Fi ria;21
+175;Llull / Proveni§als;309
+176;Passeig de Garcia Fi ria;37
+177;Rosselli³;557
+178;Passeig de Garcia Fi ria;85
+179;Pg. Zona Franca;244
+180;Gran Via;181
+181;Gran Via;180
+182;Gran Via;273
+183;Gavi ;1
+184;Quetzal;22
+185;Gavi ;81
+186;Consell de Cent;6
+187;Carrer de Sant Pau;89
+188;Pl. Sants (Ps. S. Antoni);0
+189;Bruc;130
+190;Avinguda Litoral;72
+191;Rocafort;167
+192;Joan Gi¼ell;50
+193;Figols;1
+194;Joan Gi¼ell;98
+195;Vallespir;130
+196;Berli­n;38
+197;Gelabert;1
+198;Vallespir;194
+199;Meji­a Lequerica;2
+200;Can bruixa;1
+201;Numi ncia;136
+202;Carrer de les Corts;20
+203;Avda. Diagonal;664
+204;Avda. Diagonal;668
+205;Europa;25
+206;Avda. Diagonal;650
+207;Avda. Diagonal;634
+208;Avda. Diagonal;630
+209;Diputacii³;200
+210;Vilardell;18
+211;Sancho de ivila;60
+212;Av. Sarrii ;163
+213;Sant Fe de Nou Mi¨xic;2
+214;Josi© de Agulli³;19
+215;Carrer de Ganduxer;29
+216;Madrazo;131
+217;Rector Ubach;24
+218;Consell de Cent;566
+219;Carre Laforja;74
+220;Tuset;19
+221;Gran de Gri cia;155
+222;Carrer del Cani³;1
+223;Carrer de Bonavista;14
+224;Girona;176
+225;Mallorca;84
+226;Montmany;1
+227;Torrent de Les Flors;102
+228;Pl. Del Nord;5
+229;Carrer de la Santacreu;2
+230;C. De Nil Fabra;16
+231;Pi i Margall;38
+232;Vili  i Vili ;45
+233;Nou de la Rambla;164
+234;Passeig de l'Exposicii³;30
+235;Paral.lel;98
+236;Avinguda Paral.lel;194
+237;Rius i Taulet;4
+238;Espronceda;298
+239;Indiºstria;329
+240;Josep Estivill;32
+241;Teodor Llorente;2
+242;Ramon Albi³;1
+243;Alenxadre Gali­;1
+244;Felip II;214
+246;Garcilaso;77
+247;Felipe II;112
+248;Pali¨ncia;31
+249;Ai§ores;1
+250;Portugal;3
+251;Cardenal Tedeschini;13
+252;Rambla Onze de Setembre;31
+253;Onze de Setembre;37
+254;Gran de Sant Andreu;69
+255;Irlanda;11
+256;Malats;28
+257;Sant Adrii ;2
+258;Fernando Pessoa;41
+259;Carrer de Bartrina;14
+260;Plai§a de l'Estacii³;6
+261;Villarroel;39
+262;Rocafort;103
+263;Pg.Torras i Bages;29
+264;Repiºblica Dominicana;25
+265;Casanovas;67
+266;Concepcii³ Arenal;176
+267;Passeig Torras i Bages;129
+268;Fernando Pessoa;72
+269;Via Barcino;121
+270;Crta. de Ribes (Trinitat Vella);77
+271;Via Barcino;69
+272;Concepcii³ Arenal;281
+273;Avda. Meridiana;404
+274;Rambla Fabra i Puig;67
+275;Rio de Janeiro;3
+276;Plai§a Alfons X el Savi / Ronda del Guinardi³;NA
+277;Travessera de Gri cia;328
+278;Travessera de Gri cia;368
+279;Mas Casanovas;137
+280;Sant Antoni MÂª Claret;290
+281;Escornalbou;51
+282;Font d'en Fargas;1
+283;Carrer Fulton;1
+284;Ada. Diagonal;652
+285;Malats;98
+286;Boli­via;76
+287;Gran Via;632
+288;Pl. Virrei Amat;NA
+289;Miºrcia;64
+290;Plai§a dels Jardins d'Alfi bia;1
+291;Cubelles;2
+292;Amilcar;1
+293;Granollers;1
+294;Seu del Districte (Nou Barris);NA
+295;Sant Iscle;60
+296;Carrer de Rosselli³ i Porcel;1
+297;Carrer Turi³ Blau;1
+298;Andreu Nin;22
+299;Carrer de l'Escultor Ordi³i±ez;55
+300;Carrer de Maladeta;1
+301;Marie Curie;8
+302;Cavallers;41
+303;Cavallers;67
+304;Manuel Girona;7
+305;Diagonal;680
+306;Doctor Salvador Cardenal;7
+307;Pintor Ribalta;NA
+308;Cardenal Reig;11
+309;Sant Rami³n Nonat;26
+310;Josep Samitier;NA
+311;Gallego-Ari­stides Maillol;2
+312;Arizala;77
+313;Feliu de Casanova;1
+314;Rambla del Brasil;44
+315;Guinardi³;32
+316;Canti bria;55
+317;Rambla Prim;256
+318;Cartagena;83
+319;Sagui¨s;1
+320;Vi­a Augusta;21
+321;Carrer de Sant Hermenegild;30
+322;Santali³;165
+323;Vallmajor;13
+324;Reina Victoria;31
+325;Alt de Gironella;13
+326;Balmes;409
+327;Reus;23
+328;Artesa de Segre;2
+329;Carrer de les Escoles Pies;99
+330;Doctor Carulla;44
+331;Castellnou;65
+332;Doctor Roux;86
+333;Passatge de Senillosa;3
+334;Via Augusta;348
+335;Santa Ami¨lia;2
+336;Caponata;10
+337;Carme Karr;12
+338;Avinguda de J.Foix;63
+339;Ramon Turri³;246
+340;Sant Adrii ;113
+341;Passeig Enric Sanchi­s;33
+342;Roc Boronat;134
+343;Campana de la Maquinista;NA
+344;Ciutat d'Asuncii³n;73
+345;Pl. Teresa de Claramunt;NA
+346;Carrer de la Foneria;33
+347;Alts Forns;77
+348;Jardins de Can Ferrero;NA
+349;Carrer de l'Energia;2
+350;Villarroel;208
+351;Jane Addams;26
+352;Radi;10
+353;Munni©;6
+354;Rambla del Brasil;5
+355;Carreras i Candi;89
+356;Cami¨lies;73
+357;Cardener;82
+358;Gombau;24
+359;Mi©ndez Niºi±ez;16
+360;Baili©n;62
+361;Passeig de Colom;NA
+362;Baili©n;100
+363;Bruc;20
+364;Passeig de Gri cia;61
+365;Viladomat;244
+366;Pau Casals;1
+367;Sentmenat;39
+368;Diputacii³;350
+369;Consell de Cent;482
+370;Sardenya;234
+371;Carrer dels Enamorats;49
+372;Ribes;77
+373;Av. Paral.lel;132
+374;Passeig de Gri cia;89
+375;World Trade Center;NA
+376;World Trade Center;NA
+377;Pl. Icti­neo;NA
+378;Pl.Joaquim Xira i Palau;1
+379;Pl. Sant Miquel;4
+380;Duran i Bas;2
+381;Agusti­ Duran i Sanpere;10
+382;Lope de Vega;79
+384;Vilamari­;85
+385;Casanova;119
+386;Av.Paral.lel;164
+387;Ni pols;125
+388;Riera Alta;6
+389;Recinte Parc de la Ciutadella;NA
+390;Comeri§;36
+391;Sagrera;74
+392;Ramon Turri³;4
+393;Llacuna;86
+394;Diputacii³;226
+395;Pl. Catalunya;22
+396;Joan Miri³;2
+397;Av. Del Litoral;24
+398;Passeig Mari­tim de la Barceloneta;NA
+400;Moll Oriental;NA
+401;Pl. Antonio Li³pez (Via Laietana) annexa a la 37;NA
+402;Passeig de Colom;NA
+404;Juan Gris;28
+405;Comte Borrell;198
+406;Gran Via de Les Corts Catalanes;592
+407;Ramon Trias Fargas;19
+408;Villena, 11;11
+409;Joan d'i€ustria;31 B
+410;Passeig de Colom, s/n;NA
+412;Pl. Urquinaona;3
+413;Bruc;66
+414;Casp;67
+415;Rambla del Raval;13
+416;Rambla del Raval;20
+418;Passeig de Llui­s Companys;NA
+419;Passeig de Llui­s Companys;NA
+420;Gran Via;361
+421;Plai§a de Joan Peiri³;NA
+423;Carrer d'Hondures;32
+424;Passeig Mari­tim de la Barceloneta, devant del 5-7;5
+425;Carrer de Cervelli³;5
+426;Carrer de Ribes;59
+427;Carrer de Sant Pau;119
+428;Carrer Pujades;103
+451;(PK) C/ JAUME FABRA;12
+452;(PK) C/ PADILLA;159
+453;(PK) C/ URGELL;14
+454;(PK) C/ BILBAO;24
+455;(PK) AV. DEL LITORAL;34
+456;(PK) C/ DE FLOS I CALCAT;2
+457;(PK) C/ DE JOSEP BALARi;2
+458;(PK) AV. JOAN XXIII;23-25
+459;(PK) C/ D'ALi BEI;54
+460;(PK) AV. FRANCESC CAMBi“;10
+461;(PK) AV. JOSEP TARRADELLAS;46
+462;(PK) AV. JOSEP TARRADELLAS;139
+463;(PK) C/ DE LÂ´ABAT SAFONT;2
+464;(PK) C/ DE RAMON ALBi“, 77s;77
+465;(PK) RDA. DEL GENERAL MITRE;203
+466;(PK) PG. MARAGALL;54
+467;(PK) C/ DEL DR. AIGUADER;86-88
+468;(PK) C/ DE LES MONGES;2
+469;(PK) RAMBLA DEL POBLENOU;130
+470;(PK) C/ CARDENAL DE SENTMENAT;8
+471;(PK) C/ MARQUiˆS DE MULHACi‰N;51
+472;(PK) C/ DEL TORRENT DE LÂ´OLLA;221
+473;(PK) PG. DE GARCIA Fi€RIA;71
+474;(PK) PL. GAl.LA PLACiDIA;2
+475;(PK) C/ DE LA MARINA;345
+476;(PK) C/ DE BADAJOZ;168
+477;(PK) PG. DE COLOM;1
+478;(PK) C/ DEL BALUARD;27
+479;(PK) C/ DE LA MARINA;13-17
+480;(PK) C/ DELS FLORISTES DE LA RAMBLA;8
+481;(PK) C/ DE VALiˆNCIA;77
+482;(PK) PL. D'ERNEST LLUCH I MARTIN;SN
+483;(PK) C/ DE SIRACUSA;39-51
+484;(PK) RAMBLA CATALUNYA - RDA. UNIVERSITAT;SN
+485;(PK) PLAi‡A URQUINAONA;SN
+486;(PK) PG. DE GRi€CIA - DIAGONAL;NA
+487;(PK) PL. DE FERRER I CAJIGAL;NA
+488;(PK) C/ DE CIENFUEGOS;13
+489;(PK) PLAi‡A CANONGE RODi“;SN
+491;(PK) C/ DE CARRERAS I CANDI;65
+492;PL. DE TETUAN;08-sept
+493;PL. SANT MIQUEL;4
+494;RAMBLA CATALUNYA;31
+495;C/ DIPUTACIi“ - TARRAGONA;SN
+496;C/ DE PROVENi‡A;445
