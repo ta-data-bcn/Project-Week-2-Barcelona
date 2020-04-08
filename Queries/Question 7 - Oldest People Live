@@ -1,0 +1,11 @@
+District.Name,sum(Number),Age
+Eixample,1275,>=95
+"Sarrià-Sant Gervasi",733,>=95
+"Sant Martí",560,>=95
+Horta-Guinardó,560,>=95
+Gràcia,513,>=95
+Sants-Montjuïc,466,>=95
+"Sant Andreu",391,>=95
+"Nou Barris",375,>=95
+"Les Corts",314,>=95
+"Ciutat Vella",228,>=95
