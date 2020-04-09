@@ -50,18 +50,19 @@ Limit 10;
 #we decide the winner by frequency
 select name, gender, sum(frequency)
 from most_frequent_names 
+where decade not like 'Total' and gender = 'Male'
 group by name having count(decade) = 10
 order by gender, sum(frequency) desc
 ;
-#Only two names in both genders have been on the top all century! the winner is 'Carlos', closly followed by the runner-up 'Miguel'
+#Only two names in both genders have been on the top all century! the winner is 'Jordi', closly followed by the runner-up 'Joan'
 #as we also want to know the all time favourites for female names, now we are checking if there are any that have been up there al least 9 decades of the century
 select name, sum(frequency)
 from most_frequent_names 
-where gender = 'Female'
-group by name having count(decade) = 9
+where decade not like 'Total' and gender = 'Female'
+group by name having count(decade) = 10
 order by sum(frequency) desc
 ;
-#here we do find two female names! We have 'Marta' as a winner, followed by the runner-up 'Julia'
+#here we do find two female names! We have 'Maria' as a winner, followed by the runners-up 'Nuria', 'Ana' and 'Elena'
 #question modern names (only appear on the top the last two decades)
 select name, gender, sum(frequency)
 from most_frequent_names
