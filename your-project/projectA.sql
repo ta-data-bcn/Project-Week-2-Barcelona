@@ -62,3 +62,16 @@ group by name having count(decade) = 9
 order by sum(frequency) desc
 ;
 #here we do find two female names! We have 'Marta' as a winner, followed by the runner-up 'Julia'
+#question modern names (only appear on the top the last two decades)
+select name, gender, sum(frequency)
+from most_frequent_names
+where decade >= 2000 and name not in (select name
+from most_frequent_names
+where decade < 2000)
+group by name having count(decade) = 2
+order by sum(frequency) desc , gender asc
+limit 10;
+#Top 3 modern names for females are Martina, Emma and Noa
+#top 3 modern names for Males are Jan, Biel and Hugo
+#we can also see that out of the 10 most frequent modern names 7 out of 10 are male names
+#so we could say that male names have modernized more than female names the past two decades
