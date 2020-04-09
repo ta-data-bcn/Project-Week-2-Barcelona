@@ -56,4 +56,9 @@ FROM Population
 GROUP BY AgeRange, Year, Barrio
 ORDER BY Year DESC;
 
+SELECT Distrito, Barrio, AVG(EdadMedia) as EdadMedia
+FROM PoblacionPorEdadesYNac
+GROUP BY Barrio
+ORDER BY EdadMedia ASC;
+
 
