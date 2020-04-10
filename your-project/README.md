@@ -50,7 +50,7 @@ completed the presentation.
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
 
-We used the Trello board, Google Slides and Zoom conferencing to 
+We used the Trello board, Google Slides and Zoom conferencing to discuss and coordinate our work. 
 
 What does your repository look like? Explain your folder and file structure.
 
@@ -59,6 +59,6 @@ The repository consists of the data files provided by Ironhack. We then divded u
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository][Gareth's Github](https://github.com/peiriant) / [Vicky's Github](https://github.com/VickyZauner)
-[Slides](https://docs.google.com/presentation/d/1WDBeeWpD6za2syDMQ1G0xq0Xw_AeZHo_HWFY5s6oIDs/edit?ts=5e8ebbd3#slide=id.p)
+[Repository][Gareth's Github](https://github.com/peiriant) / [Vicky's Github](https://github.com/VickyZauner)  
+[Slides](https://docs.google.com/presentation/d/1WDBeeWpD6za2syDMQ1G0xq0Xw_AeZHo_HWFY5s6oIDs/edit?ts=5e8ebbd3#slide=id.p)  
 [Trello](https://trello.com/b/lxXG5Fxb/project-2-barcelona-gh)
