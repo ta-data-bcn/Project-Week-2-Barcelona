@@ -144,3 +144,12 @@ Order BY Score desc
 LIMIT 3;
 #The clear winner in Barcelona is maria, with an score of 8.65, followed by Antonio (5.60) and the bronze goes to Jordi (5.21)
 
+#In which gender names tends society to innovate more? (We sum the frequency of the names by gender and then divide it by the count the unique names of each gender, the value which is nearest to 1 is the most innovative)
+Select  gender, count(DISTINCT(name)) as Total_Unique_Names, sum(Frequency) as Frequency_of_the_names, sum(Frequency) / count(DISTINCT(name)) as Score
+From most_frequent_names
+where decade not like 'Total'
+Group by 1;
+#Female names have are more innovative than male names, eventhough their frequency ir higher the number of unique names is also higher, making it closer to 1 than the males names.
+
+
+
