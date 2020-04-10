@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# The Population of Barcelona
 *Vicky Zauner & Gareth Hughes*
 
 *[Data Analytics March 2020, Ironhack Barcelona, 10th April]*
