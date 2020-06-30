@@ -1,0 +1,585 @@
+,Nom_Barri,Preu
+0,el Raval,734.99
+1,el Barri Gòtic,905.26
+2,la Barceloneta,722.78
+3,"Sant Pere, Santa Caterina i la Ribera",895.28
+4,el Fort Pienc,871.08
+5,la Sagrada Família,847.04
+6,la Dreta de l'Eixample,1151.09
+7,l'Antiga Esquerra de l'Eixample,1001.49
+8,la Nova Esquerra de l'Eixample,909.08
+9,Sant Antoni,876.97
+10,el Poble Sec,715.71
+11,la Marina del Prat Vermell,
+12,la Marina de Port,689.16
+13,la Font de la Guatlla,806.34
+14,Hostafrancs,680.17
+15,la Bordeta,739.35
+16,Sants - Badal,697.58
+17,Sants,737.27
+18,les Corts,936.32
+19,la Maternitat i Sant Ramon,896.45
+20,Pedralbes,1856.57
+21,"Vallvidrera, el Tibidabo i les Planes",1248.0
+22,Sarrià,1291.5
+23,les Tres Torres,1516.52
+24,Sant Gervasi - la Bonanova,1182.12
+25,Sant Gervasi - Galvany,1268.61
+26,el Putxet i el Farró,913.45
+27,Vallcarca i els Penitents,946.59
+28,el Coll,687.42
+29,la Salut,841.38
+30,la Vila de Gràcia,837.09
+31,el Camp d'en Grassot i Gràcia Nova,839.29
+32,el Baix Guinardó,743.88
+33,Can Baró,637.3
+34,el Guinardó,722.67
+35,la Font d'en Fargues,812.93
+36,el Carmel,597.09
+37,la Teixonera,663.9
+38,Sant Genís dels Agudells,622.33
+39,Montbau,716.43
+40,la Vall d'Hebron,816.05
+41,la Clota,
+42,Horta,669.89
+43,Vilapicina i la Torre Llobeta,687.37
+44,Porta,654.58
+45,el Turó de la Peira,587.02
+46,Can Peguera,
+47,la Guineueta,634.54
+48,Canyelles,689.62
+49,les Roquetes,504.31
+50,Verdun,595.48
+51,la Prosperitat,624.58
+52,la Trinitat Nova,540.68
+53,Torre Baró,418.07
+54,Ciutat Meridiana,459.19
+55,Vallbona,
+56,la Trinitat Vella,497.84
+57,Baró de Viver,
+58,el Bon Pastor,622.82
+59,Sant Andreu,708.6
+60,la Sagrera,575.23
+61,el Congrés i els Indians,696.04
+62,Navas,716.78
+63,el Camp de l'Arpa del Clot,756.57
+64,el Clot,774.97
+65,el Parc i la Llacuna del Poblenou,850.73
+66,la Vila Olímpica del Poblenou,1108.37
+67,el Poblenou,868.9
+68,Diagonal Mar i el Front Marítim del Poblenou,1148.2
+69,el Besòs i el Maresme,588.9
+70,Provençals del Poblenou,999.62
+71,Sant Martí de Provençals,742.06
+72,la Verneda i la Pau,677.91
+73,el Raval,714.29
+74,el Barri Gòtic,968.16
+75,la Barceloneta,738.25
+76,"Sant Pere, Santa Caterina i la Ribera",930.13
+77,el Fort Pienc,884.99
+78,la Sagrada Família,867.97
+79,la Dreta de l'Eixample,1218.18
+80,l'Antiga Esquerra de l'Eixample,1044.28
+81,la Nova Esquerra de l'Eixample,949.96
+82,Sant Antoni,887.78
+83,el Poble Sec,756.8
+84,la Marina del Prat Vermell,
+85,la Marina de Port,634.28
+86,la Font de la Guatlla,785.02
+87,Hostafrancs,749.61
+88,la Bordeta,760.98
+89,Sants - Badal,766.05
+90,Sants,780.27
+91,les Corts,1006.84
+92,la Maternitat i Sant Ramon,882.05
+93,Pedralbes,1666.63
+94,"Vallvidrera, el Tibidabo i les Planes",1101.67
+95,Sarrià,1423.86
+96,les Tres Torres,1646.76
+97,Sant Gervasi - la Bonanova,1236.21
+98,Sant Gervasi - Galvany,1287.23
+99,el Putxet i el Farró,902.42
+100,Vallcarca i els Penitents,917.84
+101,el Coll,701.29
+102,la Salut,855.7
+103,la Vila de Gràcia,852.57
+104,el Camp d'en Grassot i Gràcia Nova,872.41
+105,el Baix Guinardó,756.13
+106,Can Baró,710.18
+107,el Guinardó,722.28
+108,la Font d'en Fargues,721.47
+109,el Carmel,597.58
+110,la Teixonera,671.85
+111,Sant Genís dels Agudells,680.8
+112,Montbau,677.09
+113,la Vall d'Hebron,819.11
+114,la Clota,
+115,Horta,708.69
+116,Vilapicina i la Torre Llobeta,699.81
+117,Porta,640.95
+118,el Turó de la Peira,600.84
+119,Can Peguera,407.22
+120,la Guineueta,632.43
+121,Canyelles,677.5
+122,les Roquetes,505.97
+123,Verdun,579.67
+124,la Prosperitat,617.61
+125,la Trinitat Nova,533.3
+126,Torre Baró,
+127,Ciutat Meridiana,436.17
+128,Vallbona,302.52
+129,la Trinitat Vella,434.91
+130,Baró de Viver,
+131,el Bon Pastor,647.69
+132,Sant Andreu,728.09
+133,la Sagrera,656.71
+134,el Congrés i els Indians,724.28
+135,Navas,783.88
+136,el Camp de l'Arpa del Clot,765.74
+137,el Clot,740.91
+138,el Parc i la Llacuna del Poblenou,907.14
+139,la Vila Olímpica del Poblenou,1345.63
+140,el Poblenou,899.89
+141,Diagonal Mar i el Front Marítim del Poblenou,965.36
+142,el Besòs i el Maresme,606.61
+143,Provençals del Poblenou,941.16
+144,Sant Martí de Provençals,750.71
+145,la Verneda i la Pau,671.87
+146,el Raval,764.85
+147,el Barri Gòtic,1028.49
+148,la Barceloneta,758.18
+149,"Sant Pere, Santa Caterina i la Ribera",927.16
+150,el Fort Pienc,933.54
+151,la Sagrada Família,906.78
+152,la Dreta de l'Eixample,1179.11
+153,l'Antiga Esquerra de l'Eixample,1098.21
+154,la Nova Esquerra de l'Eixample,950.15
+155,Sant Antoni,922.46
+156,el Poble Sec,759.87
+157,la Marina del Prat Vermell,
+158,la Marina de Port,711.93
+159,la Font de la Guatlla,817.64
+160,Hostafrancs,777.64
+161,la Bordeta,861.69
+162,Sants - Badal,796.5
+163,Sants,812.48
+164,les Corts,1013.57
+165,la Maternitat i Sant Ramon,970.71
+166,Pedralbes,1882.42
+167,"Vallvidrera, el Tibidabo i les Planes",1360.42
+168,Sarrià,1364.01
+169,les Tres Torres,1757.0
+170,Sant Gervasi - la Bonanova,1324.4
+171,Sant Gervasi - Galvany,1377.82
+172,el Putxet i el Farró,962.41
+173,Vallcarca i els Penitents,912.51
+174,el Coll,799.44
+175,la Salut,804.26
+176,la Vila de Gràcia,867.94
+177,el Camp d'en Grassot i Gràcia Nova,880.0
+178,el Baix Guinardó,804.26
+179,Can Baró,698.03
+180,el Guinardó,739.68
+181,la Font d'en Fargues,922.75
+182,el Carmel,610.13
+183,la Teixonera,643.74
+184,Sant Genís dels Agudells,713.38
+185,Montbau,749.0
+186,la Vall d'Hebron,805.87
+187,la Clota,
+188,Horta,704.57
+189,Vilapicina i la Torre Llobeta,750.43
+190,Porta,670.43
+191,el Turó de la Peira,613.8
+192,Can Peguera,
+193,la Guineueta,625.23
+194,Canyelles,701.5
+195,les Roquetes,560.56
+196,Verdun,593.64
+197,la Prosperitat,625.66
+198,la Trinitat Nova,538.45
+199,Torre Baró,463.17
+200,Ciutat Meridiana,423.09
+201,Vallbona,
+202,la Trinitat Vella,532.33
+203,Baró de Viver,
+204,el Bon Pastor,653.72
+205,Sant Andreu,744.73
+206,la Sagrera,692.49
+207,el Congrés i els Indians,761.19
+208,Navas,790.19
+209,el Camp de l'Arpa del Clot,797.7
+210,el Clot,775.27
+211,el Parc i la Llacuna del Poblenou,905.24
+212,la Vila Olímpica del Poblenou,1189.26
+213,el Poblenou,917.87
+214,Diagonal Mar i el Front Marítim del Poblenou,1093.34
+215,el Besòs i el Maresme,625.13
+216,Provençals del Poblenou,933.9
+217,Sant Martí de Provençals,776.09
+218,la Verneda i la Pau,711.99
+219,el Raval,776.73
+220,el Barri Gòtic,993.16
+221,la Barceloneta,766.03
+222,"Sant Pere, Santa Caterina i la Ribera",914.78
+223,el Fort Pienc,910.78
+224,la Sagrada Família,877.02
+225,la Dreta de l'Eixample,1225.08
+226,l'Antiga Esquerra de l'Eixample,1081.29
+227,la Nova Esquerra de l'Eixample,957.0
+228,Sant Antoni,905.83
+229,el Poble Sec,760.23
+230,la Marina del Prat Vermell,
+231,la Marina de Port,728.07
+232,la Font de la Guatlla,827.36
+233,Hostafrancs,771.78
+234,la Bordeta,786.53
+235,Sants - Badal,772.86
+236,Sants,806.56
+237,les Corts,1043.76
+238,la Maternitat i Sant Ramon,935.38
+239,Pedralbes,1737.92
+240,"Vallvidrera, el Tibidabo i les Planes",1213.95
+241,Sarrià,1334.77
+242,les Tres Torres,1588.53
+243,Sant Gervasi - la Bonanova,1198.24
+244,Sant Gervasi - Galvany,1315.8
+245,el Putxet i el Farró,938.2
+246,Vallcarca i els Penitents,875.53
+247,el Coll,711.57
+248,la Salut,741.29
+249,la Vila de Gràcia,879.85
+250,el Camp d'en Grassot i Gràcia Nova,862.51
+251,el Baix Guinardó,773.02
+252,Can Baró,693.65
+253,el Guinardó,759.06
+254,la Font d'en Fargues,822.82
+255,el Carmel,609.11
+256,la Teixonera,616.32
+257,Sant Genís dels Agudells,672.7
+258,Montbau,754.69
+259,la Vall d'Hebron,865.42
+260,la Clota,
+261,Horta,708.88
+262,Vilapicina i la Torre Llobeta,723.34
+263,Porta,682.83
+264,el Turó de la Peira,653.52
+265,Can Peguera,
+266,la Guineueta,693.4
+267,Canyelles,656.15
+268,les Roquetes,565.18
+269,Verdun,600.37
+270,la Prosperitat,641.21
+271,la Trinitat Nova,551.22
+272,Torre Baró,448.23
+273,Ciutat Meridiana,425.51
+274,Vallbona,
+275,la Trinitat Vella,535.92
+276,Baró de Viver,
+277,el Bon Pastor,576.97
+278,Sant Andreu,751.95
+279,la Sagrera,732.23
+280,el Congrés i els Indians,742.89
+281,Navas,805.1
+282,el Camp de l'Arpa del Clot,789.59
+283,el Clot,777.21
+284,el Parc i la Llacuna del Poblenou,916.33
+285,la Vila Olímpica del Poblenou,1349.82
+286,el Poblenou,911.12
+287,Diagonal Mar i el Front Marítim del Poblenou,1233.01
+288,el Besòs i el Maresme,621.32
+289,Provençals del Poblenou,864.09
+290,Sant Martí de Provençals,790.58
+291,la Verneda i la Pau,692.67
+292,el Raval,13.5
+293,el Barri Gòtic,14.14
+294,la Barceloneta,19.46
+295,"Sant Pere, Santa Caterina i la Ribera",15.01
+296,el Fort Pienc,12.77
+297,la Sagrada Família,13.04
+298,la Dreta de l'Eixample,12.82
+299,l'Antiga Esquerra de l'Eixample,13.24
+300,la Nova Esquerra de l'Eixample,13.01
+301,Sant Antoni,12.38
+302,el Poble Sec,13.02
+303,la Marina del Prat Vermell,
+304,la Marina de Port,9.88
+305,la Font de la Guatlla,12.59
+306,Hostafrancs,12.36
+307,la Bordeta,10.86
+308,Sants - Badal,12.91
+309,Sants,12.96
+310,les Corts,13.63
+311,la Maternitat i Sant Ramon,13.15
+312,Pedralbes,16.05
+313,"Vallvidrera, el Tibidabo i les Planes",10.12
+314,Sarrià,16.28
+315,les Tres Torres,16.12
+316,Sant Gervasi - la Bonanova,14.6
+317,Sant Gervasi - Galvany,14.06
+318,el Putxet i el Farró,14.97
+319,Vallcarca i els Penitents,14.1
+320,el Coll,11.96
+321,la Salut,12.48
+322,la Vila de Gràcia,14.89
+323,el Camp d'en Grassot i Gràcia Nova,12.92
+324,el Baix Guinardó,12.66
+325,Can Baró,11.85
+326,el Guinardó,12.28
+327,la Font d'en Fargues,14.94
+328,el Carmel,11.46
+329,la Teixonera,10.71
+330,Sant Genís dels Agudells,8.96
+331,Montbau,12.97
+332,la Vall d'Hebron,11.69
+333,la Clota,
+334,Horta,11.24
+335,Vilapicina i la Torre Llobeta,11.22
+336,Porta,10.21
+337,el Turó de la Peira,10.32
+338,Can Peguera,
+339,la Guineueta,9.13
+340,Canyelles,8.05
+341,les Roquetes,9.41
+342,Verdun,11.3
+343,la Prosperitat,11.61
+344,la Trinitat Nova,10.02
+345,Torre Baró,7.26
+346,Ciutat Meridiana,7.93
+347,Vallbona,
+348,la Trinitat Vella,9.4
+349,Baró de Viver,
+350,el Bon Pastor,9.21
+351,Sant Andreu,12.43
+352,la Sagrera,9.8
+353,el Congrés i els Indians,11.23
+354,Navas,10.4
+355,el Camp de l'Arpa del Clot,12.89
+356,el Clot,12.26
+357,el Parc i la Llacuna del Poblenou,13.06
+358,la Vila Olímpica del Poblenou,16.26
+359,el Poblenou,13.35
+360,Diagonal Mar i el Front Marítim del Poblenou,15.79
+361,el Besòs i el Maresme,9.52
+362,Provençals del Poblenou,13.25
+363,Sant Martí de Provençals,10.54
+364,la Verneda i la Pau,10.03
+365,el Raval,13.69
+366,el Barri Gòtic,13.78
+367,la Barceloneta,19.87
+368,"Sant Pere, Santa Caterina i la Ribera",15.99
+369,el Fort Pienc,12.59
+370,la Sagrada Família,13.34
+371,la Dreta de l'Eixample,13.83
+372,l'Antiga Esquerra de l'Eixample,13.51
+373,la Nova Esquerra de l'Eixample,13.34
+374,Sant Antoni,12.79
+375,el Poble Sec,13.95
+376,la Marina del Prat Vermell,
+377,la Marina de Port,9.86
+378,la Font de la Guatlla,12.39
+379,Hostafrancs,12.33
+380,la Bordeta,11.89
+381,Sants - Badal,12.97
+382,Sants,12.85
+383,les Corts,14.23
+384,la Maternitat i Sant Ramon,13.17
+385,Pedralbes,16.76
+386,"Vallvidrera, el Tibidabo i les Planes",17.35
+387,Sarrià,17.93
+388,les Tres Torres,16.76
+389,Sant Gervasi - la Bonanova,14.71
+390,Sant Gervasi - Galvany,14.76
+391,el Putxet i el Farró,13.99
+392,Vallcarca i els Penitents,14.39
+393,el Coll,11.81
+394,la Salut,12.24
+395,la Vila de Gràcia,14.85
+396,el Camp d'en Grassot i Gràcia Nova,13.83
+397,el Baix Guinardó,12.17
+398,Can Baró,12.6
+399,el Guinardó,11.81
+400,la Font d'en Fargues,12.28
+401,el Carmel,10.53
+402,la Teixonera,11.61
+403,Sant Genís dels Agudells,9.48
+404,Montbau,10.84
+405,la Vall d'Hebron,11.54
+406,la Clota,
+407,Horta,11.65
+408,Vilapicina i la Torre Llobeta,11.0
+409,Porta,10.75
+410,el Turó de la Peira,10.42
+411,Can Peguera,11.68
+412,la Guineueta,8.88
+413,Canyelles,8.68
+414,les Roquetes,10.11
+415,Verdun,10.49
+416,la Prosperitat,10.82
+417,la Trinitat Nova,10.69
+418,Torre Baró,
+419,Ciutat Meridiana,7.54
+420,Vallbona,4.45
+421,la Trinitat Vella,7.44
+422,Baró de Viver,
+423,el Bon Pastor,10.15
+424,Sant Andreu,11.93
+425,la Sagrera,10.53
+426,el Congrés i els Indians,11.14
+427,Navas,12.08
+428,el Camp de l'Arpa del Clot,12.79
+429,el Clot,12.28
+430,el Parc i la Llacuna del Poblenou,14.21
+431,la Vila Olímpica del Poblenou,18.51
+432,el Poblenou,13.99
+433,Diagonal Mar i el Front Marítim del Poblenou,15.71
+434,el Besòs i el Maresme,9.92
+435,Provençals del Poblenou,13.38
+436,Sant Martí de Provençals,11.11
+437,la Verneda i la Pau,9.85
+438,el Raval,13.97
+439,el Barri Gòtic,14.43
+440,la Barceloneta,19.72
+441,"Sant Pere, Santa Caterina i la Ribera",16.16
+442,el Fort Pienc,13.44
+443,la Sagrada Família,13.82
+444,la Dreta de l'Eixample,13.41
+445,l'Antiga Esquerra de l'Eixample,14.02
+446,la Nova Esquerra de l'Eixample,13.8
+447,Sant Antoni,13.16
+448,el Poble Sec,13.52
+449,la Marina del Prat Vermell,
+450,la Marina de Port,10.89
+451,la Font de la Guatlla,13.48
+452,Hostafrancs,13.55
+453,la Bordeta,12.87
+454,Sants - Badal,13.4
+455,Sants,13.31
+456,les Corts,14.66
+457,la Maternitat i Sant Ramon,13.6
+458,Pedralbes,16.54
+459,"Vallvidrera, el Tibidabo i les Planes",20.61
+460,Sarrià,18.26
+461,les Tres Torres,16.07
+462,Sant Gervasi - la Bonanova,15.77
+463,Sant Gervasi - Galvany,14.95
+464,el Putxet i el Farró,15.01
+465,Vallcarca i els Penitents,14.05
+466,el Coll,14.16
+467,la Salut,13.52
+468,la Vila de Gràcia,15.2
+469,el Camp d'en Grassot i Gràcia Nova,13.97
+470,el Baix Guinardó,13.12
+471,Can Baró,12.49
+472,el Guinardó,12.58
+473,la Font d'en Fargues,13.15
+474,el Carmel,10.93
+475,la Teixonera,10.91
+476,Sant Genís dels Agudells,9.96
+477,Montbau,12.83
+478,la Vall d'Hebron,12.02
+479,la Clota,
+480,Horta,11.39
+481,Vilapicina i la Torre Llobeta,11.62
+482,Porta,11.08
+483,el Turó de la Peira,10.46
+484,Can Peguera,
+485,la Guineueta,9.51
+486,Canyelles,8.79
+487,les Roquetes,10.22
+488,Verdun,10.93
+489,la Prosperitat,11.2
+490,la Trinitat Nova,10.87
+491,Torre Baró,6.84
+492,Ciutat Meridiana,7.38
+493,Vallbona,
+494,la Trinitat Vella,9.94
+495,Baró de Viver,
+496,el Bon Pastor,9.64
+497,Sant Andreu,12.5
+498,la Sagrera,11.19
+499,el Congrés i els Indians,11.97
+500,Navas,11.48
+501,el Camp de l'Arpa del Clot,12.84
+502,el Clot,12.72
+503,el Parc i la Llacuna del Poblenou,14.45
+504,la Vila Olímpica del Poblenou,15.97
+505,el Poblenou,14.23
+506,Diagonal Mar i el Front Marítim del Poblenou,16.22
+507,el Besòs i el Maresme,10.03
+508,Provençals del Poblenou,12.64
+509,Sant Martí de Provençals,11.09
+510,la Verneda i la Pau,10.4
+511,el Raval,14.42
+512,el Barri Gòtic,14.41
+513,la Barceloneta,20.33
+514,"Sant Pere, Santa Caterina i la Ribera",15.66
+515,el Fort Pienc,13.54
+516,la Sagrada Família,13.13
+517,la Dreta de l'Eixample,13.95
+518,l'Antiga Esquerra de l'Eixample,13.96
+519,la Nova Esquerra de l'Eixample,13.86
+520,Sant Antoni,13.46
+521,el Poble Sec,14.12
+522,la Marina del Prat Vermell,
+523,la Marina de Port,10.73
+524,la Font de la Guatlla,13.34
+525,Hostafrancs,13.19
+526,la Bordeta,11.96
+527,Sants - Badal,13.29
+528,Sants,13.49
+529,les Corts,14.65
+530,la Maternitat i Sant Ramon,13.44
+531,Pedralbes,15.22
+532,"Vallvidrera, el Tibidabo i les Planes",18.56
+533,Sarrià,17.32
+534,les Tres Torres,18.38
+535,Sant Gervasi - la Bonanova,16.19
+536,Sant Gervasi - Galvany,14.64
+537,el Putxet i el Farró,15.32
+538,Vallcarca i els Penitents,13.97
+539,el Coll,11.7
+540,la Salut,11.55
+541,la Vila de Gràcia,15.07
+542,el Camp d'en Grassot i Gràcia Nova,13.48
+543,el Baix Guinardó,12.37
+544,Can Baró,12.63
+545,el Guinardó,12.48
+546,la Font d'en Fargues,12.31
+547,el Carmel,11.14
+548,la Teixonera,11.41
+549,Sant Genís dels Agudells,9.52
+550,Montbau,13.54
+551,la Vall d'Hebron,12.93
+552,la Clota,
+553,Horta,12.29
+554,Vilapicina i la Torre Llobeta,11.57
+555,Porta,11.01
+556,el Turó de la Peira,11.09
+557,Can Peguera,
+558,la Guineueta,9.83
+559,Canyelles,8.96
+560,les Roquetes,10.86
+561,Verdun,11.68
+562,la Prosperitat,11.44
+563,la Trinitat Nova,10.81
+564,Torre Baró,7.17
+565,Ciutat Meridiana,7.55
+566,Vallbona,
+567,la Trinitat Vella,10.14
+568,Baró de Viver,
+569,el Bon Pastor,8.79
+570,Sant Andreu,12.44
+571,la Sagrera,11.69
+572,el Congrés i els Indians,11.15
+573,Navas,11.69
+574,el Camp de l'Arpa del Clot,13.26
+575,el Clot,12.47
+576,el Parc i la Llacuna del Poblenou,13.38
+577,la Vila Olímpica del Poblenou,17.65
+578,el Poblenou,14.21
+579,Diagonal Mar i el Front Marítim del Poblenou,16.51
+580,el Besòs i el Maresme,10.4
+581,Provençals del Poblenou,12.66
+582,Sant Martí de Provençals,10.83
+583,la Verneda i la Pau,10.38
