@@ -45,7 +45,6 @@ The **mandatory** requirements that this project needs to satisfy are:
 * The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/usAykV9K/project-2-barcelona). Remember that you **CAN'T CODE** until your project is planned.
 * Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
 * Your README file must clearly include which topic you chose and which are the questions you would like to find an answer to.
-* Your project must include a database of your design created in a cloud (e.g. Google Cloud Platform) and a complete analysis of your data including the most meaningful insights you found.
 * Also, mind that **NO PLOTTING IS ALLOWED IN THIS PROJECT**.
 * The project needs to be presented to your colleagues on the day of the presentation.
 
