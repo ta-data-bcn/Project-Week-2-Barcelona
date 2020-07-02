@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Immigration: an inside view
+*Alba Balcells & Mireia Guinovart*
 
-*[Your Cohort, Campus & Date]*
+*[DA0620, Barcelona-Ironhack & 3 July]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,13 +16,29 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+Barcelona cannot be concieved as such if Immigration is not considered. Not only there are plenty of Catalans and Spaniards that move to the Catalonian capital but also a large percentage of the population is foreign. This project analyses
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+
+In this project the followiong questions were asked:
+- What is the percentage of immigrants living in certain neighbourhoods? And percentage by nationality?
+- Is there a link between the country of origin of immigrants and the Barcelona's neighbourhood chosen to live?
+- Do immigrants from less developed (or more developed) countries end up in the “worst” (or the "best") neighbourhoods?
+- What could define a better or worse neighbourhood?
+- Does the quality (bad,normal,good,etc) of the neighbourhood relate with its death rate? and with the birth rate?
+- Do the neighbourhoods with higher births or higher population have more schools or hospitals? what about the other facilities (parks, sports centers,etc)
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+The datasets that contain information about Barcelona were obtained in the following links:
+- Information about facilities (schools,bars,hospitals...etc):
+    -[Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/en/)
+- Information about the crime
+
+[Statistics Barcelona's Council ](https://www.bcn.cat/estadistica/catala/dades/barris/tvida/salutpublica/t318.htm)
+The datasets that do not contain information about Barcelona:
+- Information about average wages worldwide
+    - [OECD Data](https://data.oecd.org/earnwage/average-wages.htm)
+
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
