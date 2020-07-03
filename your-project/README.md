@@ -28,11 +28,13 @@ In this project the followiong questions were asked:
 - What could define a higher or lower quality district?
 - Does the quality (low, neutral, high) of the district relate with its death rate? 
 - Do the districts with higher population have more schools or hospitals? what about the other facilities (parks, sports centers,etc)
-<br><br>
+
 The hypotheses are:
+
 - higher quality districts will have a low crime rate and a high facilities sum (sum of all the facilities available such as schools or hospitals)
 - lower quality districts will have a higher mortality rate
 - higher populated districts will have a higher facilities sum
+- there will exist a relationship between the immigrant's nacionality and the district they choose to live in
 
 ## Dataset
 The datasets that contain information about Barcelona were obtained in the following links:
@@ -44,10 +46,12 @@ The datasets that contain information about Barcelona were obtained in the follo
 The datasets that do not contain information about Barcelona:
 - Information about average wages worldwide
     - [OECD Data](https://data.oecd.org/earnwage/average-wages.htm)
-From the datasets mention above, data was processed and standarized into new datasets for data comparison.
+<br>From the datasets mention above, data was processed and standarized into new datasets for data comparison.
 
 ## Database
-Our database is comprised by multiple datasets that are connected to each other by the Barcelona's district and Barcelona's neighbourhood, being the complete_dataset the link (the center point) between them all. Different tables were created but again all are related by the district as a common value and derive from the complete_dataset.
+Our database is comprised by multiple datasets that are connected to each other by the Barcelona's district and Barcelona's neighbourhood, being the complete_dataset the link (the center point) between them all. 
+
+Different tables were created but again all are related by the district as a common value and derive from the complete_dataset.
 
 
 ## Workflow
