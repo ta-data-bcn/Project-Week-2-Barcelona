@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Traffic Accidents in Barcelona
+*Pol Lorente  &  Sara Valverde*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics-June 2020 BCN*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,45 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+Our project consists in cleaning and analysing several DataFrames, from the Open Source provided. They are related to accidents in Barcelona and we divide the analysis in 2 main parts: Analyzing by District and Analyzin by Time.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+Some of the questions we anlyzed in our project where:
+- How many accidents are there by district and how does it relate to population level/percentatge?
+- Do the causes differ by district?
+- How many victims and vehicles are implicated in the accidents by district?
+- Does the number of accidents vary by hours/shifts of the day?
+- Does it vary by the day being a working day or a holiday?
+- How does all this affect the level of the injuries?
+- Does the stationality affect the level of the injuries?
+- does the experience of the driver affect the number of accidents thei are involved with?
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
-
-## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+We used the ones provided by the TA's and an additional one we found in this [Link](https://www.bcn.cat/estadistica/castella/dades/inf/lecpadro/lec19/t12.htm) 
+They had a lot of information on hours, days of the week and month, and several variables for location and geolocation. They also had variables for the level of the injury, the type of vehicle, the color of the vehicle and the experience of the driver.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+We first checked the raw Dataset and tried coming up with relations we would like to explore across variables. After that we distributed the questions ans began working on separate Jupyter Notebooks, realizing that our dataset was very clean already.
+
+We woked on the questions separately and then joined our ideas for improvement and organization, came up with the presentation and try to advise each other before each pull, commit, push, so as to not create conflicts.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+We used a Trello board, which link you will find at the bottom of this document.
 
-What does your repository look like? Explain your folder and file structure.
+Our repo is quite simple:
+- datasets
+- pictures
+- your_project
+- .gitignore
+- README
+
+Inside datasets we have all the raw and edited datasets, including the additional one.
+In pictures there are all the table screencaps we used in the presentation.
+In your_project we have our Notebooks with the code and the analysis.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/Alt-E-K/Project-Week-2-Barcelona.git)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/BdifQhPA/project2)  
