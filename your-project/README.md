@@ -3,7 +3,7 @@
 # Immigration: an inside view
 *Alba Balcells & Mireia Guinovart*
 
-*[DA0620, Barcelona-Ironhack & 3 July]*
+*DA0620, Barcelona-Ironhack & 3 July*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,7 +16,7 @@
 
 
 ## Project Description
-Barcelona cannot be concieved as such if Immigration is not considered. Not only there are plenty of Catalans and Spaniards that move to the Catalonian capital but also a large percentage of the population is foreign. This project analyses
+Barcelona cannot be concieved as such if Immigration is not considered. Not only there are plenty of Catalans and Spaniards that move to the Catalonian capital but also a large percentage of the population is foreign. This project analyses which districts they choose and if it depends on the district characteristics.
 
 ## Questions & Hypotheses
 
@@ -31,10 +31,10 @@ In this project the followiong questions were asked:
 
 The hypotheses are:
 
-- higher quality districts will have a low crime rate and a high facilities sum (sum of all the facilities available such as schools or hospitals)
-- lower quality districts will have a higher mortality rate
-- higher populated districts will have a higher facilities sum
-- there will exist a relationship between the immigrant's nacionality and the district they choose to live in
+- Higher quality districts will have a low crime rate and a high facilities sum (sum of all the facilities available such as schools or hospitals)
+- Lower quality districts will have a higher mortality rate
+- Higher populated districts will have a higher facilities sum
+- There will exist a relationship between the immigrant's nacionality and the district they choose to live in
 
 ## Dataset
 The datasets that contain information about Barcelona were obtained in the following links:
