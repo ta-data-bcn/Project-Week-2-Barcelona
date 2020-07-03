@@ -1,4 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src=“https://bit.ly/2VnXWr2” alt=“Ironhack Logo” width=“100”/>
 
 # Title of My Project
 *[Your Name]*
@@ -16,19 +16,29 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+This project consists of the analyisis of Barcelona’s population main variables (births, deaths, immigration and emigration) by neighborhood and their relationship with the revenue levels.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The main question to be answered with our analysis is the distribution of population, deaths, births, immigration and emigration based on the neighborhoods’ revenue levels.
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+The original datasets are located in the “Sources folder” (link Github) and consist of the following:
+- **External sources**:
+    - **name.csv**: description
+- **Sources provided by Ironhack**:
+    - **population.csv**: detail of the population by neighborhood and age group.
+    - 
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Our workflow consisted of the following:
+- **Definition of the project’s goal:** definition of the above-mentioned main question of the project.
+- **Datasets research**: we then completed the provided information with the external datasets mentioned before.
+- **Data cleaning and validation**: preparation of the datasets for their analysis and cross-check of the main total values.
+- **Analysis of the data**: we divided our analysis into three main topics: deaths, immigration and emigration, and births.
+- **Results presentation**: we finally cleaned our code and repository for the presentation, elaborated the README file and prepared the visual support.
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
