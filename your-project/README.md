@@ -54,5 +54,5 @@ Our directory consists of the following:
 
 ## Links
 [Repository](https://github.com/javier-pradera/Project-Week-2-Barcelona/tree/master/your-project)
-[Slides](https://slides.com/)
+[Slides](https://docs.google.com/presentation/d/108o-k1qlX92V4ECIToYfIib1yzzxFAy6KptPa5yN2BY/edit?usp=sharing)
 [Trello](https://trello.com/b/niWDna96/project-2-population)  
