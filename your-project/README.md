@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Pollution and public transport data analysis
+*[Paula Iglesias, Pau Navarro & Marta Palleiro]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona, June 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,37 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+We analyze the available data on pollution during the first half of 2018 and the data on public transport in Barcelona and try to grasp the relationship between the two.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The main hypothesis we work for is the positive influence of the availability of public transport options on the air pollution of the district. Then, we also try to see what districts have more pollution, what is the quality of the air on the districts, the density of public transport and the types in every district.
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
-
-## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+We used the datasets on Transportation called "public-transport.csv" and "bus-stops.csv".
+We also used the dataset on Urban Evironment called "air_quality_2018_project2.csv".
+Both databases can be found on this repository.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. Fork repository
+2. Clone github
+3. Create gitignore
+4. Select a topic
+5. Research the topic
+6. Brainstorm questions
+7. Make hypothesis
+8. Define the structure to follow for the questions
+9. Import datasets
+10. Clean datasets
+11. Perform analysis
+12. Reach conclusions
+13. Prepare complementary documents
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+To organize ourselves, we kept a Trello board and created a slack chat.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+This are some interesting links:
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/paunavarrogaspar/Project-Week-2-Barcelona/)  
+[Slides](https://drive.google.com/file/d/1t5KFSkdj-KnAoRAqGlUxuro6TP3uVvE4/view)  
+[Trello](https://trello.com/b/CJBijEme/project2-dataftjun)  
