@@ -48,5 +48,5 @@ To organize ourselves, we kept a Trello board and created a slack chat.
 This are some interesting links:
 
 [Repository](https://github.com/paunavarrogaspar/Project-Week-2-Barcelona/)  
-[Slides](https://slides.com/)  
+[Slides](https://drive.google.com/file/d/1t5KFSkdj-KnAoRAqGlUxuro6TP3uVvE4/view)  
 [Trello](https://trello.com/b/CJBijEme/project2-dataftjun)  
