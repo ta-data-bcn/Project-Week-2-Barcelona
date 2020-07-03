@@ -31,7 +31,7 @@ In this project the followiong questions were asked:
 
 The hypotheses are:
 
-- Higher quality districts will have a low crime rate and a high facilities sum (sum of all the facilities available such as schools or hospitals)
+- Higher quality districts will be those with low crime rate and high facilities sum (sum of all the facilities available such as schools or hospitals) so there should be a correlation between both variables.
 - Lower quality districts will have a higher mortality rate
 - Higher populated districts will have a higher facilities sum
 - There will exist a relationship between the immigrant's nacionality and the district they choose to live in
