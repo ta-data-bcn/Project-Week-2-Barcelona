@@ -56,5 +56,5 @@ In your_project we have our Notebooks with the code and the analysis.
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/Alt-E-K/Project-Week-2-Barcelona.git)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1uBmyW8Zdpk03Pqcx3nJo1xOBMJ1uLUMVo0karZWMOgE/edit?usp=sharing)  
 [Trello](https://trello.com/b/BdifQhPA/project2)  
