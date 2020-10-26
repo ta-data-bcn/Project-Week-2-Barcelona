@@ -1,0 +1,11 @@
+,dist,population,num_immi,net_density(hab/ha),mort_rate,rent_price,facilities_sum,crime_rate
+0,Ciutat Vella,101387,3152.75,High,High,Neutral,Neutral,High
+1,Eixample,266416,3174.5,High,Neutral,Neutral,Neutral,High
+2,Sant Martí,235513,1272.0,High,Neutral,Neutral,Neutral,High
+3,Sants-Montjuïc,181910,1460.38,Neutral,Neutral,Neutral,Low,High
+4,Gràcia,121347,1450.8,Neutral,Neutral,Neutral,Neutral,Low
+5,Horta-Guinardó,168751,709.0,Low,Neutral,Low,Neutral,Low
+6,Les Corts,82033,1458.33,Low,Low,High,High,Low
+7,Nou Barris,166579,636.46,Neutral,Neutral,Low,Low,Neutral
+8,Sant Andreu,147594,905.0,Neutral,Neutral,Low,Low,Neutral
+9,Sarrià-Sant Gervasi,149279,1204.5,Low,Neutral,High,Neutral,Neutral
