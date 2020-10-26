@@ -71,7 +71,7 @@ Your mentor is **not** meant to:
 
 **Please note** that the following schedule is simply a guideline. Feel free to organize your work as you see fit.
 
-**Tuesday**
+**Monday**
 * Choose your topic.
 * Find interesting questions related to your topic.
 * Brainstorm to find out what kind of data you can use to answer those questions.
