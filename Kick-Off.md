@@ -121,7 +121,7 @@ Your mentor is **not** meant to:
 **unemployment**: Registered unemployment by neighborhood and genre in the city of Barcelona (2013-2017).
 
 ## Presentation
-The presentation time limit is **10 minutes**! After all the presentations are over, there will be a 5-minutes break. After the break, we will hold a short debate about the projects.
+The presentation time limit is **5 minutes**! After all the presentations are over, there will be a 5-minutes break. After the break, we will hold a short debate about the projects.
 
 Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
 
