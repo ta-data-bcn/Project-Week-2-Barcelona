@@ -1,0 +1,297 @@
+"Any","Mes","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Demanda_ocupacio","Nombre"
+2020,1,1,"Ciutat Vella",1,"el Raval","Homes","Atur registrat",1724
+2020,1,1,"Ciutat Vella",2,"el Barri Gòtic","Homes","Atur registrat",491
+2020,1,1,"Ciutat Vella",3,"la Barceloneta","Homes","Atur registrat",489
+2020,1,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Homes","Atur registrat",673
+2020,1,2,"Eixample",5,"el Fort Pienc","Homes","Atur registrat",542
+2020,1,2,"Eixample",6,"la Sagrada Família","Homes","Atur registrat",873
+2020,1,2,"Eixample",7,"la Dreta de l'Eixample","Homes","Atur registrat",584
+2020,1,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Homes","Atur registrat",615
+2020,1,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Homes","Atur registrat",980
+2020,1,2,"Eixample",10,"Sant Antoni","Homes","Atur registrat",714
+2020,1,3,"Sants-Montjuïc",11,"el Poble Sec","Homes","Atur registrat",1025
+2020,1,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Homes","Atur registrat",49
+2020,1,3,"Sants-Montjuïc",13,"la Marina de Port","Homes","Atur registrat",700
+2020,1,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Homes","Atur registrat",257
+2020,1,3,"Sants-Montjuïc",15,"Hostafrancs","Homes","Atur registrat",317
+2020,1,3,"Sants-Montjuïc",16,"la Bordeta","Homes","Atur registrat",372
+2020,1,3,"Sants-Montjuïc",17,"Sants - Badal","Homes","Atur registrat",381
+2020,1,3,"Sants-Montjuïc",18,"Sants","Homes","Atur registrat",747
+2020,1,4,"Les Corts",19,"les Corts","Homes","Atur registrat",766
+2020,1,4,"Les Corts",20,"la Maternitat i Sant Ramon","Homes","Atur registrat",376
+2020,1,4,"Les Corts",21,"Pedralbes","Homes","Atur registrat",81
+2020,1,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Homes","Atur registrat",43
+2020,1,5,"Sarrià-Sant Gervasi",23,"Sarrià","Homes","Atur registrat",193
+2020,1,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Homes","Atur registrat",167
+2020,1,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Homes","Atur registrat",263
+2020,1,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Homes","Atur registrat",469
+2020,1,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Homes","Atur registrat",431
+2020,1,6,"Gràcia",28,"Vallcarca i els Penitents","Homes","Atur registrat",285
+2020,1,6,"Gràcia",29,"el Coll","Homes","Atur registrat",119
+2020,1,6,"Gràcia",30,"la Salut","Homes","Atur registrat",246
+2020,1,6,"Gràcia",31,"la Vila de Gràcia","Homes","Atur registrat",878
+2020,1,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Homes","Atur registrat",580
+2020,1,7,"Horta-Guinardó",33,"el Baix Guinardó","Homes","Atur registrat",448
+2020,1,7,"Horta-Guinardó",34,"Can Baró","Homes","Atur registrat",177
+2020,1,7,"Horta-Guinardó",35,"el Guinardó","Homes","Atur registrat",714
+2020,1,7,"Horta-Guinardó",36,"la Font d'en Fargues","Homes","Atur registrat",220
+2020,1,7,"Horta-Guinardó",37,"el Carmel","Homes","Atur registrat",752
+2020,1,7,"Horta-Guinardó",38,"la Teixonera","Homes","Atur registrat",234
+2020,1,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Homes","Atur registrat",143
+2020,1,7,"Horta-Guinardó",40,"Montbau","Homes","Atur registrat",103
+2020,1,7,"Horta-Guinardó",41,"la Vall d'Hebron","Homes","Atur registrat",110
+2020,1,7,"Horta-Guinardó",42,"la Clota","Homes","Atur registrat",8
+2020,1,7,"Horta-Guinardó",43,"Horta","Homes","Atur registrat",608
+2020,1,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Homes","Atur registrat",566
+2020,1,8,"Nou Barris",45,"Porta","Homes","Atur registrat",578
+2020,1,8,"Nou Barris",46,"el Turó de la Peira","Homes","Atur registrat",344
+2020,1,8,"Nou Barris",47,"Can Peguera","Homes","Atur registrat",48
+2020,1,8,"Nou Barris",48,"la Guineueta","Homes","Atur registrat",397
+2020,1,8,"Nou Barris",49,"Canyelles","Homes","Atur registrat",194
+2020,1,8,"Nou Barris",50,"les Roquetes","Homes","Atur registrat",420
+2020,1,8,"Nou Barris",51,"Verdun","Homes","Atur registrat",322
+2020,1,8,"Nou Barris",52,"la Prosperitat","Homes","Atur registrat",649
+2020,1,8,"Nou Barris",53,"la Trinitat Nova","Homes","Atur registrat",287
+2020,1,8,"Nou Barris",54,"Torre Baró","Homes","Atur registrat",79
+2020,1,8,"Nou Barris",55,"Ciutat Meridiana","Homes","Atur registrat",414
+2020,1,8,"Nou Barris",56,"Vallbona","Homes","Atur registrat",48
+2020,1,9,"Sant Andreu",57,"la Trinitat Vella","Homes","Atur registrat",384
+2020,1,9,"Sant Andreu",58,"Baró de Viver","Homes","Atur registrat",50
+2020,1,9,"Sant Andreu",59,"el Bon Pastor","Homes","Atur registrat",284
+2020,1,9,"Sant Andreu",60,"Sant Andreu","Homes","Atur registrat",1151
+2020,1,9,"Sant Andreu",61,"la Sagrera","Homes","Atur registrat",537
+2020,1,9,"Sant Andreu",62,"el Congrés i els Indians","Homes","Atur registrat",261
+2020,1,9,"Sant Andreu",63,"Navas","Homes","Atur registrat",405
+2020,1,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Homes","Atur registrat",849
+2020,1,10,"Sant Martí",65,"el Clot","Homes","Atur registrat",558
+2020,1,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Homes","Atur registrat",266
+2020,1,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Homes","Atur registrat",182
+2020,1,10,"Sant Martí",68,"el Poblenou","Homes","Atur registrat",624
+2020,1,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Homes","Atur registrat",297
+2020,1,10,"Sant Martí",70,"el Besòs i el Maresme","Homes","Atur registrat",677
+2020,1,10,"Sant Martí",71,"Provençals del Poblenou","Homes","Atur registrat",430
+2020,1,10,"Sant Martí",72,"Sant Martí de Provençals","Homes","Atur registrat",587
+2020,1,10,"Sant Martí",73,"la Verneda i la Pau","Homes","Atur registrat",664
+2020,1,99,"No consta",99,"No consta","Homes","Atur registrat",9
+2020,1,1,"Ciutat Vella",1,"el Raval","Homes","Demanda no aturats",438
+2020,1,1,"Ciutat Vella",2,"el Barri Gòtic","Homes","Demanda no aturats",135
+2020,1,1,"Ciutat Vella",3,"la Barceloneta","Homes","Demanda no aturats",161
+2020,1,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Homes","Demanda no aturats",219
+2020,1,2,"Eixample",5,"el Fort Pienc","Homes","Demanda no aturats",151
+2020,1,2,"Eixample",6,"la Sagrada Família","Homes","Demanda no aturats",244
+2020,1,2,"Eixample",7,"la Dreta de l'Eixample","Homes","Demanda no aturats",161
+2020,1,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Homes","Demanda no aturats",152
+2020,1,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Homes","Demanda no aturats",279
+2020,1,2,"Eixample",10,"Sant Antoni","Homes","Demanda no aturats",204
+2020,1,3,"Sants-Montjuïc",11,"el Poble Sec","Homes","Demanda no aturats",237
+2020,1,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Homes","Demanda no aturats",17
+2020,1,3,"Sants-Montjuïc",13,"la Marina de Port","Homes","Demanda no aturats",191
+2020,1,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Homes","Demanda no aturats",60
+2020,1,3,"Sants-Montjuïc",15,"Hostafrancs","Homes","Demanda no aturats",85
+2020,1,3,"Sants-Montjuïc",16,"la Bordeta","Homes","Demanda no aturats",100
+2020,1,3,"Sants-Montjuïc",17,"Sants - Badal","Homes","Demanda no aturats",100
+2020,1,3,"Sants-Montjuïc",18,"Sants","Homes","Demanda no aturats",199
+2020,1,4,"Les Corts",19,"les Corts","Homes","Demanda no aturats",206
+2020,1,4,"Les Corts",20,"la Maternitat i Sant Ramon","Homes","Demanda no aturats",99
+2020,1,4,"Les Corts",21,"Pedralbes","Homes","Demanda no aturats",17
+2020,1,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Homes","Demanda no aturats",11
+2020,1,5,"Sarrià-Sant Gervasi",23,"Sarrià","Homes","Demanda no aturats",43
+2020,1,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Homes","Demanda no aturats",41
+2020,1,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Homes","Demanda no aturats",57
+2020,1,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Homes","Demanda no aturats",96
+2020,1,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Homes","Demanda no aturats",98
+2020,1,6,"Gràcia",28,"Vallcarca i els Penitents","Homes","Demanda no aturats",69
+2020,1,6,"Gràcia",29,"el Coll","Homes","Demanda no aturats",29
+2020,1,6,"Gràcia",30,"la Salut","Homes","Demanda no aturats",67
+2020,1,6,"Gràcia",31,"la Vila de Gràcia","Homes","Demanda no aturats",227
+2020,1,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Homes","Demanda no aturats",162
+2020,1,7,"Horta-Guinardó",33,"el Baix Guinardó","Homes","Demanda no aturats",125
+2020,1,7,"Horta-Guinardó",34,"Can Baró","Homes","Demanda no aturats",49
+2020,1,7,"Horta-Guinardó",35,"el Guinardó","Homes","Demanda no aturats",171
+2020,1,7,"Horta-Guinardó",36,"la Font d'en Fargues","Homes","Demanda no aturats",51
+2020,1,7,"Horta-Guinardó",37,"el Carmel","Homes","Demanda no aturats",176
+2020,1,7,"Horta-Guinardó",38,"la Teixonera","Homes","Demanda no aturats",55
+2020,1,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Homes","Demanda no aturats",34
+2020,1,7,"Horta-Guinardó",40,"Montbau","Homes","Demanda no aturats",24
+2020,1,7,"Horta-Guinardó",41,"la Vall d'Hebron","Homes","Demanda no aturats",26
+2020,1,7,"Horta-Guinardó",42,"la Clota","Homes","Demanda no aturats",2
+2020,1,7,"Horta-Guinardó",43,"Horta","Homes","Demanda no aturats",156
+2020,1,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Homes","Demanda no aturats",150
+2020,1,8,"Nou Barris",45,"Porta","Homes","Demanda no aturats",142
+2020,1,8,"Nou Barris",46,"el Turó de la Peira","Homes","Demanda no aturats",95
+2020,1,8,"Nou Barris",47,"Can Peguera","Homes","Demanda no aturats",13
+2020,1,8,"Nou Barris",48,"la Guineueta","Homes","Demanda no aturats",91
+2020,1,8,"Nou Barris",49,"Canyelles","Homes","Demanda no aturats",44
+2020,1,8,"Nou Barris",50,"les Roquetes","Homes","Demanda no aturats",96
+2020,1,8,"Nou Barris",51,"Verdun","Homes","Demanda no aturats",74
+2020,1,8,"Nou Barris",52,"la Prosperitat","Homes","Demanda no aturats",160
+2020,1,8,"Nou Barris",53,"la Trinitat Nova","Homes","Demanda no aturats",58
+2020,1,8,"Nou Barris",54,"Torre Baró","Homes","Demanda no aturats",16
+2020,1,8,"Nou Barris",55,"Ciutat Meridiana","Homes","Demanda no aturats",83
+2020,1,8,"Nou Barris",56,"Vallbona","Homes","Demanda no aturats",10
+2020,1,9,"Sant Andreu",57,"la Trinitat Vella","Homes","Demanda no aturats",77
+2020,1,9,"Sant Andreu",58,"Baró de Viver","Homes","Demanda no aturats",14
+2020,1,9,"Sant Andreu",59,"el Bon Pastor","Homes","Demanda no aturats",81
+2020,1,9,"Sant Andreu",60,"Sant Andreu","Homes","Demanda no aturats",326
+2020,1,9,"Sant Andreu",61,"la Sagrera","Homes","Demanda no aturats",156
+2020,1,9,"Sant Andreu",62,"el Congrés i els Indians","Homes","Demanda no aturats",76
+2020,1,9,"Sant Andreu",63,"Navas","Homes","Demanda no aturats",115
+2020,1,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Homes","Demanda no aturats",203
+2020,1,10,"Sant Martí",65,"el Clot","Homes","Demanda no aturats",143
+2020,1,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Homes","Demanda no aturats",70
+2020,1,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Homes","Demanda no aturats",48
+2020,1,10,"Sant Martí",68,"el Poblenou","Homes","Demanda no aturats",163
+2020,1,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Homes","Demanda no aturats",74
+2020,1,10,"Sant Martí",70,"el Besòs i el Maresme","Homes","Demanda no aturats",168
+2020,1,10,"Sant Martí",71,"Provençals del Poblenou","Homes","Demanda no aturats",111
+2020,1,10,"Sant Martí",72,"Sant Martí de Provençals","Homes","Demanda no aturats",151
+2020,1,10,"Sant Martí",73,"la Verneda i la Pau","Homes","Demanda no aturats",170
+2020,1,99,"No consta",99,"No consta","Homes","Demanda no aturats",2
+2020,1,1,"Ciutat Vella",1,"el Raval","Dones","Atur registrat",1342
+2020,1,1,"Ciutat Vella",2,"el Barri Gòtic","Dones","Atur registrat",427
+2020,1,1,"Ciutat Vella",3,"la Barceloneta","Dones","Atur registrat",513
+2020,1,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dones","Atur registrat",706
+2020,1,2,"Eixample",5,"el Fort Pienc","Dones","Atur registrat",627
+2020,1,2,"Eixample",6,"la Sagrada Família","Dones","Atur registrat",1056
+2020,1,2,"Eixample",7,"la Dreta de l'Eixample","Dones","Atur registrat",685
+2020,1,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dones","Atur registrat",733
+2020,1,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dones","Atur registrat",1171
+2020,1,2,"Eixample",10,"Sant Antoni","Dones","Atur registrat",839
+2020,1,3,"Sants-Montjuïc",11,"el Poble Sec","Dones","Atur registrat",1057
+2020,1,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dones","Atur registrat",46
+2020,1,3,"Sants-Montjuïc",13,"la Marina de Port","Dones","Atur registrat",888
+2020,1,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dones","Atur registrat",268
+2020,1,3,"Sants-Montjuïc",15,"Hostafrancs","Dones","Atur registrat",383
+2020,1,3,"Sants-Montjuïc",16,"la Bordeta","Dones","Atur registrat",449
+2020,1,3,"Sants-Montjuïc",17,"Sants - Badal","Dones","Atur registrat",477
+2020,1,3,"Sants-Montjuïc",18,"Sants","Dones","Atur registrat",914
+2020,1,4,"Les Corts",19,"les Corts","Dones","Atur registrat",929
+2020,1,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dones","Atur registrat",471
+2020,1,4,"Les Corts",21,"Pedralbes","Dones","Atur registrat",114
+2020,1,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dones","Atur registrat",48
+2020,1,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dones","Atur registrat",249
+2020,1,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dones","Atur registrat",188
+2020,1,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dones","Atur registrat",329
+2020,1,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dones","Atur registrat",574
+2020,1,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dones","Atur registrat",529
+2020,1,6,"Gràcia",28,"Vallcarca i els Penitents","Dones","Atur registrat",343
+2020,1,6,"Gràcia",29,"el Coll","Dones","Atur registrat",146
+2020,1,6,"Gràcia",30,"la Salut","Dones","Atur registrat",290
+2020,1,6,"Gràcia",31,"la Vila de Gràcia","Dones","Atur registrat",1088
+2020,1,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dones","Atur registrat",704
+2020,1,7,"Horta-Guinardó",33,"el Baix Guinardó","Dones","Atur registrat",550
+2020,1,7,"Horta-Guinardó",34,"Can Baró","Dones","Atur registrat",207
+2020,1,7,"Horta-Guinardó",35,"el Guinardó","Dones","Atur registrat",823
+2020,1,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dones","Atur registrat",259
+2020,1,7,"Horta-Guinardó",37,"el Carmel","Dones","Atur registrat",886
+2020,1,7,"Horta-Guinardó",38,"la Teixonera","Dones","Atur registrat",260
+2020,1,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dones","Atur registrat",155
+2020,1,7,"Horta-Guinardó",40,"Montbau","Dones","Atur registrat",112
+2020,1,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dones","Atur registrat",120
+2020,1,7,"Horta-Guinardó",42,"la Clota","Dones","Atur registrat",8
+2020,1,7,"Horta-Guinardó",43,"Horta","Dones","Atur registrat",745
+2020,1,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dones","Atur registrat",697
+2020,1,8,"Nou Barris",45,"Porta","Dones","Atur registrat",685
+2020,1,8,"Nou Barris",46,"el Turó de la Peira","Dones","Atur registrat",433
+2020,1,8,"Nou Barris",47,"Can Peguera","Dones","Atur registrat",60
+2020,1,8,"Nou Barris",48,"la Guineueta","Dones","Atur registrat",489
+2020,1,8,"Nou Barris",49,"Canyelles","Dones","Atur registrat",238
+2020,1,8,"Nou Barris",50,"les Roquetes","Dones","Atur registrat",517
+2020,1,8,"Nou Barris",51,"Verdun","Dones","Atur registrat",396
+2020,1,8,"Nou Barris",52,"la Prosperitat","Dones","Atur registrat",770
+2020,1,8,"Nou Barris",53,"la Trinitat Nova","Dones","Atur registrat",348
+2020,1,8,"Nou Barris",54,"Torre Baró","Dones","Atur registrat",96
+2020,1,8,"Nou Barris",55,"Ciutat Meridiana","Dones","Atur registrat",503
+2020,1,8,"Nou Barris",56,"Vallbona","Dones","Atur registrat",58
+2020,1,9,"Sant Andreu",57,"la Trinitat Vella","Dones","Atur registrat",466
+2020,1,9,"Sant Andreu",58,"Baró de Viver","Dones","Atur registrat",68
+2020,1,9,"Sant Andreu",59,"el Bon Pastor","Dones","Atur registrat",389
+2020,1,9,"Sant Andreu",60,"Sant Andreu","Dones","Atur registrat",1575
+2020,1,9,"Sant Andreu",61,"la Sagrera","Dones","Atur registrat",666
+2020,1,9,"Sant Andreu",62,"el Congrés i els Indians","Dones","Atur registrat",324
+2020,1,9,"Sant Andreu",63,"Navas","Dones","Atur registrat",497
+2020,1,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dones","Atur registrat",919
+2020,1,10,"Sant Martí",65,"el Clot","Dones","Atur registrat",657
+2020,1,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dones","Atur registrat",333
+2020,1,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dones","Atur registrat",232
+2020,1,10,"Sant Martí",68,"el Poblenou","Dones","Atur registrat",792
+2020,1,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dones","Atur registrat",334
+2020,1,10,"Sant Martí",70,"el Besòs i el Maresme","Dones","Atur registrat",760
+2020,1,10,"Sant Martí",71,"Provençals del Poblenou","Dones","Atur registrat",524
+2020,1,10,"Sant Martí",72,"Sant Martí de Provençals","Dones","Atur registrat",725
+2020,1,10,"Sant Martí",73,"la Verneda i la Pau","Dones","Atur registrat",820
+2020,1,99,"No consta",99,"No consta","Dones","Atur registrat",14
+2020,1,1,"Ciutat Vella",1,"el Raval","Dones","Demanda no aturats",320
+2020,1,1,"Ciutat Vella",2,"el Barri Gòtic","Dones","Demanda no aturats",116
+2020,1,1,"Ciutat Vella",3,"la Barceloneta","Dones","Demanda no aturats",128
+2020,1,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dones","Demanda no aturats",178
+2020,1,2,"Eixample",5,"el Fort Pienc","Dones","Demanda no aturats",179
+2020,1,2,"Eixample",6,"la Sagrada Família","Dones","Demanda no aturats",313
+2020,1,2,"Eixample",7,"la Dreta de l'Eixample","Dones","Demanda no aturats",192
+2020,1,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dones","Demanda no aturats",215
+2020,1,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dones","Demanda no aturats",320
+2020,1,2,"Eixample",10,"Sant Antoni","Dones","Demanda no aturats",237
+2020,1,3,"Sants-Montjuïc",11,"el Poble Sec","Dones","Demanda no aturats",275
+2020,1,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dones","Demanda no aturats",11
+2020,1,3,"Sants-Montjuïc",13,"la Marina de Port","Dones","Demanda no aturats",218
+2020,1,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dones","Demanda no aturats",70
+2020,1,3,"Sants-Montjuïc",15,"Hostafrancs","Dones","Demanda no aturats",107
+2020,1,3,"Sants-Montjuïc",16,"la Bordeta","Dones","Demanda no aturats",125
+2020,1,3,"Sants-Montjuïc",17,"Sants - Badal","Dones","Demanda no aturats",140
+2020,1,3,"Sants-Montjuïc",18,"Sants","Dones","Demanda no aturats",259
+2020,1,4,"Les Corts",19,"les Corts","Dones","Demanda no aturats",260
+2020,1,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dones","Demanda no aturats",139
+2020,1,4,"Les Corts",21,"Pedralbes","Dones","Demanda no aturats",37
+2020,1,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dones","Demanda no aturats",11
+2020,1,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dones","Demanda no aturats",71
+2020,1,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dones","Demanda no aturats",42
+2020,1,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dones","Demanda no aturats",67
+2020,1,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dones","Demanda no aturats",151
+2020,1,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dones","Demanda no aturats",134
+2020,1,6,"Gràcia",28,"Vallcarca i els Penitents","Dones","Demanda no aturats",92
+2020,1,6,"Gràcia",29,"el Coll","Dones","Demanda no aturats",39
+2020,1,6,"Gràcia",30,"la Salut","Dones","Demanda no aturats",89
+2020,1,6,"Gràcia",31,"la Vila de Gràcia","Dones","Demanda no aturats",301
+2020,1,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dones","Demanda no aturats",215
+2020,1,7,"Horta-Guinardó",33,"el Baix Guinardó","Dones","Demanda no aturats",169
+2020,1,7,"Horta-Guinardó",34,"Can Baró","Dones","Demanda no aturats",64
+2020,1,7,"Horta-Guinardó",35,"el Guinardó","Dones","Demanda no aturats",223
+2020,1,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dones","Demanda no aturats",71
+2020,1,7,"Horta-Guinardó",37,"el Carmel","Dones","Demanda no aturats",243
+2020,1,7,"Horta-Guinardó",38,"la Teixonera","Dones","Demanda no aturats",72
+2020,1,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dones","Demanda no aturats",43
+2020,1,7,"Horta-Guinardó",40,"Montbau","Dones","Demanda no aturats",31
+2020,1,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dones","Demanda no aturats",33
+2020,1,7,"Horta-Guinardó",42,"la Clota","Dones","Demanda no aturats",2
+2020,1,7,"Horta-Guinardó",43,"Horta","Dones","Demanda no aturats",199
+2020,1,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dones","Demanda no aturats",181
+2020,1,8,"Nou Barris",45,"Porta","Dones","Demanda no aturats",169
+2020,1,8,"Nou Barris",46,"el Turó de la Peira","Dones","Demanda no aturats",114
+2020,1,8,"Nou Barris",47,"Can Peguera","Dones","Demanda no aturats",16
+2020,1,8,"Nou Barris",48,"la Guineueta","Dones","Demanda no aturats",135
+2020,1,8,"Nou Barris",49,"Canyelles","Dones","Demanda no aturats",66
+2020,1,8,"Nou Barris",50,"les Roquetes","Dones","Demanda no aturats",143
+2020,1,8,"Nou Barris",51,"Verdun","Dones","Demanda no aturats",110
+2020,1,8,"Nou Barris",52,"la Prosperitat","Dones","Demanda no aturats",190
+2020,1,8,"Nou Barris",53,"la Trinitat Nova","Dones","Demanda no aturats",76
+2020,1,8,"Nou Barris",54,"Torre Baró","Dones","Demanda no aturats",20
+2020,1,8,"Nou Barris",55,"Ciutat Meridiana","Dones","Demanda no aturats",107
+2020,1,8,"Nou Barris",56,"Vallbona","Dones","Demanda no aturats",12
+2020,1,9,"Sant Andreu",57,"la Trinitat Vella","Dones","Demanda no aturats",99
+2020,1,9,"Sant Andreu",58,"Baró de Viver","Dones","Demanda no aturats",18
+2020,1,9,"Sant Andreu",59,"el Bon Pastor","Dones","Demanda no aturats",103
+2020,1,9,"Sant Andreu",60,"Sant Andreu","Dones","Demanda no aturats",417
+2020,1,9,"Sant Andreu",61,"la Sagrera","Dones","Demanda no aturats",195
+2020,1,9,"Sant Andreu",62,"el Congrés i els Indians","Dones","Demanda no aturats",95
+2020,1,9,"Sant Andreu",63,"Navas","Dones","Demanda no aturats",145
+2020,1,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dones","Demanda no aturats",261
+2020,1,10,"Sant Martí",65,"el Clot","Dones","Demanda no aturats",160
+2020,1,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dones","Demanda no aturats",70
+2020,1,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dones","Demanda no aturats",45
+2020,1,10,"Sant Martí",68,"el Poblenou","Dones","Demanda no aturats",156
+2020,1,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dones","Demanda no aturats",77
+2020,1,10,"Sant Martí",70,"el Besòs i el Maresme","Dones","Demanda no aturats",177
+2020,1,10,"Sant Martí",71,"Provençals del Poblenou","Dones","Demanda no aturats",124
+2020,1,10,"Sant Martí",72,"Sant Martí de Provençals","Dones","Demanda no aturats",185
+2020,1,10,"Sant Martí",73,"la Verneda i la Pau","Dones","Demanda no aturats",211
+2020,1,99,"No consta",99,"No consta","Dones","Demanda no aturats",2

@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[Aitor Quinza and Francesco Baldissera]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona 2020 March]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,51 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+The project tries to analyze the economic and business data of Barcelona, for that we have put in mind to open an eSports bar and to carry out the market research using the public information found about Barcelona
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+1. [x] What’s the best Barcelona neighborhood to start an eSports Bar?
+2. [x] Which is the top 10 neighbourhoods more populated?
+3. [x] Which Neighbourhood has the less competition?
+4. [x] Where are the youngest people living?
+5. [x] Which neighbourhood has the less unemployment rate?
+6. [ ] Which has the higher average in salary?
+
+
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+We use the datasets from Open Barcelona Council.
+The datasets We used:
+- Age range per Neighbourhood.
+- Unemployment in Barcelona
+- Population per Neighbourhood
+- All the Neighbourhoods by Districts
+- Companies in Barcelona
+- Average price per Neighbourhood for local rent.
+
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
-
+<img src="./images/Database.png"/>
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. The first step was to decide which topic and the questions We want to research.
+2. After We chose the topic and the questions, We designed the database 
+3. Search for Datasets with the information We need.
+4. Upload the datasets to the Database.
+5. Use SQL to reply the questions.
+6. Create the Slide and the presentacion.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+We used Trello to organise the work.
 
-What does your repository look like? Explain your folder and file structure.
+The repo organisation is as follows:
+ - datasets are in folder './DataSets/' 
+ - Queries.sql inside Queries folder
+ - Images folder to keep all the images inside
+
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/aitorquinza/Project-Week-2-Barcelona/)  
+[Slides](https://docs.google.com/presentation/d/1UuQeav_hkhZRxc6y0XWPzzQIdXJ98XwnoeJBU4JhLrg/edit?usp=sharing)  
+[Trello](https://trello.com/b/xPfHohQ1/barcelona-data-project)  
