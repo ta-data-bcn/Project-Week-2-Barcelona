@@ -74,6 +74,8 @@ Your mentor is **not** meant to:
 **Monday**
 * Choose your topic.
 * Find interesting questions related to your topic.
+
+**Tuesday**
 * Brainstorm to find out what kind of data you can use to answer those questions.
 * Research and look for the data you need. You can find some useful links to investigate in the ```Resources``` section.
 * Fork the project repository and edit the README Deoverview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-2-Barcelona/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
@@ -89,7 +91,7 @@ Your mentor is **not** meant to:
 * Start preparing the slides for Friday's presentation.
 
 **Friday**  
-* Presentation time at **3 PM**! There will be a 15-minute break during the presentations.
+* Presentation time at **11:30 AM**! There will be a 15-minute break during the presentations.
 
 ## Datasets
 ### Transportation
