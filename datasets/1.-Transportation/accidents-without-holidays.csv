@@ -5,7 +5,6 @@
 4,Sant Martí,Thursday,May,25,Afternoon,1,0,1,3
 5,Sant Martí,Wednesday,September,20,Morning,1,0,1,2
 6,Sant Martí,Saturday,May,20,Afternoon,1,0,1,2
-7,Sant Martí,Tuesday,December,26,Afternoon,2,0,2,1
 8,Sant Martí,Monday,June,12,Afternoon,1,0,1,1
 9,Sant Martí,Wednesday,May,3,Afternoon,1,0,1,1
 10,Sant Martí,Thursday,December,14,Afternoon,1,0,1,2
@@ -26,9 +25,7 @@
 26,Sant Martí,Wednesday,March,8,Morning,1,0,1,2
 27,Sant Martí,Saturday,October,7,Morning,2,0,2,4
 28,Sant Martí,Wednesday,May,17,Morning,0,0,0,2
-29,Sant Martí,Tuesday,February,14,Afternoon,1,0,1,1
 30,Sant Martí,Thursday,August,31,Afternoon,0,1,1,1
-31,Sant Martí,Tuesday,August,15,Afternoon,1,0,1,2
 32,Sant Martí,Thursday,February,2,Morning,1,0,1,2
 33,Sant Martí,Saturday,February,11,Afternoon,1,0,1,2
 34,Sant Martí,Thursday,August,31,Morning,2,0,2,3
@@ -51,13 +48,11 @@
 51,Sant Martí,Saturday,February,25,Morning,1,0,1,2
 52,Sant Martí,Friday,November,24,Morning,2,0,2,3
 53,Sant Martí,Wednesday,September,13,Night,1,0,1,5
-54,Sant Martí,Friday,January,6,Night,1,0,1,2
 55,Sant Martí,Friday,October,6,Afternoon,1,0,1,2
 56,Sant Martí,Tuesday,September,26,Morning,1,0,1,1
 57,Sant Martí,Tuesday,August,8,Night,1,0,1,2
 58,Sant Martí,Wednesday,July,12,Afternoon,1,0,1,1
 59,Sant Martí,Friday,May,26,Morning,1,0,1,3
-60,Sant Martí,Sunday,April,23,Morning,1,0,1,2
 61,Sant Martí,Sunday,October,1,Afternoon,2,0,2,2
 62,Sant Martí,Thursday,May,4,Morning,1,0,1,3
 63,Sant Martí,Wednesday,August,2,Morning,1,0,1,2
@@ -79,7 +74,6 @@
 79,Sant Martí,Friday,April,7,Afternoon,0,0,0,2
 80,Sant Martí,Friday,August,11,Afternoon,1,0,1,2
 81,Sant Martí,Friday,February,10,Morning,2,0,2,2
-82,Sant Martí,Friday,June,2,Morning,1,0,1,1
 83,Sant Martí,Wednesday,March,15,Morning,2,0,2,1
 84,Sant Martí,Thursday,October,26,Morning,1,0,1,1
 85,Sant Martí,Friday,May,12,Night,2,0,2,2
@@ -98,7 +92,6 @@
 100,Sant Martí,Wednesday,July,5,Afternoon,0,0,0,2
 101,Sant Martí,Tuesday,November,21,Night,1,0,1,2
 102,Sant Martí,Friday,February,10,Morning,1,0,1,1
-103,Sant Martí,Saturday,April,29,Afternoon,1,0,1,2
 104,Sant Martí,Monday,July,10,Afternoon,1,0,1,1
 105,Sant Martí,Sunday,January,22,Afternoon,1,0,1,1
 106,Sant Martí,Tuesday,March,7,Morning,1,0,1,2
@@ -112,9 +105,7 @@
 115,Sant Martí,Sunday,June,25,Afternoon,3,0,3,4
 116,Sant Martí,Thursday,April,20,Afternoon,1,0,1,1
 117,Sant Martí,Saturday,August,26,Morning,0,0,0,1
-118,Sant Martí,Sunday,April,30,Morning,2,0,2,3
 119,Sant Martí,Saturday,October,14,Afternoon,2,0,2,2
-120,Sant Martí,Sunday,April,23,Afternoon,5,0,5,5
 121,Sant Martí,Monday,May,22,Morning,1,0,1,2
 122,Sant Martí,Monday,March,27,Morning,1,0,1,2
 123,Sant Martí,Saturday,April,1,Afternoon,1,0,1,2
@@ -223,12 +214,10 @@
 230,Ciutat Vella,Wednesday,October,25,Night,1,0,1,2
 231,Ciutat Vella,Sunday,June,25,Afternoon,2,0,2,1
 232,Ciutat Vella,Friday,June,30,Afternoon,1,0,1,2
-233,Ciutat Vella,Friday,June,2,Afternoon,1,0,1,2
 234,Ciutat Vella,Friday,October,13,Afternoon,2,0,2,2
 235,Ciutat Vella,Sunday,October,15,Morning,0,0,0,2
 236,Ciutat Vella,Thursday,April,13,Afternoon,3,0,3,1
 237,Ciutat Vella,Friday,May,12,Afternoon,1,0,1,1
-238,Ciutat Vella,Friday,April,28,Afternoon,1,0,1,2
 239,Ciutat Vella,Tuesday,August,22,Afternoon,1,0,1,1
 241,Eixample,Saturday,June,10,Afternoon,1,0,1,2
 242,Ciutat Vella,Monday,February,6,Morning,0,0,0,1
@@ -256,7 +245,6 @@
 265,Eixample,Wednesday,March,29,Morning,2,0,2,2
 266,Eixample,Tuesday,February,7,Morning,1,0,1,1
 267,Eixample,Saturday,August,12,Morning,1,0,1,2
-268,Eixample,Wednesday,November,1,Morning,1,0,1,2
 269,Eixample,Monday,October,30,Morning,1,0,1,2
 270,Eixample,Monday,March,6,Morning,1,0,1,2
 271,Eixample,Tuesday,July,18,Night,1,0,1,2
@@ -264,7 +252,6 @@
 273,Eixample,Thursday,March,30,Morning,1,0,1,2
 274,Eixample,Wednesday,July,19,Afternoon,1,0,1,1
 276,Eixample,Friday,November,10,Afternoon,1,0,1,2
-277,Eixample,Friday,April,28,Night,1,0,1,2
 278,Eixample,Thursday,February,9,Morning,1,0,1,2
 279,Eixample,Saturday,March,11,Night,1,0,1,2
 280,Eixample,Sunday,March,19,Morning,1,0,1,1
@@ -296,7 +283,6 @@
 307,Eixample,Sunday,November,5,Night,0,1,1,1
 308,Eixample,Friday,May,26,Afternoon,1,0,1,2
 309,Eixample,Monday,May,22,Afternoon,1,0,1,2
-310,Eixample,Sunday,June,4,Afternoon,1,0,1,2
 311,Eixample,Friday,July,28,Afternoon,1,0,1,2
 312,Eixample,Sunday,July,16,Morning,2,0,2,1
 313,Eixample,Saturday,October,14,Night,1,0,1,2
@@ -348,7 +334,6 @@
 363,Eixample,Saturday,February,18,Morning,1,0,1,2
 364,Eixample,Friday,August,25,Morning,1,0,1,2
 365,Eixample,Monday,January,23,Night,2,0,2,2
-366,Eixample,Friday,January,6,Afternoon,2,0,2,2
 367,Eixample,Tuesday,March,7,Morning,1,0,1,2
 368,Eixample,Sunday,January,8,Afternoon,1,0,1,2
 369,Eixample,Wednesday,July,26,Afternoon,1,0,1,2
@@ -374,7 +359,6 @@
 390,Eixample,Saturday,February,25,Afternoon,1,0,1,2
 391,Eixample,Tuesday,January,3,Afternoon,1,0,1,2
 392,Eixample,Thursday,December,28,Afternoon,2,0,2,2
-393,Eixample,Wednesday,November,1,Afternoon,1,0,1,2
 394,Eixample,Sunday,August,20,Morning,0,1,1,2
 395,Eixample,Tuesday,October,10,Afternoon,1,0,1,2
 396,Eixample,Thursday,June,8,Morning,1,0,1,2
@@ -392,7 +376,6 @@
 409,Eixample,Monday,October,2,Morning,1,0,1,2
 410,Eixample,Monday,December,18,Afternoon,1,0,1,2
 412,Eixample,Wednesday,August,9,Morning,1,0,1,2
-413,Eixample,Thursday,October,12,Afternoon,1,0,1,2
 414,Eixample,Sunday,May,21,Afternoon,1,0,1,2
 415,Eixample,Thursday,May,18,Morning,1,0,1,2
 416,Eixample,Sunday,January,29,Morning,1,0,1,2
@@ -410,7 +393,6 @@
 429,Eixample,Monday,March,6,Night,1,0,1,2
 430,Eixample,Wednesday,June,21,Morning,2,0,2,2
 431,Eixample,Friday,November,17,Afternoon,3,0,3,2
-432,Eixample,Tuesday,August,15,Afternoon,1,0,1,3
 433,Eixample,Friday,December,1,Night,1,0,1,2
 434,Eixample,Monday,April,10,Afternoon,1,0,1,1
 435,Eixample,Monday,October,9,Afternoon,1,0,1,2
@@ -424,7 +406,6 @@
 443,Eixample,Thursday,February,9,Morning,1,0,1,2
 444,Eixample,Tuesday,September,26,Morning,1,0,1,2
 445,Eixample,Monday,May,15,Afternoon,1,0,1,2
-446,Eixample,Tuesday,August,15,Morning,2,0,2,2
 447,Eixample,Thursday,August,24,Morning,1,0,1,2
 448,Eixample,Wednesday,July,26,Afternoon,1,0,1,1
 449,Eixample,Monday,April,3,Morning,1,0,1,2
@@ -459,7 +440,6 @@
 479,Eixample,Monday,October,9,Morning,1,0,1,3
 480,Eixample,Tuesday,October,24,Morning,1,0,1,2
 481,Eixample,Sunday,January,15,Morning,1,0,1,2
-482,Eixample,Friday,April,28,Morning,1,0,1,2
 483,Eixample,Wednesday,September,13,Morning,1,0,1,2
 484,Eixample,Friday,July,28,Afternoon,1,0,1,1
 485,Eixample,Wednesday,July,5,Afternoon,1,0,1,3
@@ -472,7 +452,6 @@
 492,Eixample,Tuesday,May,2,Morning,1,1,2,2
 493,Eixample,Friday,November,24,Morning,1,0,1,2
 494,Eixample,Friday,January,13,Morning,1,0,1,2
-495,Eixample,Tuesday,February,14,Morning,1,0,1,2
 496,Eixample,Wednesday,May,10,Morning,1,0,1,2
 497,Eixample,Friday,December,22,Morning,1,0,1,2
 498,Eixample,Tuesday,November,21,Morning,1,0,1,2
@@ -494,7 +473,6 @@
 514,Eixample,Friday,October,13,Afternoon,1,0,1,2
 515,Eixample,Thursday,April,13,Afternoon,1,0,1,2
 516,Eixample,Monday,August,14,Afternoon,2,0,2,2
-517,Eixample,Wednesday,November,1,Night,1,0,1,2
 518,Eixample,Tuesday,December,5,Afternoon,1,0,1,2
 519,Eixample,Monday,April,24,Morning,1,0,1,2
 520,Eixample,Thursday,November,30,Morning,1,0,1,2
@@ -503,7 +481,6 @@
 523,Eixample,Thursday,February,9,Afternoon,1,0,1,2
 524,Eixample,Wednesday,November,22,Morning,2,0,2,3
 525,Eixample,Saturday,March,11,Afternoon,1,0,1,2
-526,Eixample,Saturday,January,7,Night,1,0,1,2
 527,Eixample,Friday,July,21,Morning,1,0,1,2
 528,Eixample,Wednesday,February,15,Morning,1,0,1,2
 529,Eixample,Tuesday,July,4,Morning,1,0,1,2
@@ -512,10 +489,8 @@
 532,Eixample,Friday,January,20,Morning,2,0,2,3
 533,Eixample,Saturday,September,2,Afternoon,1,0,1,2
 535,Eixample,Friday,November,24,Afternoon,1,0,1,2
-536,Eixample,Friday,June,2,Afternoon,0,0,0,2
 537,Eixample,Monday,July,10,Morning,1,0,1,2
 538,Eixample,Saturday,May,6,Afternoon,1,0,1,2
-539,Eixample,Saturday,January,7,Afternoon,1,0,1,2
 540,Eixample,Friday,March,17,Morning,0,1,1,2
 541,Eixample,Thursday,April,27,Night,2,0,2,2
 542,Eixample,Monday,May,29,Morning,1,0,1,2
@@ -534,7 +509,6 @@
 556,Eixample,Wednesday,November,29,Morning,1,0,1,1
 557,Eixample,Wednesday,December,20,Afternoon,1,0,1,2
 558,Eixample,Wednesday,February,8,Morning,1,0,1,1
-559,Eixample,Friday,January,6,Morning,1,0,1,2
 560,Eixample,Tuesday,November,28,Morning,2,0,2,2
 561,Eixample,Wednesday,May,31,Morning,1,0,1,2
 562,Eixample,Wednesday,November,22,Afternoon,1,0,1,2
@@ -549,8 +523,6 @@
 571,Eixample,Saturday,March,25,Afternoon,3,0,3,2
 572,Eixample,Tuesday,June,27,Afternoon,1,0,1,1
 573,Eixample,Saturday,May,13,Night,2,0,2,1
-574,Eixample,Tuesday,August,15,Morning,1,0,1,2
-575,Eixample,Sunday,April,30,Morning,1,0,1,4
 576,Eixample,Friday,April,7,Morning,1,0,1,2
 578,Eixample,Thursday,February,23,Morning,1,0,1,2
 579,Eixample,Tuesday,October,24,Afternoon,1,0,1,2
@@ -562,7 +534,6 @@
 585,Sants-Montjuïc,Tuesday,April,4,Afternoon,1,0,1,2
 586,Sants-Montjuïc,Tuesday,September,12,Morning,3,0,3,3
 587,Sants-Montjuïc,Tuesday,February,28,Afternoon,0,0,0,2
-588,Eixample,Friday,June,2,Afternoon,1,0,1,2
 589,Eixample,Sunday,May,21,Afternoon,1,0,1,2
 590,Eixample,Friday,April,21,Afternoon,1,0,1,2
 591,Eixample,Saturday,July,22,Night,2,0,2,2
@@ -590,7 +561,6 @@
 616,Eixample,Thursday,August,10,Morning,1,0,1,1
 617,Eixample,Saturday,March,4,Night,2,0,2,1
 618,Eixample,Tuesday,April,18,Morning,1,0,1,2
-619,Eixample,Saturday,April,29,Afternoon,2,0,2,2
 620,Eixample,Tuesday,September,12,Morning,2,0,2,2
 621,Eixample,Thursday,August,3,Afternoon,1,0,1,2
 622,Eixample,Tuesday,October,3,Afternoon,1,0,1,1
@@ -632,7 +602,6 @@
 659,Sants-Montjuïc,Tuesday,June,20,Morning,1,0,1,3
 660,Sants-Montjuïc,Monday,July,17,Morning,1,0,1,2
 661,Sants-Montjuïc,Sunday,October,22,Morning,2,0,2,1
-662,Sants-Montjuïc,Friday,April,28,Afternoon,1,0,1,2
 663,Sants-Montjuïc,Tuesday,July,4,Morning,1,0,1,2
 664,Sants-Montjuïc,Saturday,May,6,Afternoon,2,0,2,2
 665,Sants-Montjuïc,Thursday,August,10,Night,1,0,1,1
@@ -688,7 +657,6 @@
 715,Sants-Montjuïc,Thursday,September,21,Afternoon,1,0,1,2
 716,Sants-Montjuïc,Monday,October,2,Morning,1,0,1,1
 717,Sants-Montjuïc,Wednesday,March,29,Afternoon,1,0,1,2
-718,Sants-Montjuïc,Friday,January,6,Morning,1,0,1,2
 719,Sants-Montjuïc,Thursday,October,26,Morning,1,0,1,1
 720,Sants-Montjuïc,Friday,February,24,Afternoon,1,0,1,2
 722,Sants-Montjuïc,Sunday,July,30,Afternoon,1,0,1,1
@@ -698,7 +666,6 @@
 726,Sants-Montjuïc,Wednesday,July,12,Morning,1,0,1,2
 727,Sants-Montjuïc,Wednesday,May,3,Afternoon,1,0,1,2
 728,Sants-Montjuïc,Sunday,July,9,Afternoon,1,0,1,2
-729,Sants-Montjuïc,Sunday,June,4,Afternoon,1,0,1,2
 731,Sants-Montjuïc,Tuesday,July,25,Afternoon,1,0,1,1
 732,Sants-Montjuïc,Tuesday,May,9,Afternoon,1,0,1,1
 733,Sants-Montjuïc,Saturday,June,10,Afternoon,1,0,1,1
@@ -775,7 +742,6 @@
 808,Les Corts,Tuesday,October,31,Afternoon,1,0,1,2
 809,Les Corts,Monday,December,18,Morning,1,0,1,2
 810,Les Corts,Saturday,October,21,Morning,2,0,2,1
-811,Les Corts,Sunday,April,23,Afternoon,1,0,1,1
 812,Les Corts,Friday,November,3,Afternoon,1,0,1,2
 813,Les Corts,Monday,July,31,Afternoon,0,1,1,1
 814,Les Corts,Thursday,July,27,Night,0,0,0,1
@@ -819,7 +785,6 @@
 853,Les Corts,Wednesday,September,20,Morning,2,0,2,1
 854,Les Corts,Thursday,July,20,Afternoon,1,0,1,2
 855,Les Corts,Wednesday,May,31,Afternoon,0,0,0,2
-856,Les Corts,Tuesday,December,26,Morning,1,0,1,2
 857,Les Corts,Thursday,February,23,Afternoon,1,0,1,1
 858,Les Corts,Monday,March,13,Afternoon,1,0,1,2
 859,Les Corts,Wednesday,May,17,Morning,1,0,1,1
@@ -827,7 +792,6 @@
 861,Les Corts,Sunday,May,21,Afternoon,1,0,1,1
 862,Les Corts,Monday,June,19,Morning,3,0,3,2
 863,Les Corts,Monday,December,18,Morning,1,0,1,2
-864,Sarrià-Sant Gervasi,Saturday,January,7,Morning,1,2,3,13
 865,Sarrià-Sant Gervasi,Monday,February,13,Morning,1,0,1,1
 866,Sarrià-Sant Gervasi,Saturday,January,14,Afternoon,1,0,1,2
 867,Sarrià-Sant Gervasi,Friday,March,31,Afternoon,2,0,2,2
@@ -847,7 +811,6 @@
 883,Sarrià-Sant Gervasi,Sunday,January,29,Morning,1,0,1,2
 884,Sarrià-Sant Gervasi,Monday,May,22,Afternoon,1,0,1,2
 885,Sarrià-Sant Gervasi,Friday,April,21,Morning,1,0,1,3
-886,Sarrià-Sant Gervasi,Sunday,June,4,Morning,0,0,0,1
 887,Sarrià-Sant Gervasi,Thursday,May,11,Morning,1,0,1,2
 888,Sarrià-Sant Gervasi,Monday,February,27,Afternoon,1,0,1,2
 889,Sarrià-Sant Gervasi,Thursday,July,27,Afternoon,1,0,1,2
@@ -872,7 +835,6 @@
 908,Sarrià-Sant Gervasi,Tuesday,March,28,Afternoon,1,0,1,3
 909,Sarrià-Sant Gervasi,Friday,March,10,Afternoon,1,0,1,2
 910,Sarrià-Sant Gervasi,Friday,May,5,Afternoon,2,0,2,3
-911,Sarrià-Sant Gervasi,Monday,June,5,Night,1,0,1,2
 912,Sarrià-Sant Gervasi,Wednesday,May,17,Morning,1,0,1,3
 914,Sarrià-Sant Gervasi,Saturday,May,13,Morning,1,0,1,2
 915,Sarrià-Sant Gervasi,Wednesday,August,16,Afternoon,1,0,1,2
@@ -933,7 +895,6 @@
 970,Sarrià-Sant Gervasi,Tuesday,September,19,Morning,1,0,1,2
 971,Sarrià-Sant Gervasi,Friday,September,1,Morning,1,0,1,1
 972,Sarrià-Sant Gervasi,Tuesday,August,1,Afternoon,2,0,2,2
-973,Sarrià-Sant Gervasi,Saturday,June,3,Night,0,0,0,5
 974,Sarrià-Sant Gervasi,Monday,December,11,Afternoon,1,0,1,2
 975,Sarrià-Sant Gervasi,Tuesday,May,2,Morning,1,0,1,2
 976,Sarrià-Sant Gervasi,Tuesday,May,16,Morning,1,0,1,2
@@ -1000,11 +961,9 @@
 1043,Gràcia,Monday,August,28,Morning,1,0,1,2
 1044,Gràcia,Tuesday,August,1,Night,3,0,3,2
 1045,Gràcia,Friday,January,20,Morning,1,0,1,2
-1046,Gràcia,Friday,January,6,Morning,1,0,1,1
 1047,Gràcia,Thursday,March,16,Afternoon,2,0,2,1
 1048,Gràcia,Saturday,February,18,Afternoon,1,0,1,2
 1049,Gràcia,Thursday,July,6,Night,1,0,1,2
-1050,Gràcia,Sunday,April,23,Afternoon,0,0,0,2
 1051,Gràcia,Thursday,May,25,Morning,1,0,1,2
 1052,Horta-Guinardó,Monday,July,31,Morning,1,0,1,1
 1053,Horta-Guinardó,Monday,August,21,Morning,1,0,1,2
@@ -1028,7 +987,6 @@
 1072,Horta-Guinardó,Thursday,August,17,Afternoon,1,0,1,1
 1073,Horta-Guinardó,Monday,February,6,Morning,4,0,4,3
 1074,Horta-Guinardó,Tuesday,December,19,Morning,1,0,1,2
-1075,Horta-Guinardó,Tuesday,December,26,Afternoon,1,0,1,2
 1076,Horta-Guinardó,Tuesday,March,14,Afternoon,0,0,0,1
 1077,Horta-Guinardó,Thursday,April,27,Morning,1,0,1,2
 1078,Horta-Guinardó,Wednesday,October,11,Night,1,0,1,2
@@ -1083,7 +1041,6 @@
 1131,Nou Barris,Friday,September,15,Morning,1,0,1,2
 1132,Nou Barris,Thursday,January,26,Morning,1,0,1,1
 1133,Nou Barris,Thursday,November,30,Afternoon,1,0,1,2
-1134,Nou Barris,Sunday,June,4,Afternoon,4,0,4,2
 1135,Nou Barris,Friday,March,17,Morning,1,0,1,2
 1136,Nou Barris,Tuesday,September,26,Afternoon,1,0,1,2
 1137,Nou Barris,Tuesday,July,4,Afternoon,1,0,1,2
@@ -1095,7 +1052,6 @@
 1143,Nou Barris,Thursday,January,12,Morning,1,0,1,2
 1144,Nou Barris,Saturday,November,18,Afternoon,2,0,2,2
 1145,Nou Barris,Tuesday,May,16,Night,1,0,1,2
-1146,Nou Barris,Friday,June,2,Afternoon,1,0,1,2
 1147,Nou Barris,Thursday,April,27,Afternoon,1,0,1,2
 1148,Nou Barris,Wednesday,December,27,Afternoon,2,0,2,2
 1149,Nou Barris,Friday,December,22,Morning,2,0,2,2
@@ -1110,7 +1066,6 @@
 1158,Nou Barris,Friday,July,7,Afternoon,1,0,1,2
 1159,Nou Barris,Sunday,July,16,Afternoon,0,0,0,2
 1160,Nou Barris,Friday,January,13,Afternoon,1,0,1,1
-1161,Nou Barris,Friday,June,2,Afternoon,1,0,1,2
 1162,Nou Barris,Sunday,July,16,Morning,1,0,1,1
 1163,Nou Barris,Tuesday,June,6,Morning,0,0,0,2
 1164,Nou Barris,Thursday,January,5,Morning,1,0,2,1
@@ -1179,7 +1134,6 @@
 1228,Sant Andreu,Thursday,January,5,Night,1,0,1,1
 1229,Sant Andreu,Tuesday,April,25,Morning,1,0,1,2
 1230,Sant Andreu,Thursday,February,23,Morning,0,0,0,1
-1231,Sant Andreu,Friday,June,2,Morning,1,0,1,3
 1233,Sant Andreu,Thursday,March,30,Afternoon,1,0,1,2
 1234,Sant Andreu,Tuesday,January,24,Morning,0,0,0,1
 1235,Sant Andreu,Thursday,January,26,Night,2,0,2,2
@@ -1202,7 +1156,6 @@
 1252,Unknown,Wednesday,June,28,Morning,1,0,1,1
 1253,Unknown,Wednesday,January,11,Afternoon,2,0,2,2
 1254,Unknown,Wednesday,December,20,Morning,0,0,0,2
-1256,Sant Martí,Tuesday,December,26,Night,5,0,5,2
 1257,Sant Martí,Thursday,March,30,Afternoon,1,0,1,1
 1258,Sant Martí,Friday,December,15,Morning,1,0,1,2
 1259,Sant Martí,Wednesday,June,7,Morning,1,0,1,2
@@ -1258,7 +1211,6 @@
 1310,Sant Martí,Wednesday,April,12,Morning,1,0,1,1
 1311,Sant Martí,Wednesday,April,5,Night,0,0,0,3
 1312,Sant Martí,Sunday,April,2,Morning,1,0,1,1
-1313,Sant Martí,Friday,April,28,Afternoon,0,0,0,2
 1314,Sant Martí,Friday,November,17,Morning,1,0,1,2
 1315,Sant Martí,Monday,May,8,Morning,1,0,1,1
 1316,Sant Martí,Saturday,November,4,Afternoon,7,0,7,2
@@ -1273,7 +1225,6 @@
 1327,Sant Martí,Tuesday,May,23,Afternoon,1,0,1,1
 1328,Sant Martí,Wednesday,July,12,Morning,1,0,1,2
 1329,Sant Martí,Sunday,June,18,Afternoon,1,0,1,2
-1330,Sant Martí,Sunday,June,4,Afternoon,0,0,0,2
 1332,Sant Martí,Monday,August,7,Afternoon,2,0,2,2
 1333,Sant Martí,Thursday,May,18,Night,2,1,3,1
 1334,Sant Martí,Saturday,July,15,Night,2,0,2,3
@@ -1283,8 +1234,6 @@
 1338,Sant Martí,Tuesday,January,17,Morning,1,0,1,2
 1339,Sant Martí,Sunday,June,18,Morning,1,0,1,2
 1340,Sant Martí,Saturday,April,22,Morning,1,0,1,2
-1341,Sant Martí,Friday,April,28,Morning,2,0,2,1
-1342,Sant Martí,Saturday,January,7,Afternoon,1,0,1,2
 1343,Sant Martí,Monday,November,6,Morning,2,0,2,2
 1344,Sant Martí,Monday,October,23,Afternoon,0,0,0,2
 1345,Sant Martí,Saturday,May,13,Night,1,0,1,2
@@ -1314,7 +1263,6 @@
 1372,Sant Martí,Saturday,May,13,Afternoon,0,0,0,1
 1373,Sant Martí,Wednesday,February,15,Afternoon,1,0,1,2
 1374,Sant Martí,Sunday,November,26,Afternoon,3,0,3,2
-1375,Sant Martí,Saturday,April,29,Afternoon,3,0,3,2
 1376,Sant Martí,Thursday,May,25,Morning,2,0,2,2
 1377,Sant Martí,Sunday,June,25,Morning,1,0,1,2
 1378,Sant Martí,Sunday,April,2,Night,1,0,1,1
@@ -1328,7 +1276,6 @@
 1387,Sant Martí,Monday,May,29,Morning,1,0,1,3
 1388,Sant Martí,Saturday,January,14,Afternoon,1,0,1,2
 1389,Sant Martí,Wednesday,December,27,Morning,1,0,1,1
-1390,Sant Martí,Tuesday,February,14,Night,1,0,1,2
 1391,Sant Martí,Thursday,March,30,Morning,1,0,1,2
 1392,Sant Martí,Friday,July,21,Afternoon,1,0,1,3
 1393,Sant Martí,Tuesday,November,14,Morning,1,0,1,2
@@ -1341,7 +1288,6 @@
 1401,Ciutat Vella,Saturday,March,4,Night,0,2,2,1
 1402,Ciutat Vella,Tuesday,July,18,Afternoon,1,0,1,1
 1403,Ciutat Vella,Monday,July,10,Night,1,0,1,2
-1404,Sant Martí,Monday,May,1,Night,0,0,0,3
 1406,Sant Martí,Wednesday,May,17,Morning,2,0,2,2
 1407,Sant Martí,Wednesday,April,19,Morning,1,0,1,2
 1408,Ciutat Vella,Tuesday,June,13,Morning,0,0,0,1
@@ -1354,12 +1300,10 @@
 1415,Sant Martí,Monday,July,3,Morning,2,0,2,2
 1416,Ciutat Vella,Monday,July,17,Night,2,0,2,2
 1417,Ciutat Vella,Saturday,July,22,Night,2,0,2,3
-1418,Ciutat Vella,Saturday,June,3,Morning,0,0,0,2
 1419,Ciutat Vella,Friday,March,24,Morning,0,0,0,1
 1420,Ciutat Vella,Thursday,April,6,Afternoon,1,0,1,2
 1421,Ciutat Vella,Friday,August,4,Afternoon,2,0,2,3
 1422,Ciutat Vella,Saturday,December,9,Morning,1,0,1,1
-1423,Ciutat Vella,Monday,June,5,Morning,0,0,0,1
 1424,Ciutat Vella,Tuesday,August,22,Night,2,0,2,1
 1425,Ciutat Vella,Sunday,June,18,Night,1,0,1,2
 1426,Ciutat Vella,Friday,March,10,Morning,1,0,1,1
@@ -1404,7 +1348,6 @@
 1466,Ciutat Vella,Monday,August,21,Morning,1,0,1,2
 1467,Ciutat Vella,Monday,December,18,Afternoon,3,0,3,2
 1468,Ciutat Vella,Wednesday,May,31,Afternoon,1,0,1,2
-1469,Ciutat Vella,Sunday,April,23,Morning,2,0,2,2
 1470,Ciutat Vella,Saturday,April,1,Morning,1,0,1,2
 1471,Ciutat Vella,Friday,June,9,Morning,1,0,1,1
 1472,Ciutat Vella,Wednesday,November,22,Morning,2,0,2,2
@@ -1451,7 +1394,6 @@
 1513,Eixample,Tuesday,January,3,Afternoon,1,0,1,2
 1514,Eixample,Tuesday,March,14,Morning,1,0,1,2
 1515,Eixample,Monday,June,12,Afternoon,1,0,1,2
-1516,Eixample,Saturday,June,3,Afternoon,3,0,3,2
 1517,Eixample,Thursday,June,1,Morning,1,0,1,2
 1518,Eixample,Monday,October,30,Night,0,0,0,2
 1519,Eixample,Wednesday,June,7,Afternoon,1,0,1,2
@@ -1465,7 +1407,6 @@
 1527,Eixample,Friday,May,26,Afternoon,1,0,1,2
 1528,Eixample,Monday,June,12,Morning,1,0,1,2
 1529,Eixample,Thursday,January,26,Morning,2,0,2,2
-1530,Eixample,Saturday,April,29,Afternoon,0,0,0,1
 1531,Eixample,Wednesday,July,19,Morning,2,0,2,2
 1532,Eixample,Friday,October,27,Night,1,0,1,1
 1533,Eixample,Thursday,May,18,Night,3,0,3,2
@@ -1478,14 +1419,12 @@
 1541,Eixample,Tuesday,December,5,Morning,1,0,1,1
 1542,Eixample,Wednesday,November,29,Morning,1,0,1,2
 1543,Eixample,Thursday,January,12,Morning,1,0,1,1
-1544,Eixample,Tuesday,February,14,Afternoon,1,0,1,2
 1545,Eixample,Thursday,January,12,Morning,1,0,1,1
 1546,Eixample,Tuesday,July,18,Morning,1,0,1,2
 1547,Eixample,Thursday,July,13,Afternoon,1,0,1,2
 1548,Eixample,Sunday,July,30,Night,1,0,1,2
 1549,Eixample,Wednesday,October,18,Night,0,0,0,1
 1550,Eixample,Monday,March,27,Afternoon,2,0,2,3
-1551,Eixample,Tuesday,February,14,Morning,1,0,1,2
 1552,Eixample,Monday,January,23,Afternoon,1,0,1,3
 1553,Eixample,Tuesday,March,14,Morning,1,0,1,2
 1554,Eixample,Tuesday,January,10,Afternoon,1,0,1,2
@@ -1504,7 +1443,6 @@
 1569,Eixample,Sunday,November,12,Afternoon,1,1,2,1
 1570,Eixample,Friday,July,28,Afternoon,1,0,1,2
 1571,Eixample,Monday,December,11,Afternoon,1,0,1,1
-1572,Eixample,Friday,April,28,Afternoon,1,0,1,2
 1573,Eixample,Thursday,December,14,Afternoon,1,0,1,2
 1574,Eixample,Monday,November,27,Afternoon,1,0,1,1
 1575,Eixample,Thursday,October,5,Morning,1,0,1,2
@@ -1521,11 +1459,9 @@
 1587,Eixample,Monday,December,18,Morning,2,0,2,1
 1588,Eixample,Saturday,December,30,Afternoon,1,0,1,2
 1589,Eixample,Thursday,December,14,Afternoon,1,0,1,2
-1590,Eixample,Tuesday,December,26,Afternoon,1,0,1,2
 1591,Eixample,Thursday,December,14,Afternoon,2,0,2,9
 1592,Eixample,Saturday,May,13,Afternoon,1,0,1,2
 1593,Eixample,Tuesday,August,22,Morning,1,0,1,2
-1594,Eixample,Saturday,June,3,Afternoon,1,0,1,2
 1595,Eixample,Friday,August,18,Night,2,0,2,2
 1596,Eixample,Thursday,July,13,Afternoon,1,0,1,2
 1597,Eixample,Tuesday,November,7,Night,2,0,2,1
@@ -1550,7 +1486,6 @@
 1616,Eixample,Monday,December,4,Afternoon,1,0,1,2
 1617,Eixample,Wednesday,January,4,Morning,1,0,1,2
 1618,Eixample,Friday,June,9,Afternoon,1,0,1,2
-1619,Eixample,Tuesday,December,26,Morning,1,0,1,2
 1620,Eixample,Wednesday,February,8,Afternoon,1,0,1,2
 1621,Eixample,Tuesday,April,4,Morning,2,0,2,2
 1622,Eixample,Sunday,November,26,Morning,0,2,2,1
@@ -1559,7 +1494,6 @@
 1625,Eixample,Saturday,November,25,Afternoon,1,0,1,2
 1626,Eixample,Wednesday,July,12,Morning,1,0,1,2
 1628,Eixample,Monday,May,22,Morning,1,0,1,1
-1629,Eixample,Friday,April,28,Morning,1,0,1,2
 1630,Eixample,Sunday,July,16,Night,1,0,1,2
 1631,Eixample,Tuesday,December,5,Afternoon,2,0,2,2
 1632,Eixample,Thursday,August,3,Morning,1,0,1,2
@@ -1639,7 +1573,6 @@
 1710,Eixample,Thursday,December,21,Morning,1,0,1,2
 1711,Eixample,Wednesday,November,22,Morning,1,0,1,2
 1712,Eixample,Tuesday,January,3,Morning,0,0,0,2
-1713,Eixample,Monday,May,1,Morning,1,0,1,2
 1714,Eixample,Tuesday,June,20,Afternoon,1,0,1,4
 1715,Eixample,Tuesday,April,4,Night,1,0,1,2
 1716,Eixample,Tuesday,November,14,Night,2,0,2,2
@@ -1684,7 +1617,6 @@
 1755,Eixample,Sunday,July,30,Morning,1,0,1,2
 1756,Eixample,Thursday,September,7,Afternoon,1,0,1,2
 1757,Eixample,Thursday,June,22,Morning,1,0,1,2
-1758,Eixample,Tuesday,December,26,Afternoon,2,0,2,1
 1759,Eixample,Tuesday,February,7,Morning,1,0,1,1
 1760,Eixample,Sunday,November,19,Morning,2,0,2,5
 1761,Eixample,Wednesday,September,27,Afternoon,1,0,1,2
@@ -1726,7 +1658,6 @@
 1799,Eixample,Sunday,January,8,Morning,4,0,4,3
 1800,Eixample,Monday,July,17,Morning,1,0,1,2
 1801,Sants-Montjuïc,Wednesday,March,22,Morning,2,0,2,2
-1802,Eixample,Sunday,April,23,Afternoon,1,0,1,2
 1803,Eixample,Saturday,September,2,Night,1,0,1,2
 1805,Eixample,Thursday,July,20,Afternoon,1,0,1,3
 1806,Eixample,Sunday,October,1,Afternoon,1,0,1,2
@@ -1781,7 +1712,6 @@
 1856,Sants-Montjuïc,Saturday,February,11,Morning,0,0,0,1
 1857,Sants-Montjuïc,Friday,October,20,Afternoon,0,0,0,1
 1858,Sants-Montjuïc,Saturday,May,27,Afternoon,1,0,1,2
-1859,Sants-Montjuïc,Sunday,June,4,Night,1,0,1,3
 1860,Sants-Montjuïc,Saturday,December,16,Night,1,0,1,2
 1861,Sants-Montjuïc,Wednesday,October,11,Afternoon,1,0,1,1
 1862,Sants-Montjuïc,Tuesday,September,5,Afternoon,0,0,0,1
@@ -1801,7 +1731,6 @@
 1878,Sants-Montjuïc,Saturday,March,11,Afternoon,2,0,2,4
 1879,Sants-Montjuïc,Monday,July,10,Morning,2,0,2,2
 1880,Sants-Montjuïc,Thursday,October,5,Night,1,0,1,1
-1881,Sants-Montjuïc,Friday,June,2,Afternoon,0,0,0,2
 1882,Sants-Montjuïc,Saturday,October,7,Afternoon,1,0,1,2
 1883,Sants-Montjuïc,Friday,October,13,Night,0,0,0,2
 1884,Sants-Montjuïc,Thursday,June,29,Afternoon,1,0,1,2
@@ -1929,7 +1858,6 @@
 2009,Les Corts,Saturday,March,18,Afternoon,2,0,2,2
 2010,Les Corts,Monday,October,9,Morning,1,0,1,2
 2011,Les Corts,Monday,November,27,Afternoon,1,0,1,2
-2013,Les Corts,Tuesday,December,26,Morning,1,0,1,2
 2014,Les Corts,Monday,November,6,Afternoon,1,0,1,2
 2015,Les Corts,Saturday,September,16,Night,2,0,2,2
 2016,Les Corts,Saturday,February,11,Afternoon,1,0,1,2
@@ -1943,7 +1871,6 @@
 2024,Sarrià-Sant Gervasi,Tuesday,March,7,Afternoon,3,0,3,6
 2025,Les Corts,Thursday,September,7,Morning,1,0,1,2
 2026,Les Corts,Wednesday,March,29,Morning,1,0,1,2
-2027,Les Corts,Tuesday,February,14,Afternoon,1,0,1,1
 2028,Sarrià-Sant Gervasi,Tuesday,November,7,Afternoon,2,0,2,3
 2029,Les Corts,Thursday,August,24,Morning,1,0,1,2
 2030,Les Corts,Sunday,September,17,Night,1,0,1,2
@@ -1976,7 +1903,6 @@
 2058,Les Corts,Friday,June,9,Afternoon,1,0,1,2
 2059,Les Corts,Saturday,June,10,Afternoon,1,0,1,2
 2060,Les Corts,Thursday,February,23,Morning,0,0,0,2
-2061,Les Corts,Saturday,April,29,Morning,1,0,1,1
 2062,Les Corts,Tuesday,November,14,Morning,2,0,2,3
 2063,Les Corts,Monday,June,26,Afternoon,1,0,1,2
 2064,Sarrià-Sant Gervasi,Wednesday,September,20,Afternoon,1,0,1,2
@@ -2056,13 +1982,11 @@
 2139,Sarrià-Sant Gervasi,Wednesday,September,6,Night,1,0,1,2
 2140,Sarrià-Sant Gervasi,Tuesday,October,24,Afternoon,1,0,1,2
 2141,Sarrià-Sant Gervasi,Friday,November,24,Morning,1,0,1,2
-2142,Sarrià-Sant Gervasi,Saturday,January,7,Morning,2,0,2,2
 2143,Sarrià-Sant Gervasi,Thursday,July,13,Morning,1,0,1,3
 2144,Sarrià-Sant Gervasi,Monday,April,24,Afternoon,1,0,1,2
 2145,Sarrià-Sant Gervasi,Tuesday,June,20,Afternoon,2,0,2,3
 2146,Sarrià-Sant Gervasi,Monday,March,20,Night,1,0,1,2
 2147,Sarrià-Sant Gervasi,Friday,May,26,Afternoon,1,0,1,2
-2148,Sarrià-Sant Gervasi,Sunday,April,23,Afternoon,2,0,2,2
 2150,Sarrià-Sant Gervasi,Wednesday,October,18,Afternoon,3,0,3,3
 2151,Sarrià-Sant Gervasi,Monday,July,17,Night,1,0,1,2
 2152,Sarrià-Sant Gervasi,Sunday,August,20,Afternoon,1,0,1,2
@@ -2123,7 +2047,6 @@
 2207,Gràcia,Wednesday,July,5,Afternoon,1,0,1,2
 2208,Gràcia,Thursday,May,11,Afternoon,1,0,1,2
 2209,Gràcia,Saturday,April,1,Morning,1,0,1,2
-2210,Gràcia,Friday,April,28,Afternoon,1,0,1,2
 2211,Gràcia,Saturday,November,18,Afternoon,1,0,1,2
 2212,Gràcia,Thursday,January,26,Morning,1,0,1,3
 2213,Gràcia,Monday,June,26,Afternoon,1,0,1,2
@@ -2145,7 +2068,6 @@
 2229,Gràcia,Saturday,August,12,Afternoon,1,0,1,1
 2230,Gràcia,Thursday,December,21,Morning,1,0,1,2
 2231,Gràcia,Saturday,December,30,Afternoon,1,0,1,2
-2232,Gràcia,Saturday,January,7,Morning,1,0,1,2
 2233,Gràcia,Friday,March,10,Afternoon,1,0,1,2
 2234,Gràcia,Monday,November,27,Morning,1,0,1,2
 2235,Gràcia,Wednesday,November,8,Morning,1,0,1,3
@@ -2186,13 +2108,11 @@
 2270,Gràcia,Tuesday,January,10,Afternoon,1,0,1,2
 2271,Horta-Guinardó,Sunday,July,16,Night,6,0,6,5
 2272,Horta-Guinardó,Friday,September,1,Afternoon,1,0,1,2
-2273,Horta-Guinardó,Saturday,June,3,Afternoon,0,0,0,2
 2274,Horta-Guinardó,Friday,March,3,Night,1,0,1,2
 2275,Horta-Guinardó,Wednesday,April,12,Night,0,0,0,3
 2276,Horta-Guinardó,Thursday,January,19,Morning,1,0,1,2
 2277,Horta-Guinardó,Friday,August,25,Afternoon,1,0,1,2
 2279,Horta-Guinardó,Tuesday,February,28,Night,0,0,0,1
-2280,Horta-Guinardó,Thursday,October,12,Night,3,0,3,1
 2281,Horta-Guinardó,Wednesday,July,26,Afternoon,3,0,3,2
 2282,Horta-Guinardó,Wednesday,June,28,Morning,1,0,1,1
 2283,Horta-Guinardó,Saturday,December,30,Afternoon,2,0,2,2
@@ -2245,7 +2165,6 @@
 2332,Horta-Guinardó,Friday,January,27,Morning,1,0,1,4
 2333,Horta-Guinardó,Friday,July,14,Afternoon,0,1,1,1
 2334,Horta-Guinardó,Wednesday,July,19,Afternoon,0,0,0,1
-2335,Horta-Guinardó,Wednesday,November,1,Night,1,0,1,2
 2336,Horta-Guinardó,Thursday,November,16,Afternoon,1,0,1,2
 2337,Horta-Guinardó,Wednesday,December,27,Afternoon,1,0,1,2
 2338,Horta-Guinardó,Friday,May,5,Morning,0,0,0,1
@@ -2288,7 +2207,6 @@
 2377,Nou Barris,Monday,January,9,Morning,1,0,1,2
 2378,Nou Barris,Wednesday,March,22,Morning,1,0,1,2
 2379,Nou Barris,Sunday,August,13,Night,0,0,0,1
-2380,Nou Barris,Monday,June,5,Afternoon,0,0,0,1
 2381,Nou Barris,Sunday,November,5,Afternoon,0,0,0,2
 2382,Nou Barris,Sunday,May,28,Morning,1,0,1,1
 2383,Nou Barris,Saturday,October,28,Night,3,0,3,2
@@ -2308,7 +2226,6 @@
 2398,Nou Barris,Monday,August,14,Night,3,0,3,2
 2399,Nou Barris,Tuesday,September,5,Morning,4,0,4,2
 2401,Nou Barris,Monday,July,24,Morning,1,0,1,2
-2402,Nou Barris,Thursday,October,12,Night,1,0,1,2
 2403,Nou Barris,Thursday,August,10,Morning,1,0,1,2
 2404,Nou Barris,Wednesday,November,8,Afternoon,1,0,1,1
 2405,Nou Barris,Friday,March,3,Afternoon,1,0,1,2
@@ -2336,7 +2253,6 @@
 2427,Nou Barris,Friday,May,5,Afternoon,1,0,1,2
 2428,Nou Barris,Tuesday,December,12,Morning,1,0,1,4
 2429,Nou Barris,Tuesday,December,12,Afternoon,1,0,1,2
-2430,Nou Barris,Wednesday,November,1,Afternoon,4,0,4,2
 2431,Nou Barris,Friday,August,18,Night,1,0,1,2
 2432,Nou Barris,Wednesday,February,1,Afternoon,1,0,1,2
 2433,Nou Barris,Sunday,April,9,Afternoon,1,0,1,2
@@ -2344,7 +2260,6 @@
 2435,Nou Barris,Tuesday,December,19,Afternoon,1,0,1,1
 2436,Nou Barris,Saturday,July,22,Afternoon,1,0,1,2
 2437,Nou Barris,Tuesday,June,13,Afternoon,1,0,1,2
-2438,Nou Barris,Thursday,October,12,Night,1,0,1,2
 2439,Nou Barris,Thursday,March,23,Afternoon,1,0,1,1
 2440,Nou Barris,Wednesday,April,12,Afternoon,1,0,1,1
 2441,Nou Barris,Thursday,May,11,Afternoon,1,0,1,2
@@ -2355,7 +2270,6 @@
 2446,Nou Barris,Thursday,March,30,Afternoon,2,0,2,2
 2447,Sant Andreu,Wednesday,August,30,Afternoon,1,0,1,2
 2448,Sant Andreu,Friday,November,3,Morning,2,0,2,2
-2449,Sant Andreu,Sunday,April,30,Morning,1,0,1,1
 2450,Sant Andreu,Tuesday,May,23,Afternoon,2,0,2,2
 2451,Sant Andreu,Thursday,April,27,Afternoon,0,0,0,1
 2452,Sant Andreu,Thursday,June,1,Afternoon,2,0,2,3
@@ -2431,7 +2345,6 @@
 2526,Unknown,Tuesday,October,31,Afternoon,1,0,1,2
 2527,Unknown,Monday,November,13,Afternoon,1,0,1,2
 2528,Unknown,Saturday,May,20,Morning,1,0,1,2
-2529,Unknown,Tuesday,February,14,Afternoon,1,0,1,2
 2530,Sant Martí,Monday,April,24,Afternoon,0,0,0,1
 2531,Sant Martí,Thursday,December,14,Afternoon,1,0,1,2
 2532,Sant Martí,Monday,October,2,Afternoon,1,0,1,2
@@ -2443,11 +2356,9 @@
 2538,Sant Martí,Thursday,March,9,Morning,2,0,2,4
 2539,Sant Martí,Thursday,March,9,Morning,2,0,2,1
 2540,Sant Martí,Tuesday,January,3,Morning,1,0,1,2
-2541,Sant Martí,Friday,June,2,Morning,1,0,1,2
 2542,Sant Martí,Wednesday,August,2,Morning,1,0,1,2
 2543,Sant Martí,Friday,February,10,Afternoon,1,0,1,2
 2544,Sant Martí,Friday,December,22,Afternoon,1,0,1,1
-2545,Sant Martí,Friday,June,2,Afternoon,1,0,1,2
 2546,Sant Martí,Tuesday,July,18,Morning,1,0,1,2
 2547,Sant Martí,Tuesday,October,24,Afternoon,1,0,1,1
 2548,Sant Martí,Saturday,May,27,Night,1,0,1,2
@@ -2461,7 +2372,6 @@
 2556,Sant Martí,Monday,February,6,Afternoon,4,1,5,2
 2557,Sant Martí,Monday,August,14,Afternoon,1,0,1,2
 2558,Sant Martí,Sunday,October,8,Afternoon,1,0,1,1
-2559,Sant Martí,Thursday,October,12,Afternoon,1,0,1,1
 2560,Sant Martí,Wednesday,March,22,Morning,1,0,1,2
 2561,Sant Martí,Thursday,June,8,Morning,0,0,0,2
 2562,Sant Martí,Saturday,August,12,Morning,1,0,1,2
@@ -2488,7 +2398,6 @@
 2586,Sant Martí,Saturday,January,28,Afternoon,1,0,1,2
 2587,Sant Martí,Friday,December,15,Afternoon,1,0,1,2
 2588,Sant Martí,Wednesday,October,11,Afternoon,2,0,2,4
-2589,Sant Martí,Tuesday,February,14,Morning,1,0,1,2
 2590,Sant Martí,Tuesday,October,17,Afternoon,1,0,1,2
 2591,Sant Martí,Saturday,February,4,Afternoon,1,0,1,1
 2592,Sant Martí,Tuesday,September,19,Afternoon,1,0,1,2
@@ -2518,7 +2427,6 @@
 2618,Sant Martí,Monday,November,20,Afternoon,2,0,2,2
 2619,Sant Martí,Sunday,February,19,Night,1,0,1,2
 2620,Sant Martí,Wednesday,January,11,Afternoon,1,0,1,2
-2621,Sant Martí,Tuesday,February,14,Afternoon,1,0,1,2
 2622,Sant Martí,Friday,September,29,Morning,2,0,2,3
 2623,Sant Martí,Sunday,August,20,Afternoon,0,1,1,2
 2624,Sant Martí,Tuesday,July,4,Afternoon,1,0,1,2
@@ -2563,7 +2471,6 @@
 2663,Sant Martí,Tuesday,November,14,Afternoon,4,0,4,2
 2664,Sant Martí,Friday,July,21,Morning,0,0,0,1
 2666,Sant Martí,Monday,July,17,Afternoon,1,0,1,2
-2667,Sant Martí,Friday,April,28,Afternoon,1,0,1,2
 2668,Sant Martí,Tuesday,September,26,Afternoon,3,0,3,2
 2669,Sant Martí,Tuesday,November,28,Morning,1,0,1,2
 2670,Sant Martí,Saturday,May,6,Afternoon,2,0,2,2
@@ -2575,7 +2482,6 @@
 2676,Sant Martí,Friday,November,17,Afternoon,0,1,1,2
 2677,Sant Martí,Wednesday,November,29,Morning,1,0,1,2
 2678,Ciutat Vella,Friday,September,29,Morning,1,0,1,1
-2679,Ciutat Vella,Friday,June,2,Afternoon,2,0,2,3
 2680,Ciutat Vella,Friday,March,3,Afternoon,0,0,0,1
 2681,Ciutat Vella,Friday,March,10,Morning,0,0,0,2
 2682,Ciutat Vella,Wednesday,August,2,Morning,1,0,1,2
@@ -2644,8 +2550,6 @@
 2748,Ciutat Vella,Monday,June,19,Afternoon,1,0,1,2
 2749,Ciutat Vella,Friday,September,1,Night,3,0,3,2
 2750,Ciutat Vella,Tuesday,November,21,Afternoon,1,0,1,2
-2751,Ciutat Vella,Sunday,April,23,Afternoon,0,0,0,3
-2753,Ciutat Vella,Saturday,April,29,Morning,1,0,1,2
 2754,Ciutat Vella,Tuesday,August,1,Afternoon,0,0,0,1
 2755,Eixample,Monday,June,19,Morning,1,0,1,1
 2756,Eixample,Saturday,November,25,Afternoon,1,0,1,3
@@ -2716,7 +2620,6 @@
 2822,Eixample,Friday,July,7,Afternoon,1,0,1,2
 2823,Eixample,Saturday,May,27,Afternoon,1,0,1,1
 2824,Eixample,Monday,April,10,Morning,1,0,1,2
-2825,Eixample,Friday,April,28,Morning,1,0,1,2
 2826,Eixample,Monday,October,2,Night,1,0,1,2
 2827,Eixample,Monday,November,27,Morning,1,0,1,2
 2828,Eixample,Thursday,January,12,Night,0,0,0,1
@@ -2736,10 +2639,8 @@
 2842,Eixample,Tuesday,September,26,Afternoon,1,0,1,2
 2844,Eixample,Wednesday,October,4,Morning,1,0,1,2
 2845,Eixample,Tuesday,June,20,Afternoon,0,0,0,2
-2846,Eixample,Monday,June,5,Afternoon,1,0,1,2
 2847,Eixample,Friday,November,17,Night,1,0,1,2
 2848,Eixample,Friday,August,18,Afternoon,1,0,1,2
-2849,Eixample,Sunday,April,30,Morning,0,0,0,2
 2850,Eixample,Tuesday,June,6,Afternoon,2,0,2,2
 2851,Eixample,Monday,September,18,Morning,1,0,1,2
 2852,Eixample,Thursday,June,29,Afternoon,1,0,1,2
@@ -2763,7 +2664,6 @@
 2872,Eixample,Sunday,July,2,Morning,2,0,2,1
 2873,Eixample,Wednesday,August,9,Afternoon,1,0,1,2
 2874,Eixample,Saturday,June,10,Afternoon,1,0,1,3
-2875,Eixample,Tuesday,February,14,Afternoon,1,0,1,2
 2876,Eixample,Friday,January,20,Afternoon,1,0,1,2
 2878,Eixample,Monday,March,13,Afternoon,1,0,1,2
 2879,Eixample,Friday,January,27,Morning,1,0,1,2
@@ -2771,7 +2671,6 @@
 2881,Eixample,Tuesday,April,25,Night,1,0,1,2
 2882,Eixample,Friday,December,22,Night,1,0,1,2
 2883,Eixample,Wednesday,January,18,Morning,1,0,1,3
-2884,Eixample,Monday,May,1,Night,1,0,1,2
 2885,Eixample,Monday,July,17,Morning,1,0,1,2
 2886,Eixample,Thursday,May,25,Afternoon,2,0,2,1
 2887,Eixample,Sunday,May,21,Night,1,0,1,3
@@ -2804,7 +2703,6 @@
 2917,Eixample,Thursday,November,9,Morning,1,0,1,2
 2918,Eixample,Monday,July,3,Morning,1,0,1,1
 2919,Eixample,Wednesday,December,13,Afternoon,1,0,1,3
-2920,Eixample,Sunday,April,30,Morning,1,0,1,2
 2921,Eixample,Saturday,October,28,Afternoon,0,1,1,2
 2922,Eixample,Saturday,February,11,Night,1,0,1,2
 2923,Eixample,Thursday,March,30,Afternoon,1,0,1,2
@@ -2820,8 +2718,6 @@
 2933,Eixample,Tuesday,January,24,Afternoon,1,0,1,2
 2934,Eixample,Monday,November,20,Afternoon,1,0,1,2
 2935,Eixample,Friday,May,12,Morning,1,0,1,2
-2936,Eixample,Friday,June,2,Morning,1,0,1,2
-2937,Eixample,Monday,June,5,Morning,2,0,2,2
 2938,Eixample,Monday,April,10,Afternoon,1,0,1,2
 2939,Eixample,Wednesday,October,11,Morning,1,0,1,2
 2940,Eixample,Tuesday,January,10,Afternoon,1,0,1,2
@@ -2850,7 +2746,6 @@
 2963,Eixample,Friday,September,29,Afternoon,1,0,1,2
 2964,Eixample,Tuesday,June,6,Morning,1,0,1,2
 2965,Eixample,Monday,April,24,Afternoon,3,0,3,2
-2966,Eixample,Sunday,April,23,Afternoon,2,0,2,2
 2967,Eixample,Friday,November,10,Afternoon,2,0,2,3
 2968,Eixample,Wednesday,November,29,Afternoon,1,0,1,1
 2969,Eixample,Tuesday,March,21,Morning,2,0,2,2
@@ -2867,8 +2762,6 @@
 2980,Eixample,Monday,March,6,Night,1,0,1,2
 2981,Eixample,Tuesday,May,23,Afternoon,1,0,1,2
 2983,Eixample,Monday,January,23,Afternoon,0,0,0,2
-2984,Eixample,Tuesday,February,14,Night,2,0,2,2
-2985,Eixample,Thursday,October,12,Afternoon,2,0,2,3
 2986,Eixample,Tuesday,June,27,Afternoon,1,0,1,2
 2987,Eixample,Tuesday,April,25,Morning,1,0,1,2
 2988,Eixample,Tuesday,December,5,Night,1,0,1,2
@@ -2877,7 +2770,6 @@
 2991,Eixample,Friday,November,17,Afternoon,1,0,1,1
 2992,Eixample,Tuesday,July,18,Afternoon,1,0,1,1
 2993,Eixample,Wednesday,July,5,Afternoon,2,0,2,1
-2994,Eixample,Saturday,April,29,Morning,1,0,1,2
 2996,Eixample,Thursday,March,23,Afternoon,1,0,1,2
 2998,Eixample,Friday,January,27,Afternoon,1,0,1,3
 2999,Eixample,Wednesday,March,29,Afternoon,1,0,1,1
@@ -2910,7 +2802,6 @@
 3026,Eixample,Friday,July,21,Night,3,0,3,2
 3027,Eixample,Sunday,December,17,Afternoon,1,0,1,2
 3028,Eixample,Friday,April,7,Afternoon,2,0,2,1
-3029,Eixample,Thursday,October,12,Afternoon,1,0,1,2
 3030,Eixample,Friday,March,17,Afternoon,1,0,1,2
 3031,Eixample,Thursday,March,2,Afternoon,1,0,1,2
 3032,Eixample,Friday,June,16,Morning,1,0,1,1
@@ -2954,7 +2845,6 @@
 3072,Eixample,Monday,February,20,Afternoon,1,0,1,1
 3073,Eixample,Tuesday,May,16,Afternoon,1,0,1,2
 3074,Eixample,Thursday,May,18,Morning,1,0,1,2
-3075,Eixample,Sunday,June,4,Morning,2,0,2,2
 3076,Eixample,Wednesday,March,1,Afternoon,1,0,1,2
 3077,Eixample,Wednesday,October,11,Morning,1,0,1,1
 3078,Eixample,Wednesday,July,5,Morning,2,0,2,2
@@ -2962,7 +2852,6 @@
 3080,Eixample,Thursday,October,19,Afternoon,1,0,1,2
 3081,Eixample,Friday,November,10,Morning,2,0,2,2
 3082,Eixample,Sunday,November,19,Afternoon,2,0,2,2
-3083,Eixample,Saturday,April,29,Morning,1,0,1,3
 3084,Eixample,Monday,March,20,Afternoon,1,0,1,2
 3085,Eixample,Monday,November,27,Morning,1,0,1,2
 3086,Sants-Montjuïc,Thursday,July,6,Morning,2,0,2,2
@@ -3083,7 +2972,6 @@
 3208,Sants-Montjuïc,Friday,November,3,Afternoon,1,0,1,2
 3209,Sants-Montjuïc,Monday,May,15,Morning,1,0,1,2
 3210,Sants-Montjuïc,Sunday,April,2,Morning,1,0,1,2
-3211,Sants-Montjuïc,Tuesday,August,15,Morning,1,0,1,2
 3212,Sants-Montjuïc,Friday,March,24,Afternoon,1,0,1,2
 3213,Sants-Montjuïc,Saturday,August,12,Afternoon,0,1,1,2
 3214,Sants-Montjuïc,Thursday,April,20,Night,1,0,1,2
@@ -3122,7 +3010,6 @@
 3249,Sants-Montjuïc,Thursday,June,8,Morning,1,0,1,2
 3250,Sants-Montjuïc,Tuesday,May,16,Morning,1,0,1,2
 3251,Sants-Montjuïc,Sunday,October,22,Morning,2,0,2,2
-3252,Sants-Montjuïc,Tuesday,February,14,Morning,1,0,1,2
 3253,Sants-Montjuïc,Wednesday,February,15,Afternoon,1,0,1,2
 3254,Sants-Montjuïc,Tuesday,March,14,Afternoon,1,0,1,2
 3255,Sants-Montjuïc,Monday,December,11,Night,2,0,2,2
@@ -3132,7 +3019,6 @@
 3259,Sants-Montjuïc,Monday,October,2,Night,2,0,2,2
 3260,Sants-Montjuïc,Monday,April,3,Afternoon,1,0,1,2
 3261,Sants-Montjuïc,Sunday,June,18,Afternoon,1,0,1,2
-3262,Sants-Montjuïc,Monday,May,1,Night,1,0,1,1
 3263,Sants-Montjuïc,Friday,November,24,Afternoon,1,0,1,2
 3264,Sants-Montjuïc,Tuesday,July,18,Afternoon,1,0,1,2
 3265,Sants-Montjuïc,Wednesday,May,31,Morning,1,0,1,2
@@ -3143,7 +3029,6 @@
 3270,Les Corts,Friday,February,3,Night,1,0,1,2
 3271,Les Corts,Thursday,June,22,Afternoon,1,0,1,3
 3272,Sants-Montjuïc,Thursday,August,10,Afternoon,1,0,1,2
-3273,Sants-Montjuïc,Monday,June,5,Night,1,0,1,2
 3274,Sants-Montjuïc,Thursday,November,30,Afternoon,1,0,1,2
 3275,Sants-Montjuïc,Wednesday,September,20,Afternoon,1,0,1,1
 3276,Les Corts,Friday,October,20,Morning,1,0,1,2
@@ -3162,7 +3047,6 @@
 3289,Les Corts,Wednesday,October,18,Afternoon,1,0,1,2
 3290,Les Corts,Wednesday,January,4,Afternoon,1,0,1,2
 3291,Les Corts,Saturday,October,21,Afternoon,1,0,1,2
-3292,Les Corts,Tuesday,February,14,Morning,1,0,1,2
 3293,Les Corts,Wednesday,August,2,Afternoon,1,0,1,2
 3294,Les Corts,Tuesday,June,13,Morning,1,0,1,2
 3295,Les Corts,Thursday,April,6,Night,1,0,1,2
@@ -3288,7 +3172,6 @@
 3419,Sarrià-Sant Gervasi,Friday,February,10,Morning,1,0,1,1
 3420,Sarrià-Sant Gervasi,Friday,March,17,Afternoon,1,0,1,2
 3421,Sarrià-Sant Gervasi,Tuesday,July,18,Afternoon,1,0,1,2
-3422,Sarrià-Sant Gervasi,Wednesday,November,1,Morning,1,0,1,2
 3423,Sarrià-Sant Gervasi,Friday,June,16,Morning,1,0,1,2
 3424,Sarrià-Sant Gervasi,Sunday,February,19,Morning,1,0,1,2
 3425,Sarrià-Sant Gervasi,Saturday,November,25,Morning,1,0,1,2
@@ -3341,13 +3224,11 @@
 3473,Sarrià-Sant Gervasi,Saturday,May,13,Afternoon,1,0,1,2
 3474,Sarrià-Sant Gervasi,Saturday,May,13,Afternoon,1,0,1,2
 3475,Sarrià-Sant Gervasi,Monday,September,4,Afternoon,1,0,1,3
-3476,Sarrià-Sant Gervasi,Tuesday,February,14,Afternoon,1,0,1,2
 3477,Sarrià-Sant Gervasi,Wednesday,July,12,Afternoon,1,0,1,1
 3478,Sarrià-Sant Gervasi,Thursday,February,23,Morning,2,0,2,3
 3479,Sarrià-Sant Gervasi,Tuesday,February,21,Afternoon,1,0,1,2
 3480,Sarrià-Sant Gervasi,Saturday,March,11,Afternoon,1,0,1,2
 3481,Sarrià-Sant Gervasi,Saturday,January,28,Morning,2,0,2,3
-3482,Sarrià-Sant Gervasi,Tuesday,February,14,Afternoon,1,0,1,2
 3483,Sarrià-Sant Gervasi,Tuesday,July,18,Morning,0,0,0,1
 3484,Sarrià-Sant Gervasi,Monday,October,30,Afternoon,0,0,0,2
 3485,Sarrià-Sant Gervasi,Saturday,July,8,Afternoon,0,0,0,2
@@ -3366,7 +3247,6 @@
 3501,Gràcia,Saturday,August,26,Afternoon,1,0,1,2
 3502,Gràcia,Sunday,May,14,Night,0,0,0,1
 3503,Gràcia,Wednesday,December,20,Morning,1,0,1,2
-3504,Gràcia,Tuesday,December,26,Morning,1,0,1,2
 3505,Sarrià-Sant Gervasi,Sunday,November,5,Afternoon,2,0,2,1
 3506,Gràcia,Thursday,August,17,Afternoon,1,0,1,2
 3507,Gràcia,Tuesday,June,6,Afternoon,1,0,1,1
@@ -3381,7 +3261,6 @@
 3517,Gràcia,Wednesday,August,23,Afternoon,1,0,1,2
 3518,Gràcia,Wednesday,June,28,Afternoon,1,0,1,2
 3519,Gràcia,Thursday,March,16,Afternoon,1,0,1,3
-3520,Gràcia,Saturday,April,29,Afternoon,1,0,1,2
 3521,Gràcia,Thursday,September,21,Morning,4,0,4,4
 3522,Gràcia,Monday,July,10,Afternoon,2,0,2,3
 3523,Gràcia,Tuesday,July,18,Afternoon,1,0,1,2
@@ -3414,15 +3293,12 @@
 3550,Gràcia,Tuesday,February,21,Morning,1,0,1,2
 3551,Gràcia,Wednesday,November,8,Afternoon,0,0,0,2
 3552,Gràcia,Saturday,July,15,Morning,1,0,1,1
-3553,Horta-Guinardó,Tuesday,February,14,Afternoon,1,0,1,2
 3554,Gràcia,Tuesday,December,5,Afternoon,1,0,1,3
 3555,Horta-Guinardó,Saturday,April,22,Afternoon,2,0,2,1
 3556,Horta-Guinardó,Monday,January,16,Afternoon,1,0,1,3
 3557,Gràcia,Tuesday,June,20,Morning,1,0,1,1
-3558,Gràcia,Tuesday,August,15,Night,2,0,2,2
 3559,Gràcia,Monday,December,18,Afternoon,1,0,1,1
 3560,Gràcia,Monday,June,12,Morning,3,0,3,3
-3561,Gràcia,Friday,June,2,Afternoon,2,0,2,2
 3562,Gràcia,Friday,June,16,Afternoon,1,0,1,2
 3563,Gràcia,Friday,December,15,Afternoon,1,0,1,2
 3564,Gràcia,Friday,November,10,Afternoon,1,0,1,2
@@ -3449,7 +3325,6 @@
 3585,Horta-Guinardó,Tuesday,June,6,Afternoon,1,0,1,2
 3586,Horta-Guinardó,Wednesday,February,22,Morning,2,0,2,1
 3587,Horta-Guinardó,Saturday,November,4,Morning,2,0,2,2
-3588,Horta-Guinardó,Friday,June,2,Night,1,0,1,2
 3589,Horta-Guinardó,Thursday,March,23,Afternoon,1,0,1,2
 3590,Horta-Guinardó,Wednesday,March,22,Morning,1,0,1,2
 3591,Horta-Guinardó,Tuesday,May,16,Afternoon,1,0,1,2
@@ -3457,8 +3332,6 @@
 3593,Horta-Guinardó,Thursday,November,9,Afternoon,1,0,1,1
 3594,Horta-Guinardó,Tuesday,November,28,Afternoon,1,0,1,2
 3595,Horta-Guinardó,Saturday,October,21,Afternoon,1,0,1,2
-3596,Horta-Guinardó,Sunday,June,4,Morning,2,0,2,2
-3597,Horta-Guinardó,Friday,April,28,Morning,1,0,1,2
 3598,Horta-Guinardó,Sunday,May,14,Afternoon,1,0,1,2
 3599,Horta-Guinardó,Monday,December,18,Morning,0,0,0,2
 3600,Horta-Guinardó,Thursday,February,9,Afternoon,1,0,1,4
@@ -3507,7 +3380,6 @@
 3645,Horta-Guinardó,Friday,January,20,Morning,1,0,1,2
 3646,Horta-Guinardó,Friday,May,26,Morning,1,0,1,1
 3647,Horta-Guinardó,Thursday,August,10,Afternoon,1,0,1,2
-3648,Horta-Guinardó,Tuesday,December,26,Afternoon,1,0,1,2
 3649,Horta-Guinardó,Tuesday,February,28,Afternoon,1,0,1,3
 3650,Horta-Guinardó,Sunday,November,12,Morning,0,0,0,2
 3651,Horta-Guinardó,Saturday,November,18,Afternoon,0,1,1,3
@@ -3563,7 +3435,6 @@
 3702,Nou Barris,Monday,March,27,Afternoon,1,0,1,1
 3703,Nou Barris,Wednesday,February,1,Afternoon,2,0,2,2
 3704,Nou Barris,Monday,August,14,Afternoon,0,0,0,1
-3705,Nou Barris,Sunday,April,30,Morning,1,0,1,2
 3706,Nou Barris,Sunday,June,18,Afternoon,1,0,1,2
 3707,Nou Barris,Sunday,August,6,Morning,1,0,1,1
 3708,Nou Barris,Thursday,June,15,Morning,1,0,1,2
@@ -3579,7 +3450,6 @@
 3718,Nou Barris,Thursday,February,23,Morning,1,0,1,2
 3719,Nou Barris,Monday,December,4,Afternoon,1,0,1,2
 3720,Nou Barris,Friday,November,17,Afternoon,1,0,1,1
-3721,Nou Barris,Saturday,April,29,Night,0,0,0,11
 3723,Nou Barris,Friday,February,24,Afternoon,1,0,1,2
 3724,Nou Barris,Thursday,April,20,Morning,1,0,1,1
 3725,Nou Barris,Sunday,May,28,Morning,1,0,1,1
@@ -3587,7 +3457,6 @@
 3727,Nou Barris,Wednesday,September,20,Morning,1,0,1,2
 3728,Nou Barris,Wednesday,November,15,Morning,1,0,1,2
 3729,Nou Barris,Wednesday,November,15,Afternoon,1,0,1,2
-3730,Nou Barris,Friday,June,2,Morning,1,0,1,1
 3731,Nou Barris,Tuesday,August,8,Morning,3,0,3,2
 3732,Nou Barris,Monday,May,22,Morning,0,1,1,2
 3733,Sant Andreu,Sunday,July,9,Afternoon,0,0,0,1
@@ -3608,7 +3477,6 @@
 3748,Sant Andreu,Wednesday,April,5,Morning,1,0,1,1
 3749,Sant Andreu,Tuesday,November,14,Afternoon,1,0,1,2
 3750,Sant Andreu,Saturday,November,4,Afternoon,2,0,2,2
-3751,Sant Andreu,Sunday,April,30,Afternoon,0,0,0,1
 3752,Sant Andreu,Saturday,October,21,Morning,1,0,1,2
 3753,Sant Andreu,Friday,June,30,Afternoon,0,0,0,2
 3754,Sant Andreu,Monday,August,14,Morning,1,0,1,2
@@ -3628,7 +3496,6 @@
 3769,Sant Andreu,Thursday,March,23,Afternoon,1,0,1,2
 3770,Sant Andreu,Tuesday,September,5,Afternoon,1,0,1,1
 3771,Sant Andreu,Wednesday,April,12,Morning,2,0,2,3
-3772,Sant Andreu,Monday,June,5,Morning,0,0,0,1
 3773,Sant Andreu,Tuesday,October,10,Morning,2,0,2,2
 3774,Sant Andreu,Thursday,April,27,Morning,2,0,2,4
 3775,Sant Andreu,Thursday,May,11,Morning,1,0,1,2
@@ -3673,7 +3540,6 @@
 3820,Sant Martí,Wednesday,October,11,Morning,1,0,1,2
 3821,Sant Martí,Saturday,September,2,Afternoon,2,0,2,1
 3822,Sant Martí,Friday,September,29,Afternoon,1,0,1,3
-3823,Sant Martí,Friday,June,2,Morning,1,0,1,2
 3824,Sant Martí,Saturday,July,29,Afternoon,1,0,1,2
 3825,Sant Martí,Friday,May,5,Morning,1,0,1,1
 3826,Sant Martí,Monday,November,13,Afternoon,1,0,1,3
@@ -3681,7 +3547,6 @@
 3828,Sant Martí,Sunday,August,13,Afternoon,1,0,1,3
 3829,Sant Martí,Thursday,February,23,Afternoon,1,0,1,2
 3831,Sant Martí,Thursday,February,23,Morning,2,0,2,3
-3832,Sant Martí,Tuesday,December,26,Morning,1,0,1,1
 3833,Sant Martí,Saturday,May,13,Morning,1,0,1,2
 3834,Sant Martí,Thursday,April,6,Morning,1,0,1,2
 3835,Sant Martí,Sunday,July,9,Night,0,1,1,2
@@ -3705,7 +3570,6 @@
 3853,Sant Martí,Tuesday,May,9,Afternoon,1,0,1,2
 3854,Sant Martí,Tuesday,June,6,Afternoon,1,0,1,1
 3855,Sant Martí,Sunday,June,18,Night,3,0,3,2
-3856,Sant Martí,Saturday,January,7,Morning,1,0,1,1
 3857,Sant Martí,Monday,January,23,Morning,1,0,1,2
 3858,Sant Martí,Tuesday,June,20,Morning,2,0,2,4
 3859,Sant Martí,Friday,November,10,Morning,1,0,1,2
@@ -3756,7 +3620,6 @@
 3905,Sant Martí,Wednesday,August,2,Afternoon,1,0,1,2
 3906,Sant Martí,Saturday,March,25,Afternoon,2,0,2,2
 3907,Sant Martí,Wednesday,February,22,Morning,1,0,1,2
-3908,Sant Martí,Sunday,April,23,Afternoon,0,2,2,2
 3909,Sant Martí,Tuesday,September,12,Afternoon,3,0,3,4
 3910,Sant Martí,Friday,December,1,Morning,2,0,2,2
 3911,Sant Martí,Monday,July,24,Morning,1,0,1,2
@@ -3781,7 +3644,6 @@
 3931,Sant Martí,Tuesday,January,17,Morning,0,0,0,1
 3932,Sant Martí,Wednesday,July,26,Afternoon,2,0,2,2
 3933,Sant Martí,Thursday,September,7,Afternoon,4,0,4,2
-3934,Sant Martí,Friday,January,6,Afternoon,0,0,0,3
 3935,Sant Martí,Tuesday,April,25,Afternoon,1,0,1,1
 3936,Sant Martí,Tuesday,January,31,Morning,1,0,1,1
 3937,Sant Martí,Sunday,November,12,Morning,1,0,1,2
@@ -3804,7 +3666,6 @@
 3955,Sant Martí,Friday,November,24,Morning,4,0,4,2
 3956,Sant Martí,Wednesday,November,22,Morning,2,0,2,4
 3957,Sant Martí,Wednesday,November,15,Afternoon,1,0,1,3
-3958,Sant Martí,Tuesday,August,15,Night,0,0,0,1
 3959,Sant Martí,Saturday,March,25,Night,0,0,0,2
 3960,Sant Martí,Tuesday,February,21,Afternoon,2,0,2,2
 3961,Sant Martí,Wednesday,February,8,Afternoon,1,0,1,2
@@ -3829,7 +3690,6 @@
 3980,Sant Martí,Wednesday,November,22,Afternoon,0,0,0,2
 3981,Sant Martí,Tuesday,December,12,Night,1,0,1,2
 3982,Sant Martí,Friday,December,1,Afternoon,1,0,1,2
-3983,Sant Martí,Friday,January,6,Night,2,0,2,7
 3984,Sant Martí,Saturday,February,4,Afternoon,1,0,1,2
 3985,Sant Martí,Thursday,November,16,Afternoon,3,0,3,1
 3986,Ciutat Vella,Friday,April,7,Morning,1,0,1,1
@@ -3850,7 +3710,6 @@
 4001,Ciutat Vella,Sunday,May,21,Afternoon,0,1,1,2
 4002,Ciutat Vella,Friday,June,30,Afternoon,1,0,1,2
 4003,Ciutat Vella,Sunday,June,11,Afternoon,1,0,1,2
-4004,Ciutat Vella,Sunday,April,23,Afternoon,1,0,1,2
 4005,Ciutat Vella,Tuesday,June,27,Morning,4,0,4,4
 4006,Ciutat Vella,Sunday,October,15,Afternoon,0,1,1,1
 4007,Ciutat Vella,Saturday,June,10,Afternoon,1,0,1,1
@@ -3865,7 +3724,6 @@
 4017,Ciutat Vella,Friday,November,17,Afternoon,1,0,1,2
 4018,Ciutat Vella,Thursday,June,29,Afternoon,2,0,2,2
 4019,Ciutat Vella,Monday,June,19,Night,1,0,1,2
-4020,Ciutat Vella,Saturday,June,3,Afternoon,1,0,1,2
 4021,Ciutat Vella,Friday,June,9,Afternoon,1,0,1,1
 4022,Ciutat Vella,Monday,February,27,Afternoon,3,0,3,2
 4023,Ciutat Vella,Monday,August,7,Afternoon,3,0,3,4
@@ -3889,7 +3747,6 @@
 4044,Ciutat Vella,Wednesday,May,24,Afternoon,1,0,1,3
 4045,Ciutat Vella,Monday,December,18,Morning,2,0,2,4
 4046,Ciutat Vella,Sunday,October,29,Morning,1,0,1,2
-4048,Eixample,Tuesday,August,15,Afternoon,1,0,1,2
 4049,Eixample,Friday,December,29,Morning,2,0,2,2
 4050,Eixample,Wednesday,August,9,Night,1,0,1,2
 4051,Eixample,Monday,December,11,Morning,1,0,1,2
@@ -3901,7 +3758,6 @@
 4057,Ciutat Vella,Saturday,November,11,Morning,0,0,0,1
 4058,Eixample,Thursday,May,4,Morning,1,0,1,2
 4059,Eixample,Thursday,December,14,Afternoon,2,0,2,1
-4060,Eixample,Tuesday,February,14,Afternoon,1,0,1,1
 4061,Eixample,Wednesday,February,15,Morning,1,0,1,2
 4062,Eixample,Sunday,January,29,Afternoon,2,0,2,2
 4063,Ciutat Vella,Thursday,October,5,Morning,0,0,0,1
@@ -3926,7 +3782,6 @@
 4082,Eixample,Monday,February,20,Morning,1,0,1,3
 4083,Eixample,Tuesday,July,4,Afternoon,1,0,1,2
 4084,Eixample,Saturday,December,16,Night,1,0,1,2
-4085,Eixample,Saturday,April,29,Afternoon,2,0,2,3
 4086,Eixample,Friday,July,21,Morning,2,0,2,1
 4087,Eixample,Tuesday,September,26,Morning,1,0,1,1
 4088,Eixample,Thursday,August,24,Morning,1,0,1,2
@@ -3940,10 +3795,8 @@
 4096,Eixample,Wednesday,December,20,Afternoon,1,0,1,2
 4097,Eixample,Thursday,September,7,Morning,1,0,1,2
 4098,Eixample,Wednesday,April,19,Afternoon,2,0,2,1
-4099,Eixample,Friday,January,6,Afternoon,1,0,1,2
 4100,Eixample,Friday,November,10,Afternoon,1,0,1,2
 4101,Eixample,Saturday,February,25,Night,0,0,0,2
-4102,Eixample,Sunday,April,30,Morning,1,0,1,3
 4104,Eixample,Tuesday,November,14,Afternoon,1,0,1,2
 4105,Eixample,Sunday,May,14,Afternoon,1,0,1,1
 4106,Eixample,Wednesday,June,28,Morning,1,0,1,1
@@ -4028,7 +3881,6 @@
 4188,Eixample,Tuesday,October,17,Morning,1,0,1,2
 4189,Eixample,Thursday,April,27,Afternoon,1,0,1,2
 4190,Eixample,Friday,March,3,Morning,2,0,2,2
-4191,Eixample,Friday,June,2,Morning,1,0,1,2
 4192,Eixample,Wednesday,September,20,Afternoon,1,0,1,2
 4193,Eixample,Wednesday,December,13,Afternoon,1,0,1,1
 4194,Eixample,Wednesday,September,20,Afternoon,2,0,2,2
@@ -4051,14 +3903,12 @@
 4211,Eixample,Friday,March,17,Morning,1,0,1,2
 4212,Eixample,Friday,January,20,Morning,1,0,1,2
 4213,Eixample,Friday,February,17,Morning,1,0,1,2
-4214,Eixample,Tuesday,February,14,Afternoon,1,0,1,2
 4215,Eixample,Monday,December,4,Morning,2,0,2,2
 4216,Eixample,Wednesday,June,7,Night,1,0,1,2
 4217,Eixample,Friday,December,29,Afternoon,1,0,1,2
 4218,Eixample,Tuesday,May,23,Afternoon,2,0,2,3
 4219,Eixample,Monday,February,6,Afternoon,1,0,1,2
 4220,Eixample,Wednesday,November,22,Morning,1,0,1,2
-4221,Eixample,Sunday,June,4,Morning,0,1,1,3
 4222,Eixample,Tuesday,September,12,Morning,1,0,1,2
 4223,Eixample,Sunday,January,29,Afternoon,1,0,1,2
 4224,Eixample,Friday,June,16,Night,3,0,3,2
@@ -4109,7 +3959,6 @@
 4271,Eixample,Monday,July,17,Afternoon,1,0,1,2
 4272,Eixample,Tuesday,April,25,Afternoon,1,0,1,2
 4273,Eixample,Thursday,November,9,Afternoon,1,0,1,1
-4274,Eixample,Saturday,April,29,Night,1,0,1,2
 4275,Eixample,Thursday,October,19,Afternoon,1,0,1,2
 4276,Eixample,Wednesday,May,10,Afternoon,3,0,3,2
 4277,Eixample,Friday,November,17,Afternoon,1,0,1,2
@@ -4159,7 +4008,6 @@
 4321,Eixample,Friday,February,24,Afternoon,1,0,1,2
 4322,Eixample,Saturday,August,12,Night,1,0,1,2
 4323,Eixample,Tuesday,April,11,Afternoon,2,0,2,2
-4324,Eixample,Sunday,April,23,Morning,0,0,0,1
 4325,Eixample,Thursday,November,23,Afternoon,6,0,6,2
 4326,Eixample,Friday,October,6,Morning,1,0,1,1
 4327,Eixample,Wednesday,August,23,Afternoon,1,0,1,1
@@ -4189,7 +4037,6 @@
 4351,Eixample,Sunday,March,5,Night,1,0,1,2
 4352,Eixample,Friday,March,24,Afternoon,1,0,1,2
 4353,Eixample,Thursday,April,6,Afternoon,1,0,1,2
-4354,Eixample,Tuesday,August,15,Afternoon,0,0,0,1
 4355,Eixample,Thursday,July,20,Night,2,0,2,2
 4356,Eixample,Thursday,April,27,Afternoon,0,1,1,2
 4357,Eixample,Monday,December,18,Afternoon,1,0,1,2
@@ -4254,10 +4101,8 @@
 4419,Eixample,Friday,June,9,Afternoon,0,0,0,1
 4420,Eixample,Thursday,May,18,Afternoon,2,0,2,2
 4421,Eixample,Friday,December,1,Morning,1,0,1,2
-4422,Eixample,Monday,May,1,Afternoon,1,0,1,2
 4423,Eixample,Thursday,May,18,Afternoon,1,0,1,2
 4424,Eixample,Saturday,July,1,Morning,3,0,3,2
-4425,Eixample,Friday,April,28,Afternoon,1,0,1,2
 4426,Eixample,Tuesday,July,25,Morning,1,0,1,1
 4427,Eixample,Thursday,November,30,Night,1,0,1,3
 4428,Eixample,Friday,December,15,Morning,1,0,1,2
@@ -4270,7 +4115,6 @@
 4435,Eixample,Saturday,January,28,Morning,1,0,1,2
 4436,Sants-Montjuïc,Wednesday,January,4,Afternoon,1,0,1,1
 4437,Sants-Montjuïc,Tuesday,March,21,Morning,1,0,1,2
-4438,Sants-Montjuïc,Sunday,April,30,Morning,2,0,2,1
 4439,Sants-Montjuïc,Wednesday,October,11,Morning,1,0,1,2
 4440,Sants-Montjuïc,Monday,January,23,Morning,2,0,2,4
 4441,Sants-Montjuïc,Saturday,March,11,Afternoon,1,0,1,2
@@ -4327,7 +4171,6 @@
 4493,Sants-Montjuïc,Thursday,August,3,Night,2,0,2,2
 4494,Sants-Montjuïc,Monday,September,4,Afternoon,1,0,1,2
 4495,Sants-Montjuïc,Monday,October,30,Morning,1,0,1,2
-4497,Sants-Montjuïc,Friday,June,2,Afternoon,1,0,1,2
 4498,Sants-Montjuïc,Monday,July,3,Afternoon,1,0,1,2
 4499,Sants-Montjuïc,Thursday,September,28,Afternoon,0,1,1,2
 4500,Sants-Montjuïc,Wednesday,March,15,Afternoon,1,0,1,6
@@ -4342,7 +4185,6 @@
 4510,Sants-Montjuïc,Wednesday,May,24,Afternoon,1,0,1,2
 4511,Sants-Montjuïc,Tuesday,November,28,Morning,3,0,3,2
 4512,Sants-Montjuïc,Monday,December,18,Night,1,0,1,2
-4513,Sants-Montjuïc,Monday,May,1,Night,0,0,0,3
 4514,Sants-Montjuïc,Saturday,October,28,Afternoon,2,0,2,2
 4515,Sants-Montjuïc,Sunday,June,25,Afternoon,7,0,7,2
 4516,Sants-Montjuïc,Sunday,March,19,Night,5,0,5,1
@@ -4357,7 +4199,6 @@
 4526,Sants-Montjuïc,Tuesday,March,7,Morning,2,0,2,3
 4527,Sants-Montjuïc,Tuesday,April,11,Afternoon,0,0,0,2
 4528,Sants-Montjuïc,Wednesday,December,27,Morning,1,0,1,2
-4529,Sants-Montjuïc,Friday,June,2,Night,1,0,1,1
 4530,Sants-Montjuïc,Wednesday,December,13,Afternoon,2,0,2,2
 4531,Sants-Montjuïc,Saturday,December,2,Morning,1,0,1,1
 4532,Sants-Montjuïc,Sunday,June,25,Afternoon,1,0,1,1
@@ -4450,7 +4291,6 @@
 4624,Les Corts,Wednesday,February,22,Afternoon,1,0,1,1
 4625,Les Corts,Thursday,May,4,Morning,1,0,1,2
 4626,Les Corts,Friday,March,10,Afternoon,1,0,1,1
-4627,Les Corts,Friday,April,28,Morning,1,0,1,2
 4628,Les Corts,Thursday,February,2,Morning,1,0,1,3
 4629,Les Corts,Wednesday,February,8,Morning,1,0,1,3
 4630,Les Corts,Tuesday,January,24,Morning,1,0,1,2
@@ -4459,7 +4299,6 @@
 4633,Les Corts,Saturday,July,29,Afternoon,1,0,1,1
 4634,Les Corts,Friday,November,24,Afternoon,1,0,1,2
 4635,Les Corts,Tuesday,August,22,Morning,1,0,1,1
-4636,Les Corts,Monday,June,5,Afternoon,4,0,4,2
 4637,Les Corts,Friday,November,17,Afternoon,1,1,2,3
 4638,Les Corts,Friday,February,10,Afternoon,3,0,3,2
 4640,Les Corts,Thursday,January,12,Morning,0,0,0,2
@@ -4562,7 +4401,6 @@
 4740,Sarrià-Sant Gervasi,Friday,May,5,Afternoon,3,0,3,2
 4741,Sarrià-Sant Gervasi,Friday,July,14,Morning,0,0,0,1
 4742,Sarrià-Sant Gervasi,Friday,October,13,Morning,1,0,1,2
-4743,Sarrià-Sant Gervasi,Tuesday,December,26,Night,1,0,1,1
 4744,Sarrià-Sant Gervasi,Friday,December,22,Afternoon,1,0,1,2
 4745,Sarrià-Sant Gervasi,Friday,March,3,Afternoon,1,0,1,1
 4746,Sarrià-Sant Gervasi,Wednesday,January,11,Afternoon,1,0,1,2
@@ -4677,12 +4515,10 @@
 4858,Horta-Guinardó,Wednesday,February,1,Afternoon,1,0,1,2
 4859,Horta-Guinardó,Tuesday,April,25,Morning,0,2,2,2
 4860,Horta-Guinardó,Wednesday,October,25,Afternoon,1,0,1,2
-4861,Horta-Guinardó,Sunday,June,4,Afternoon,0,0,0,2
 4862,Horta-Guinardó,Friday,February,10,Morning,1,0,1,2
 4863,Horta-Guinardó,Monday,October,9,Afternoon,1,0,1,1
 4864,Horta-Guinardó,Sunday,May,7,Afternoon,1,0,1,2
 4865,Horta-Guinardó,Thursday,June,15,Night,1,0,1,3
-4866,Horta-Guinardó,Saturday,April,29,Night,0,0,0,1
 4867,Horta-Guinardó,Saturday,May,6,Morning,1,0,1,2
 4868,Horta-Guinardó,Friday,October,27,Morning,1,0,1,1
 4869,Horta-Guinardó,Monday,May,29,Morning,1,0,1,2
@@ -4761,13 +4597,11 @@
 4944,Nou Barris,Tuesday,October,24,Afternoon,1,0,1,2
 4945,Nou Barris,Friday,November,17,Morning,1,0,1,3
 4946,Nou Barris,Tuesday,January,17,Afternoon,2,0,2,2
-4947,Nou Barris,Friday,June,2,Afternoon,1,0,1,2
 4949,Nou Barris,Tuesday,May,9,Morning,1,0,1,1
 4950,Nou Barris,Wednesday,January,25,Afternoon,0,0,0,3
 4951,Nou Barris,Monday,March,20,Afternoon,2,0,2,2
 4952,Nou Barris,Saturday,October,21,Night,1,0,1,2
 4953,Nou Barris,Sunday,March,12,Afternoon,1,0,1,1
-4954,Nou Barris,Monday,May,1,Night,2,0,2,2
 4955,Nou Barris,Saturday,July,15,Afternoon,1,0,1,1
 4956,Nou Barris,Monday,March,20,Afternoon,1,0,1,2
 4957,Nou Barris,Tuesday,June,20,Morning,1,0,1,2
@@ -4788,7 +4622,6 @@
 4972,Nou Barris,Friday,March,24,Afternoon,1,0,1,1
 4973,Nou Barris,Saturday,November,18,Afternoon,1,0,1,2
 4974,Nou Barris,Tuesday,September,12,Afternoon,1,0,1,2
-4975,Nou Barris,Friday,June,2,Night,1,0,1,2
 4976,Nou Barris,Wednesday,October,4,Afternoon,0,0,0,2
 4977,Nou Barris,Tuesday,October,10,Afternoon,1,0,1,2
 4979,Nou Barris,Wednesday,April,5,Morning,1,0,1,2
@@ -4803,11 +4636,9 @@
 4988,Nou Barris,Thursday,January,26,Morning,1,0,1,2
 4989,Nou Barris,Monday,April,3,Morning,1,0,1,1
 4990,Nou Barris,Wednesday,February,15,Afternoon,1,0,1,2
-4991,Nou Barris,Monday,June,5,Afternoon,1,0,1,1
 4994,Nou Barris,Saturday,October,21,Afternoon,0,0,0,2
 4995,Nou Barris,Tuesday,May,9,Afternoon,1,0,1,1
 4996,Nou Barris,Thursday,December,14,Morning,1,0,1,1
-4997,Nou Barris,Monday,June,5,Afternoon,0,1,1,1
 4998,Sant Andreu,Monday,May,15,Morning,1,0,1,2
 4999,Sant Andreu,Friday,July,21,Afternoon,1,0,1,1
 5000,Sant Andreu,Wednesday,June,28,Afternoon,2,0,2,1
@@ -4839,16 +4670,12 @@
 5026,Sant Andreu,Thursday,September,7,Afternoon,0,1,1,2
 5027,Sant Andreu,Wednesday,April,19,Afternoon,1,0,1,2
 5028,Sant Andreu,Sunday,June,25,Night,1,0,1,3
-5029,Sant Andreu,Friday,April,28,Morning,1,0,1,2
 5030,Sant Andreu,Saturday,March,25,Morning,3,0,3,2
 5031,Sant Andreu,Monday,August,7,Morning,1,0,1,2
 5032,Sant Andreu,Tuesday,September,12,Afternoon,1,0,1,2
 5033,Sant Andreu,Saturday,November,11,Night,1,0,1,2
-5034,Sant Andreu,Saturday,April,29,Afternoon,2,0,2,2
 5035,Sant Andreu,Monday,July,10,Afternoon,1,0,1,2
-5036,Sant Andreu,Thursday,October,12,Night,2,0,2,2
 5037,Sant Andreu,Friday,August,18,Night,5,0,5,4
-5038,Sant Andreu,Friday,April,28,Morning,1,0,1,2
 5039,Sant Andreu,Thursday,May,25,Night,0,0,0,1
 5040,Sant Andreu,Thursday,October,26,Afternoon,0,0,0,2
 5041,Sant Andreu,Friday,April,7,Afternoon,1,0,1,2
@@ -4876,7 +4703,6 @@
 5065,Sant Andreu,Monday,July,3,Morning,1,0,1,2
 5066,Sant Andreu,Sunday,August,13,Afternoon,1,0,1,1
 5067,Sant Andreu,Friday,December,15,Afternoon,1,0,1,2
-5068,Unknown,Friday,June,2,Morning,1,0,1,1
 5069,Unknown,Friday,June,9,Afternoon,1,0,1,1
 5070,Unknown,Sunday,June,11,Afternoon,1,0,1,2
 5071,Unknown,Tuesday,January,17,Afternoon,1,0,1,4
@@ -4919,7 +4745,6 @@
 5110,Sant Martí,Sunday,November,19,Afternoon,2,0,2,2
 5111,Sant Martí,Wednesday,March,1,Afternoon,1,0,1,2
 5112,Sant Martí,Saturday,October,7,Night,1,0,1,1
-5113,Sant Martí,Friday,April,28,Afternoon,0,0,0,1
 5114,Sant Martí,Monday,May,8,Morning,1,0,1,2
 5115,Sant Martí,Monday,May,29,Morning,4,0,4,2
 5116,Sant Martí,Friday,July,14,Night,1,0,1,1
@@ -4998,7 +4823,6 @@
 5191,Sant Martí,Friday,March,17,Afternoon,2,0,2,2
 5192,Sant Martí,Tuesday,July,11,Afternoon,1,0,1,2
 5193,Sant Martí,Saturday,August,12,Morning,1,0,1,2
-5194,Sant Martí,Tuesday,February,14,Afternoon,1,0,1,2
 5195,Sant Martí,Monday,January,16,Morning,1,0,1,2
 5196,Sant Martí,Thursday,May,4,Afternoon,1,0,1,2
 5197,Sant Martí,Tuesday,December,12,Morning,2,0,2,1
@@ -5015,7 +4839,6 @@
 5209,Sant Martí,Thursday,November,30,Afternoon,1,0,1,2
 5210,Sant Martí,Thursday,July,6,Morning,1,0,1,2
 5211,Sant Martí,Wednesday,August,2,Afternoon,1,0,1,1
-5212,Sant Martí,Monday,May,1,Night,0,0,0,2
 5213,Sant Martí,Wednesday,December,27,Afternoon,1,0,1,2
 5214,Sant Martí,Saturday,August,5,Afternoon,1,0,1,2
 5215,Sant Martí,Wednesday,June,28,Night,1,0,1,2
@@ -5031,7 +4854,6 @@
 5225,Sant Martí,Thursday,August,24,Afternoon,0,0,0,1
 5226,Sant Martí,Monday,February,20,Afternoon,0,0,0,1
 5227,Sant Martí,Tuesday,February,21,Afternoon,0,0,0,1
-5228,Sant Martí,Sunday,April,30,Morning,0,0,0,2
 5229,Sant Martí,Friday,May,26,Afternoon,0,1,1,2
 5230,Sant Martí,Thursday,June,8,Afternoon,1,0,1,2
 5231,Sant Martí,Thursday,November,2,Afternoon,1,0,1,2
@@ -5103,7 +4925,6 @@
 5301,Ciutat Vella,Wednesday,April,26,Afternoon,0,0,0,3
 5303,Ciutat Vella,Thursday,January,26,Afternoon,2,0,2,2
 5304,Ciutat Vella,Sunday,August,13,Afternoon,1,0,1,2
-5305,Ciutat Vella,Friday,January,6,Night,1,0,1,2
 5306,Ciutat Vella,Tuesday,April,4,Afternoon,1,0,1,1
 5307,Ciutat Vella,Sunday,September,17,Morning,1,0,1,2
 5308,Ciutat Vella,Sunday,August,27,Afternoon,3,0,3,3
@@ -5115,7 +4936,6 @@
 5314,Ciutat Vella,Thursday,July,20,Morning,1,0,1,2
 5315,Ciutat Vella,Saturday,January,14,Afternoon,1,0,1,2
 5316,Ciutat Vella,Monday,December,18,Morning,1,0,1,2
-5317,Ciutat Vella,Sunday,June,4,Morning,0,0,0,2
 5318,Ciutat Vella,Thursday,April,6,Afternoon,2,0,2,1
 5319,Ciutat Vella,Thursday,September,28,Night,1,0,1,2
 5320,Ciutat Vella,Monday,November,6,Morning,0,1,1,2
@@ -5175,7 +4995,6 @@
 5377,Eixample,Monday,March,20,Morning,1,0,1,3
 5378,Eixample,Saturday,March,11,Afternoon,1,0,1,2
 5379,Eixample,Friday,April,7,Afternoon,1,0,1,2
-5380,Eixample,Tuesday,February,14,Morning,1,0,1,1
 5381,Eixample,Wednesday,July,12,Afternoon,1,0,1,2
 5382,Eixample,Monday,December,18,Morning,1,0,1,2
 5383,Eixample,Friday,January,27,Afternoon,1,0,1,2
@@ -5196,7 +5015,6 @@
 5399,Eixample,Tuesday,April,18,Morning,2,0,2,2
 5400,Eixample,Friday,October,6,Afternoon,1,0,1,1
 5401,Eixample,Thursday,February,23,Morning,1,0,1,2
-5402,Eixample,Friday,April,28,Morning,1,0,1,2
 5403,Eixample,Saturday,November,4,Night,3,0,3,2
 5404,Eixample,Monday,December,11,Morning,1,0,1,2
 5405,Eixample,Thursday,May,11,Afternoon,1,0,1,1
@@ -5235,7 +5053,6 @@
 5438,Eixample,Wednesday,March,29,Afternoon,1,0,1,2
 5439,Eixample,Tuesday,October,31,Morning,2,0,2,2
 5440,Eixample,Wednesday,October,18,Morning,1,0,1,2
-5441,Eixample,Sunday,June,4,Night,1,0,1,3
 5442,Eixample,Friday,August,25,Afternoon,1,0,1,2
 5443,Eixample,Monday,July,31,Afternoon,2,0,2,2
 5444,Eixample,Thursday,September,7,Morning,1,0,1,2
@@ -5264,7 +5081,6 @@
 5467,Eixample,Friday,August,11,Night,1,0,1,2
 5468,Eixample,Monday,August,28,Afternoon,1,0,1,2
 5469,Eixample,Tuesday,October,10,Afternoon,2,0,2,1
-5470,Eixample,Friday,June,2,Afternoon,1,0,1,4
 5471,Eixample,Wednesday,March,1,Morning,1,0,1,2
 5472,Eixample,Friday,December,22,Afternoon,1,0,1,2
 5473,Eixample,Wednesday,May,10,Morning,1,0,1,2
@@ -5443,12 +5259,10 @@
 5649,Eixample,Thursday,November,16,Morning,1,0,1,2
 5650,Eixample,Wednesday,March,8,Afternoon,1,0,1,1
 5651,Eixample,Monday,February,20,Night,0,0,0,2
-5652,Eixample,Saturday,January,7,Night,0,1,1,1
 5653,Eixample,Monday,July,17,Afternoon,1,0,1,2
 5654,Eixample,Saturday,November,4,Night,1,0,1,2
 5655,Eixample,Friday,August,25,Afternoon,1,0,1,2
 5656,Eixample,Friday,April,7,Afternoon,1,0,1,2
-5657,Eixample,Tuesday,February,14,Morning,1,0,1,2
 5659,Eixample,Thursday,April,13,Afternoon,1,0,1,1
 5660,Eixample,Sunday,June,11,Afternoon,1,0,1,2
 5661,Eixample,Friday,May,12,Afternoon,1,0,1,2
@@ -5493,15 +5307,12 @@
 5702,Eixample,Thursday,August,31,Morning,1,0,1,1
 5703,Eixample,Saturday,August,26,Morning,1,0,1,2
 5704,Eixample,Thursday,August,17,Afternoon,1,0,1,2
-5706,Eixample,Friday,June,2,Afternoon,0,0,0,2
 5707,Eixample,Thursday,June,8,Morning,1,0,1,2
 5708,Eixample,Friday,October,13,Morning,1,0,1,2
 5709,Eixample,Thursday,August,3,Afternoon,1,0,1,2
 5710,Eixample,Thursday,August,3,Morning,1,0,1,2
 5711,Eixample,Thursday,November,2,Morning,2,0,2,1
-5712,Eixample,Saturday,January,7,Afternoon,1,0,1,2
 5713,Eixample,Wednesday,January,25,Morning,1,0,1,1
-5714,Eixample,Saturday,June,3,Morning,0,0,0,2
 5715,Eixample,Saturday,April,8,Afternoon,3,0,3,1
 5716,Eixample,Wednesday,March,8,Afternoon,1,0,1,3
 5717,Eixample,Thursday,December,14,Afternoon,1,0,1,2
@@ -5534,7 +5345,6 @@
 5745,Sants-Montjuïc,Wednesday,August,30,Afternoon,4,0,4,3
 5746,Sants-Montjuïc,Monday,August,14,Afternoon,1,0,1,2
 5747,Sants-Montjuïc,Wednesday,November,22,Afternoon,1,0,1,1
-5748,Sants-Montjuïc,Saturday,June,3,Morning,1,0,1,2
 5749,Sants-Montjuïc,Sunday,July,16,Night,1,0,1,2
 5750,Sants-Montjuïc,Tuesday,January,3,Night,0,0,0,2
 5751,Sants-Montjuïc,Tuesday,January,10,Morning,1,0,1,2
@@ -5578,7 +5388,6 @@
 5791,Sants-Montjuïc,Wednesday,April,26,Morning,0,1,1,2
 5792,Sants-Montjuïc,Friday,September,29,Afternoon,1,0,1,1
 5793,Sants-Montjuïc,Thursday,March,23,Morning,1,0,1,2
-5794,Sants-Montjuïc,Sunday,April,23,Morning,0,0,0,1
 5795,Sants-Montjuïc,Wednesday,September,20,Morning,1,0,1,2
 5797,Sants-Montjuïc,Wednesday,August,9,Night,0,1,1,1
 5798,Sants-Montjuïc,Sunday,August,13,Night,0,0,0,3
@@ -5598,7 +5407,6 @@
 5812,Sants-Montjuïc,Sunday,October,15,Night,1,0,1,2
 5813,Sants-Montjuïc,Monday,May,22,Afternoon,1,0,1,2
 5814,Sants-Montjuïc,Sunday,October,1,Afternoon,1,0,1,1
-5815,Sants-Montjuïc,Monday,June,5,Afternoon,1,0,1,2
 5816,Sants-Montjuïc,Saturday,September,16,Afternoon,1,0,1,1
 5817,Sants-Montjuïc,Sunday,November,26,Morning,0,0,0,2
 5818,Sants-Montjuïc,Wednesday,August,30,Night,1,0,1,2
@@ -5616,7 +5424,6 @@
 5831,Sants-Montjuïc,Saturday,May,6,Morning,1,0,1,2
 5832,Sants-Montjuïc,Monday,July,24,Morning,1,0,1,2
 5833,Sants-Montjuïc,Thursday,May,11,Afternoon,1,0,1,2
-5834,Sants-Montjuïc,Tuesday,August,15,Afternoon,2,0,2,2
 5835,Sants-Montjuïc,Sunday,February,26,Morning,1,0,1,1
 5836,Sants-Montjuïc,Sunday,February,12,Night,0,0,0,1
 5837,Sants-Montjuïc,Wednesday,February,15,Morning,1,0,1,2
@@ -5653,7 +5460,6 @@
 5868,Sants-Montjuïc,Tuesday,March,14,Morning,1,0,1,1
 5869,Sants-Montjuïc,Thursday,June,8,Afternoon,1,0,1,2
 5870,Sants-Montjuïc,Tuesday,July,11,Afternoon,1,0,1,2
-5871,Les Corts,Saturday,January,7,Afternoon,1,0,1,2
 5873,Sants-Montjuïc,Monday,September,18,Morning,1,0,1,1
 5874,Sants-Montjuïc,Thursday,January,26,Morning,1,0,1,2
 5875,Sants-Montjuïc,Friday,September,1,Afternoon,0,1,1,2
@@ -5723,7 +5529,6 @@
 5939,Les Corts,Friday,May,26,Afternoon,0,0,0,3
 5940,Les Corts,Thursday,August,24,Afternoon,1,0,1,2
 5941,Les Corts,Tuesday,September,5,Afternoon,1,0,1,1
-5942,Les Corts,Saturday,January,7,Night,2,1,3,1
 5943,Les Corts,Sunday,December,10,Afternoon,1,0,1,2
 5944,Les Corts,Monday,August,7,Afternoon,1,0,1,2
 5945,Les Corts,Saturday,December,23,Afternoon,2,0,2,2
@@ -5770,7 +5575,6 @@
 5987,Sarrià-Sant Gervasi,Saturday,April,1,Night,1,0,1,2
 5988,Sarrià-Sant Gervasi,Thursday,April,27,Afternoon,1,0,1,2
 5989,Sarrià-Sant Gervasi,Tuesday,July,18,Morning,1,0,1,2
-5990,Sarrià-Sant Gervasi,Friday,April,28,Afternoon,1,0,1,1
 5991,Sarrià-Sant Gervasi,Thursday,November,23,Afternoon,2,0,2,1
 5992,Sarrià-Sant Gervasi,Monday,January,9,Morning,1,0,1,2
 5993,Sarrià-Sant Gervasi,Thursday,July,13,Morning,2,0,2,3
@@ -5836,7 +5640,6 @@
 6054,Sarrià-Sant Gervasi,Monday,May,22,Afternoon,1,0,1,2
 6055,Sarrià-Sant Gervasi,Monday,June,19,Afternoon,1,0,1,2
 6057,Sarrià-Sant Gervasi,Monday,March,27,Afternoon,2,0,2,2
-6058,Sarrià-Sant Gervasi,Thursday,October,12,Afternoon,1,0,1,2
 6059,Sarrià-Sant Gervasi,Saturday,June,10,Afternoon,1,0,1,2
 6060,Sarrià-Sant Gervasi,Thursday,March,30,Morning,1,0,1,2
 6061,Sarrià-Sant Gervasi,Friday,January,13,Afternoon,1,0,1,1
@@ -5908,7 +5711,6 @@
 6130,Gràcia,Wednesday,April,19,Afternoon,1,0,1,2
 6131,Gràcia,Monday,January,30,Afternoon,1,0,1,1
 6132,Gràcia,Wednesday,April,5,Afternoon,1,0,1,2
-6133,Gràcia,Friday,June,2,Morning,1,0,1,2
 6134,Gràcia,Wednesday,April,5,Afternoon,2,0,2,2
 6135,Gràcia,Friday,January,13,Morning,1,0,1,2
 6136,Gràcia,Thursday,January,12,Morning,1,0,1,2
@@ -5956,7 +5758,6 @@
 6178,Gràcia,Monday,July,3,Morning,1,0,1,2
 6179,Gràcia,Wednesday,April,5,Morning,2,0,2,2
 6180,Gràcia,Monday,October,16,Afternoon,1,0,1,2
-6181,Gràcia,Saturday,April,29,Afternoon,1,0,1,1
 6182,Gràcia,Wednesday,October,18,Morning,1,0,1,2
 6183,Gràcia,Tuesday,December,19,Morning,1,0,1,2
 6184,Gràcia,Monday,October,9,Morning,2,0,2,2
@@ -5968,7 +5769,6 @@
 6190,Horta-Guinardó,Sunday,July,9,Afternoon,2,0,2,3
 6191,Horta-Guinardó,Thursday,September,7,Afternoon,2,0,2,2
 6192,Horta-Guinardó,Monday,February,20,Afternoon,2,0,2,1
-6193,Horta-Guinardó,Saturday,January,7,Night,0,0,0,1
 6194,Horta-Guinardó,Wednesday,August,9,Morning,1,0,1,2
 6195,Horta-Guinardó,Monday,October,30,Morning,3,0,3,3
 6196,Horta-Guinardó,Thursday,October,26,Afternoon,1,0,1,2
@@ -5998,7 +5798,6 @@
 6220,Horta-Guinardó,Thursday,April,27,Afternoon,1,0,1,2
 6221,Horta-Guinardó,Monday,April,10,Morning,1,0,1,1
 6223,Horta-Guinardó,Friday,March,17,Afternoon,2,0,2,3
-6224,Horta-Guinardó,Sunday,April,30,Afternoon,1,0,1,2
 6225,Horta-Guinardó,Sunday,March,26,Afternoon,2,0,2,2
 6226,Horta-Guinardó,Thursday,March,9,Afternoon,2,0,2,4
 6227,Horta-Guinardó,Saturday,December,16,Afternoon,2,0,2,3
@@ -6017,7 +5816,6 @@
 6240,Horta-Guinardó,Friday,September,15,Afternoon,1,0,1,2
 6241,Horta-Guinardó,Wednesday,March,8,Afternoon,1,0,1,2
 6242,Horta-Guinardó,Sunday,October,8,Night,2,0,2,4
-6243,Horta-Guinardó,Tuesday,December,26,Morning,1,0,1,2
 6244,Horta-Guinardó,Monday,January,30,Morning,1,0,1,2
 6246,Horta-Guinardó,Saturday,April,22,Morning,1,0,1,1
 6247,Horta-Guinardó,Tuesday,September,26,Morning,1,0,1,3
@@ -6040,7 +5838,6 @@
 6266,Horta-Guinardó,Tuesday,July,25,Night,1,0,1,1
 6267,Horta-Guinardó,Tuesday,September,5,Morning,1,0,1,1
 6269,Nou Barris,Thursday,April,6,Morning,1,0,1,5
-6270,Nou Barris,Friday,April,28,Morning,4,0,4,2
 6271,Nou Barris,Monday,November,27,Morning,1,0,1,2
 6272,Nou Barris,Thursday,May,25,Afternoon,1,0,1,1
 6273,Nou Barris,Sunday,July,16,Night,0,0,0,4
@@ -6062,7 +5859,6 @@
 6289,Nou Barris,Tuesday,January,17,Morning,1,0,1,2
 6290,Nou Barris,Monday,October,2,Afternoon,1,0,1,2
 6291,Nou Barris,Monday,January,23,Morning,1,0,1,2
-6292,Nou Barris,Monday,May,1,Night,3,0,3,2
 6293,Nou Barris,Friday,February,3,Afternoon,1,0,1,2
 6294,Nou Barris,Tuesday,February,28,Afternoon,1,0,1,2
 6295,Nou Barris,Sunday,July,23,Morning,1,0,1,2
@@ -6082,7 +5878,6 @@
 6309,Nou Barris,Friday,October,20,Afternoon,1,0,1,2
 6310,Nou Barris,Wednesday,May,3,Night,1,0,1,1
 6311,Nou Barris,Saturday,April,8,Afternoon,1,0,1,2
-6312,Nou Barris,Tuesday,December,26,Morning,1,0,1,2
 6313,Nou Barris,Tuesday,May,9,Night,1,0,1,2
 6314,Nou Barris,Saturday,April,22,Afternoon,1,0,1,1
 6315,Nou Barris,Friday,March,31,Morning,3,0,3,3
@@ -6093,7 +5888,6 @@
 6320,Nou Barris,Sunday,September,17,Afternoon,1,0,1,1
 6321,Nou Barris,Monday,June,26,Morning,2,0,2,2
 6322,Nou Barris,Friday,May,12,Afternoon,0,0,0,2
-6323,Nou Barris,Thursday,October,12,Afternoon,1,0,1,1
 6324,Nou Barris,Tuesday,February,28,Afternoon,1,0,1,2
 6325,Nou Barris,Tuesday,December,12,Afternoon,1,0,1,1
 6326,Nou Barris,Friday,September,1,Morning,1,0,1,2
@@ -6120,7 +5914,6 @@
 6348,Sant Andreu,Thursday,March,2,Afternoon,0,1,1,2
 6349,Sant Andreu,Tuesday,October,24,Afternoon,1,0,1,1
 6350,Sant Andreu,Wednesday,May,31,Afternoon,0,0,0,2
-6351,Sant Andreu,Monday,June,5,Night,1,0,1,2
 6352,Sant Andreu,Tuesday,March,21,Morning,2,0,2,1
 6354,Sant Andreu,Wednesday,August,30,Afternoon,1,0,1,3
 6355,Sant Andreu,Thursday,July,27,Afternoon,1,0,1,1
@@ -6130,14 +5923,11 @@
 6360,Sant Andreu,Tuesday,June,20,Morning,1,0,1,2
 6362,Sant Andreu,Wednesday,November,29,Morning,0,0,0,1
 6364,Sant Andreu,Wednesday,May,24,Afternoon,1,0,1,1
-6365,Sant Andreu,Sunday,April,30,Afternoon,1,0,1,2
 6366,Sant Andreu,Monday,June,26,Afternoon,1,0,1,2
-6367,Sant Andreu,Monday,June,5,Night,1,0,1,2
 6368,Sant Andreu,Friday,October,20,Morning,1,0,1,1
 6369,Sant Andreu,Thursday,March,16,Morning,1,0,1,1
 6370,Sant Andreu,Wednesday,November,8,Afternoon,1,0,1,2
 6371,Sant Andreu,Thursday,December,21,Afternoon,1,0,1,2
-6372,Sant Andreu,Sunday,April,23,Afternoon,0,0,0,2
 6373,Sant Andreu,Friday,August,4,Night,2,0,2,2
 6374,Sant Andreu,Friday,September,15,Morning,2,0,2,1
 6375,Sant Andreu,Monday,August,7,Afternoon,1,0,1,2
@@ -6164,8 +5954,6 @@
 6397,Sant Andreu,Thursday,January,5,Morning,1,0,1,2
 6398,Sant Andreu,Tuesday,March,28,Afternoon,2,0,2,2
 6399,Sant Andreu,Thursday,July,27,Morning,1,0,1,2
-6400,Sant Andreu,Saturday,January,7,Morning,1,0,1,2
-6401,Sant Andreu,Sunday,April,30,Morning,0,0,0,4
 6402,Sant Andreu,Monday,January,9,Morning,1,0,1,1
 6403,Sant Andreu,Monday,October,30,Afternoon,1,0,1,2
 6404,Sant Andreu,Tuesday,October,3,Afternoon,0,0,0,1
@@ -6185,7 +5973,6 @@
 6420,Sant Andreu,Monday,November,6,Morning,2,0,2,4
 6421,Sant Andreu,Tuesday,July,25,Afternoon,1,0,1,1
 6422,Sant Andreu,Friday,November,24,Morning,1,0,1,2
-6423,Sant Andreu,Friday,June,2,Afternoon,1,0,1,2
 6424,Unknown,Wednesday,July,19,Morning,1,0,1,1
 6425,Sant Martí,Saturday,July,1,Afternoon,1,0,1,2
 6426,Sant Martí,Wednesday,December,27,Morning,1,0,1,2
@@ -6211,7 +5998,6 @@
 6446,Sant Martí,Friday,June,16,Afternoon,2,0,2,3
 6447,Sant Martí,Monday,March,13,Morning,1,0,1,2
 6448,Sant Martí,Tuesday,March,28,Morning,1,0,1,2
-6449,Sant Martí,Tuesday,February,14,Afternoon,1,0,1,2
 6450,Sant Martí,Saturday,February,4,Afternoon,1,0,1,1
 6451,Sant Martí,Wednesday,May,24,Afternoon,1,0,1,2
 6452,Sant Martí,Sunday,February,5,Night,1,0,1,2
@@ -6264,7 +6050,6 @@
 6500,Sant Martí,Tuesday,November,28,Afternoon,1,0,1,2
 6501,Sant Martí,Sunday,October,1,Afternoon,2,0,2,2
 6502,Sant Martí,Monday,November,13,Morning,1,0,1,2
-6503,Sant Martí,Tuesday,August,15,Afternoon,2,0,2,2
 6504,Sant Martí,Tuesday,May,9,Afternoon,2,0,2,3
 6505,Sant Martí,Tuesday,April,4,Morning,1,0,1,1
 6506,Sant Martí,Wednesday,July,5,Morning,1,0,1,2
@@ -6279,7 +6064,6 @@
 6515,Sant Martí,Friday,November,24,Morning,1,0,1,2
 6516,Sant Martí,Tuesday,January,10,Morning,1,0,1,1
 6517,Sant Martí,Thursday,November,9,Night,1,0,1,1
-6518,Sant Martí,Saturday,January,7,Afternoon,2,0,2,2
 6519,Sant Martí,Saturday,October,14,Night,0,0,0,2
 6520,Sant Martí,Saturday,October,14,Afternoon,1,0,1,2
 6521,Sant Martí,Thursday,January,26,Morning,1,0,1,2
@@ -6317,8 +6101,6 @@
 6554,Sant Martí,Tuesday,November,7,Morning,2,0,2,2
 6555,Sant Martí,Wednesday,December,20,Afternoon,1,0,1,2
 6556,Sant Martí,Sunday,October,22,Afternoon,1,0,1,1
-6557,Sant Martí,Tuesday,December,26,Afternoon,3,0,3,3
-6558,Sant Martí,Monday,June,5,Afternoon,1,0,1,2
 6559,Sant Martí,Thursday,March,9,Afternoon,1,0,1,2
 6560,Sant Martí,Friday,June,9,Morning,0,1,1,2
 6561,Sant Martí,Tuesday,February,28,Morning,1,0,1,1
@@ -6345,7 +6127,6 @@
 6582,Sant Martí,Friday,November,24,Afternoon,1,0,1,2
 6583,Sant Martí,Saturday,August,19,Morning,1,0,1,1
 6584,Sant Martí,Tuesday,July,25,Morning,1,0,1,2
-6585,Sant Martí,Friday,June,2,Afternoon,1,0,1,2
 6586,Sant Martí,Sunday,October,29,Afternoon,1,0,1,2
 6587,Ciutat Vella,Wednesday,September,13,Morning,1,0,1,2
 6588,Ciutat Vella,Sunday,January,15,Afternoon,0,0,0,1
@@ -6377,7 +6158,6 @@
 6614,Ciutat Vella,Thursday,July,13,Afternoon,1,0,1,2
 6615,Ciutat Vella,Thursday,July,13,Night,1,0,1,2
 6616,Ciutat Vella,Friday,January,13,Afternoon,2,0,2,2
-6617,Ciutat Vella,Saturday,January,7,Afternoon,1,0,1,2
 6618,Ciutat Vella,Tuesday,June,27,Morning,2,0,2,2
 6619,Ciutat Vella,Tuesday,January,31,Afternoon,0,0,0,2
 6620,Ciutat Vella,Thursday,July,20,Morning,1,0,1,2
@@ -6489,7 +6269,6 @@
 6728,Eixample,Wednesday,February,15,Night,1,0,1,2
 6729,Eixample,Friday,July,28,Afternoon,2,0,2,2
 6730,Eixample,Saturday,March,4,Morning,1,0,1,2
-6731,Eixample,Tuesday,February,14,Afternoon,1,0,1,2
 6732,Eixample,Tuesday,July,25,Morning,1,0,1,2
 6733,Eixample,Thursday,January,5,Morning,1,0,1,2
 6734,Eixample,Thursday,August,3,Morning,1,0,1,1
@@ -6512,7 +6291,6 @@
 6751,Eixample,Thursday,May,4,Morning,1,0,1,2
 6752,Eixample,Saturday,December,30,Afternoon,0,0,0,2
 6753,Eixample,Saturday,July,15,Afternoon,1,0,1,2
-6754,Eixample,Wednesday,November,1,Afternoon,1,0,1,3
 6755,Eixample,Wednesday,September,27,Morning,1,0,1,2
 6756,Eixample,Thursday,March,2,Afternoon,2,0,2,3
 6757,Eixample,Monday,October,16,Afternoon,1,0,1,2
@@ -6524,7 +6302,6 @@
 6763,Eixample,Tuesday,June,13,Afternoon,2,0,2,2
 6764,Eixample,Thursday,May,18,Morning,1,0,1,2
 6765,Eixample,Monday,March,20,Afternoon,1,0,1,2
-6766,Eixample,Tuesday,December,26,Night,4,0,4,4
 6767,Eixample,Thursday,November,2,Morning,1,0,1,2
 6768,Eixample,Tuesday,July,4,Afternoon,1,0,1,2
 6769,Eixample,Monday,February,27,Afternoon,1,0,1,2
@@ -6591,15 +6368,12 @@
 6832,Eixample,Thursday,April,27,Afternoon,1,0,1,2
 6833,Eixample,Tuesday,January,24,Morning,1,0,1,2
 6834,Eixample,Wednesday,May,24,Morning,1,0,1,2
-6835,Eixample,Sunday,April,23,Night,1,0,1,1
 6836,Eixample,Monday,May,15,Afternoon,1,0,1,3
 6837,Eixample,Friday,July,7,Afternoon,1,0,1,2
 6838,Eixample,Saturday,December,16,Afternoon,1,0,1,1
 6839,Eixample,Monday,May,22,Morning,1,0,1,2
 6840,Eixample,Tuesday,August,22,Afternoon,2,0,2,2
 6841,Eixample,Monday,August,28,Afternoon,1,0,1,2
-6842,Eixample,Tuesday,December,26,Afternoon,1,0,1,2
-6843,Eixample,Saturday,January,7,Morning,0,1,1,2
 6844,Eixample,Tuesday,September,26,Morning,2,0,2,2
 6845,Eixample,Thursday,August,10,Morning,1,0,1,2
 6846,Eixample,Tuesday,April,18,Morning,1,0,1,2
@@ -6639,7 +6413,6 @@
 6881,Eixample,Saturday,July,29,Morning,1,0,1,2
 6882,Eixample,Saturday,July,15,Morning,1,0,1,2
 6883,Eixample,Friday,January,20,Afternoon,1,0,1,1
-6884,Eixample,Thursday,October,12,Afternoon,1,0,1,2
 6885,Eixample,Monday,August,14,Afternoon,0,0,0,2
 6886,Eixample,Monday,February,20,Morning,1,0,1,1
 6887,Eixample,Tuesday,September,5,Afternoon,1,0,1,2
@@ -6681,13 +6454,11 @@
 6925,Eixample,Thursday,March,2,Morning,1,0,1,2
 6926,Eixample,Monday,December,18,Afternoon,1,0,1,2
 6927,Eixample,Tuesday,July,18,Afternoon,1,0,1,2
-6928,Eixample,Tuesday,February,14,Morning,1,0,1,2
 6929,Eixample,Tuesday,June,6,Afternoon,2,0,2,2
 6930,Eixample,Tuesday,June,27,Night,1,0,1,1
 6931,Eixample,Tuesday,August,29,Afternoon,1,0,1,1
 6932,Eixample,Saturday,November,18,Morning,1,0,1,1
 6933,Eixample,Tuesday,June,6,Afternoon,1,0,1,4
-6934,Eixample,Saturday,April,29,Afternoon,3,0,3,3
 6935,Eixample,Saturday,October,14,Morning,0,0,0,2
 6936,Eixample,Tuesday,October,24,Morning,1,0,1,2
 6937,Eixample,Wednesday,March,8,Night,0,0,0,14
@@ -6728,7 +6499,6 @@
 6972,Eixample,Friday,August,11,Afternoon,1,0,1,2
 6973,Eixample,Wednesday,July,5,Afternoon,1,0,1,2
 6974,Eixample,Tuesday,February,28,Morning,1,0,1,2
-6975,Eixample,Thursday,October,12,Morning,0,0,0,5
 6976,Eixample,Saturday,June,10,Afternoon,1,0,1,2
 6977,Eixample,Friday,April,21,Afternoon,0,0,0,2
 6978,Eixample,Monday,November,13,Afternoon,1,0,1,2
@@ -6776,9 +6546,7 @@
 7024,Eixample,Thursday,July,13,Afternoon,1,0,1,2
 7025,Eixample,Friday,May,26,Afternoon,0,1,1,2
 7026,Eixample,Friday,August,18,Afternoon,1,0,1,2
-7027,Eixample,Friday,April,28,Afternoon,1,0,1,2
 7028,Eixample,Thursday,June,8,Night,1,0,1,1
-7029,Eixample,Tuesday,February,14,Afternoon,1,0,1,2
 7030,Eixample,Tuesday,March,28,Morning,1,0,1,2
 7031,Eixample,Saturday,April,22,Morning,1,0,1,2
 7032,Eixample,Wednesday,September,13,Night,2,0,2,2
@@ -6811,7 +6579,6 @@
 7060,Sants-Montjuïc,Friday,August,4,Afternoon,1,0,1,3
 7061,Sants-Montjuïc,Sunday,July,9,Afternoon,1,0,1,2
 7062,Sants-Montjuïc,Monday,May,15,Morning,1,0,1,3
-7063,Sants-Montjuïc,Friday,April,28,Morning,0,0,0,2
 7064,Sants-Montjuïc,Thursday,March,30,Morning,0,0,0,2
 7065,Sants-Montjuïc,Tuesday,February,21,Morning,3,0,3,8
 7067,Sants-Montjuïc,Friday,July,7,Morning,2,0,2,2
@@ -6819,7 +6586,6 @@
 7069,Sants-Montjuïc,Tuesday,December,5,Morning,1,0,1,2
 7070,Sants-Montjuïc,Tuesday,July,25,Morning,1,0,1,2
 7071,Sants-Montjuïc,Thursday,May,25,Night,2,0,2,2
-7072,Sants-Montjuïc,Monday,June,5,Afternoon,0,0,0,2
 7073,Sants-Montjuïc,Tuesday,July,4,Morning,1,0,1,2
 7074,Sants-Montjuïc,Friday,April,21,Afternoon,1,0,1,2
 7075,Sants-Montjuïc,Friday,November,10,Night,0,0,0,2
@@ -6850,7 +6616,6 @@
 7100,Sants-Montjuïc,Friday,May,5,Morning,1,0,1,2
 7101,Sants-Montjuïc,Monday,October,16,Morning,2,0,2,2
 7102,Sants-Montjuïc,Sunday,August,6,Afternoon,3,0,3,2
-7103,Sants-Montjuïc,Sunday,April,30,Morning,0,0,0,1
 7104,Sants-Montjuïc,Wednesday,June,21,Morning,1,0,1,1
 7105,Sants-Montjuïc,Tuesday,October,31,Morning,1,0,1,2
 7106,Sants-Montjuïc,Monday,May,8,Afternoon,1,0,1,2
@@ -6937,18 +6702,14 @@
 7190,Sants-Montjuïc,Thursday,February,16,Afternoon,2,0,2,2
 7191,Sants-Montjuïc,Tuesday,June,13,Morning,2,0,2,2
 7192,Les Corts,Tuesday,May,30,Night,1,0,1,2
-7193,Les Corts,Saturday,January,7,Afternoon,2,0,2,2
 7194,Les Corts,Monday,June,26,Morning,1,0,1,2
 7195,Les Corts,Wednesday,June,21,Afternoon,1,0,1,2
-7196,Les Corts,Sunday,April,23,Afternoon,4,0,4,3
 7197,Les Corts,Wednesday,April,12,Morning,1,0,1,2
 7198,Les Corts,Friday,January,20,Afternoon,1,0,1,2
 7199,Les Corts,Sunday,February,19,Morning,0,0,0,1
 7200,Les Corts,Thursday,September,28,Afternoon,2,0,2,1
 7201,Les Corts,Saturday,January,14,Afternoon,1,0,1,2
 7202,Les Corts,Monday,April,10,Night,0,0,0,1
-7203,Les Corts,Friday,June,2,Afternoon,1,0,1,2
-7204,Les Corts,Friday,January,6,Morning,1,0,1,2
 7205,Les Corts,Thursday,March,23,Morning,2,0,2,2
 7206,Les Corts,Thursday,January,26,Morning,1,0,1,3
 7207,Les Corts,Friday,February,17,Morning,1,0,1,2
@@ -6962,7 +6723,6 @@
 7216,Les Corts,Wednesday,November,8,Morning,1,0,1,1
 7217,Les Corts,Wednesday,December,27,Afternoon,0,0,0,4
 7218,Les Corts,Wednesday,July,5,Afternoon,2,0,2,2
-7219,Les Corts,Friday,June,2,Morning,0,0,0,2
 7220,Les Corts,Thursday,September,28,Afternoon,0,0,0,3
 7221,Les Corts,Monday,February,13,Afternoon,1,0,1,3
 7222,Les Corts,Friday,December,1,Morning,1,0,1,2
@@ -6970,7 +6730,6 @@
 7224,Les Corts,Friday,April,21,Afternoon,1,0,1,2
 7225,Les Corts,Tuesday,April,25,Afternoon,1,0,1,2
 7226,Les Corts,Thursday,November,23,Afternoon,1,0,1,1
-7227,Les Corts,Tuesday,February,14,Afternoon,2,0,2,2
 7228,Les Corts,Friday,January,27,Night,1,0,1,2
 7229,Les Corts,Sunday,September,3,Afternoon,1,0,1,2
 7230,Les Corts,Wednesday,February,8,Afternoon,3,0,3,4
@@ -7055,7 +6814,6 @@
 7313,Sarrià-Sant Gervasi,Tuesday,September,19,Afternoon,1,0,1,2
 7314,Sarrià-Sant Gervasi,Thursday,February,16,Afternoon,1,0,1,2
 7315,Sarrià-Sant Gervasi,Friday,November,10,Afternoon,1,1,2,2
-7316,Sarrià-Sant Gervasi,Sunday,June,4,Night,2,0,2,2
 7317,Sarrià-Sant Gervasi,Tuesday,August,8,Morning,1,0,1,2
 7318,Sarrià-Sant Gervasi,Thursday,November,30,Afternoon,2,0,2,2
 7319,Sarrià-Sant Gervasi,Friday,September,15,Afternoon,2,0,2,2
@@ -7082,7 +6840,6 @@
 7340,Sarrià-Sant Gervasi,Wednesday,August,2,Afternoon,2,0,2,2
 7341,Sarrià-Sant Gervasi,Sunday,April,2,Afternoon,1,0,1,2
 7342,Sarrià-Sant Gervasi,Monday,January,16,Afternoon,2,0,2,2
-7343,Sarrià-Sant Gervasi,Saturday,June,3,Morning,0,0,0,1
 7344,Sarrià-Sant Gervasi,Thursday,March,9,Morning,2,0,2,1
 7345,Sarrià-Sant Gervasi,Tuesday,January,3,Morning,4,0,4,2
 7346,Sarrià-Sant Gervasi,Friday,February,24,Morning,2,0,2,3
@@ -7109,7 +6866,6 @@
 7367,Sarrià-Sant Gervasi,Monday,February,20,Morning,1,0,1,2
 7368,Sarrià-Sant Gervasi,Saturday,December,2,Morning,1,0,1,2
 7369,Sarrià-Sant Gervasi,Monday,February,27,Afternoon,1,0,1,2
-7370,Sarrià-Sant Gervasi,Friday,April,28,Night,1,0,1,2
 7371,Sarrià-Sant Gervasi,Monday,October,23,Morning,0,0,0,1
 7372,Sarrià-Sant Gervasi,Friday,December,22,Night,1,0,1,2
 7373,Sarrià-Sant Gervasi,Friday,August,11,Morning,1,0,1,2
@@ -7159,17 +6915,14 @@
 7420,Sarrià-Sant Gervasi,Thursday,February,2,Morning,0,1,1,2
 7421,Sarrià-Sant Gervasi,Thursday,November,9,Morning,1,0,1,2
 7422,Sarrià-Sant Gervasi,Thursday,September,28,Night,2,0,2,2
-7423,Gràcia,Tuesday,December,26,Afternoon,1,0,1,2
 7424,Gràcia,Thursday,July,20,Morning,1,0,1,2
 7425,Gràcia,Thursday,November,16,Afternoon,1,0,1,2
 7426,Gràcia,Wednesday,November,22,Night,0,0,0,2
 7427,Gràcia,Tuesday,August,8,Afternoon,0,0,0,1
-7428,Sarrià-Sant Gervasi,Tuesday,August,15,Morning,4,0,4,1
 7429,Sarrià-Sant Gervasi,Thursday,August,31,Afternoon,5,0,5,1
 7430,Sarrià-Sant Gervasi,Thursday,April,13,Afternoon,1,0,1,2
 7431,Gràcia,Thursday,February,9,Afternoon,1,0,1,2
 7432,Gràcia,Monday,July,24,Morning,2,0,2,2
-7433,Gràcia,Tuesday,February,14,Afternoon,1,0,1,2
 7434,Gràcia,Tuesday,October,17,Morning,1,0,1,2
 7435,Gràcia,Sunday,May,14,Afternoon,0,1,1,2
 7437,Gràcia,Monday,August,7,Afternoon,2,0,2,2
@@ -7234,7 +6987,6 @@
 7498,Horta-Guinardó,Friday,September,29,Morning,1,0,1,1
 7499,Horta-Guinardó,Monday,February,27,Afternoon,1,0,1,2
 7501,Horta-Guinardó,Thursday,July,13,Morning,1,0,1,1
-7502,Horta-Guinardó,Tuesday,February,14,Afternoon,4,0,4,1
 7503,Horta-Guinardó,Monday,April,24,Afternoon,1,0,1,2
 7504,Horta-Guinardó,Wednesday,February,22,Morning,1,0,1,2
 7505,Horta-Guinardó,Wednesday,November,22,Afternoon,1,0,1,2
@@ -7255,7 +7007,6 @@
 7520,Horta-Guinardó,Saturday,October,21,Morning,0,0,0,1
 7521,Horta-Guinardó,Friday,March,17,Afternoon,1,0,1,2
 7522,Horta-Guinardó,Wednesday,February,15,Night,1,0,1,1
-7523,Horta-Guinardó,Sunday,April,30,Afternoon,1,0,1,2
 7524,Horta-Guinardó,Thursday,November,16,Afternoon,1,0,1,2
 7525,Horta-Guinardó,Thursday,November,23,Afternoon,0,0,0,1
 7526,Horta-Guinardó,Thursday,July,13,Morning,0,0,0,1
@@ -7301,7 +7052,6 @@
 7571,Horta-Guinardó,Monday,November,20,Afternoon,0,1,1,1
 7572,Horta-Guinardó,Friday,June,30,Afternoon,2,0,2,3
 7574,Horta-Guinardó,Monday,November,13,Morning,1,0,1,2
-7575,Horta-Guinardó,Tuesday,December,26,Afternoon,1,0,1,2
 7576,Horta-Guinardó,Thursday,April,13,Morning,1,0,1,2
 7577,Nou Barris,Tuesday,February,21,Afternoon,0,1,1,1
 7578,Horta-Guinardó,Thursday,February,23,Night,2,0,2,5
@@ -7340,7 +7090,6 @@
 7611,Nou Barris,Thursday,October,5,Afternoon,2,0,2,2
 7612,Nou Barris,Wednesday,July,26,Afternoon,1,0,1,2
 7613,Nou Barris,Friday,August,4,Afternoon,1,0,1,3
-7614,Nou Barris,Friday,April,28,Afternoon,0,0,0,2
 7615,Nou Barris,Wednesday,May,10,Morning,1,0,1,2
 7616,Nou Barris,Wednesday,February,22,Afternoon,3,0,3,3
 7618,Nou Barris,Saturday,November,18,Morning,3,0,3,1
@@ -7351,7 +7100,6 @@
 7623,Nou Barris,Wednesday,November,22,Afternoon,2,0,2,2
 7624,Nou Barris,Wednesday,April,5,Afternoon,4,0,4,4
 7625,Nou Barris,Friday,April,21,Afternoon,1,0,1,2
-7626,Nou Barris,Friday,April,28,Afternoon,1,0,1,2
 7627,Nou Barris,Friday,June,16,Morning,1,0,1,2
 7628,Nou Barris,Wednesday,September,27,Afternoon,2,0,2,2
 7629,Nou Barris,Sunday,April,2,Morning,2,0,2,2
@@ -7390,7 +7138,6 @@
 7665,Sant Andreu,Saturday,December,30,Morning,1,0,1,1
 7666,Sant Andreu,Friday,March,31,Morning,0,0,0,1
 7667,Sant Andreu,Thursday,October,26,Afternoon,1,0,1,3
-7668,Sant Andreu,Friday,June,2,Morning,0,0,0,1
 7669,Sant Andreu,Friday,February,3,Morning,1,0,1,2
 7670,Sant Andreu,Wednesday,June,21,Afternoon,1,0,1,2
 7671,Sant Andreu,Thursday,August,31,Afternoon,1,0,1,2
@@ -7421,7 +7168,6 @@
 7696,Sant Andreu,Friday,October,20,Morning,1,0,1,2
 7697,Sant Andreu,Wednesday,June,21,Afternoon,1,0,1,2
 7698,Sant Andreu,Wednesday,November,15,Morning,1,0,1,2
-7699,Sant Andreu,Saturday,January,7,Afternoon,2,0,2,3
 7700,Sant Andreu,Friday,April,21,Afternoon,0,0,0,2
 7701,Sant Andreu,Friday,November,24,Afternoon,1,0,1,2
 7702,Sant Andreu,Thursday,September,7,Afternoon,3,0,3,4
@@ -7430,7 +7176,6 @@
 7705,Sant Andreu,Thursday,November,16,Morning,1,1,2,1
 7706,Sant Andreu,Monday,June,26,Afternoon,1,0,1,2
 7707,Sant Andreu,Wednesday,January,4,Morning,3,0,3,4
-7708,Sant Andreu,Monday,June,5,Morning,1,0,1,2
 7709,Sant Andreu,Tuesday,April,18,Morning,2,0,2,2
 7711,Sant Andreu,Wednesday,March,8,Afternoon,1,0,1,3
 7712,Sant Andreu,Monday,May,29,Afternoon,2,0,2,2
@@ -7595,7 +7340,6 @@
 7877,Sant Martí,Saturday,January,21,Morning,0,0,0,1
 7878,Sant Martí,Saturday,July,15,Afternoon,1,0,1,2
 7879,Sant Martí,Sunday,June,18,Morning,2,0,2,2
-7880,Ciutat Vella,Sunday,June,4,Afternoon,1,0,1,2
 7881,Ciutat Vella,Friday,April,21,Morning,1,0,1,1
 7882,Ciutat Vella,Friday,March,24,Afternoon,1,0,1,1
 7883,Ciutat Vella,Sunday,August,27,Afternoon,1,0,1,2
@@ -7638,7 +7382,6 @@
 7920,Ciutat Vella,Thursday,March,30,Afternoon,1,0,1,2
 7921,Ciutat Vella,Friday,March,10,Afternoon,1,0,1,2
 7922,Ciutat Vella,Wednesday,May,31,Night,0,0,0,1
-7923,Ciutat Vella,Sunday,June,4,Morning,1,0,1,2
 7924,Ciutat Vella,Monday,October,9,Morning,1,0,1,2
 7925,Ciutat Vella,Tuesday,January,3,Morning,1,0,1,1
 7926,Ciutat Vella,Wednesday,March,15,Afternoon,2,0,2,1
@@ -7654,11 +7397,9 @@
 7937,Ciutat Vella,Monday,July,24,Morning,0,0,0,1
 7938,Ciutat Vella,Thursday,March,16,Afternoon,1,0,1,1
 7939,Ciutat Vella,Monday,June,19,Morning,0,0,0,1
-7940,Ciutat Vella,Saturday,April,29,Morning,1,0,1,1
 7941,Ciutat Vella,Monday,March,6,Morning,0,0,0,1
 7942,Ciutat Vella,Tuesday,August,29,Afternoon,2,0,2,3
 7943,Ciutat Vella,Monday,October,30,Morning,1,0,1,1
-7944,Ciutat Vella,Sunday,June,4,Afternoon,1,0,1,2
 7945,Ciutat Vella,Thursday,June,29,Afternoon,2,0,2,1
 7946,Ciutat Vella,Saturday,April,1,Afternoon,1,0,1,1
 7947,Ciutat Vella,Sunday,October,1,Morning,0,0,0,2
@@ -7687,7 +7428,6 @@
 7970,Ciutat Vella,Monday,July,3,Morning,1,0,1,2
 7971,Ciutat Vella,Friday,August,4,Morning,1,0,1,1
 7972,Ciutat Vella,Wednesday,May,3,Afternoon,0,0,0,3
-7974,Ciutat Vella,Monday,May,1,Morning,1,0,1,2
 7975,Ciutat Vella,Wednesday,August,9,Night,0,0,0,1
 7976,Ciutat Vella,Tuesday,May,30,Morning,1,0,1,1
 7977,Ciutat Vella,Monday,October,9,Afternoon,1,0,1,2
@@ -7702,12 +7442,9 @@
 7988,Eixample,Wednesday,January,4,Morning,1,0,1,2
 7989,Eixample,Monday,June,19,Morning,1,0,1,2
 7990,Eixample,Thursday,October,5,Morning,1,0,1,2
-7991,Eixample,Monday,June,5,Afternoon,1,0,1,1
 7992,Eixample,Thursday,July,13,Afternoon,1,0,1,2
-7993,Eixample,Thursday,October,12,Morning,1,0,1,2
 7994,Eixample,Thursday,January,19,Morning,2,0,2,2
 7995,Eixample,Saturday,August,19,Afternoon,2,0,2,2
-7996,Eixample,Saturday,April,29,Morning,1,0,1,1
 7997,Eixample,Thursday,July,6,Afternoon,1,0,1,2
 7998,Eixample,Wednesday,January,4,Afternoon,1,1,2,2
 7999,Eixample,Thursday,July,27,Morning,1,0,1,2
@@ -7726,7 +7463,6 @@
 8012,Eixample,Friday,October,6,Afternoon,1,0,1,2
 8013,Eixample,Monday,December,18,Morning,1,0,1,2
 8014,Eixample,Sunday,March,5,Afternoon,1,0,1,2
-8015,Eixample,Tuesday,February,14,Morning,1,0,1,2
 8016,Eixample,Friday,July,21,Morning,1,0,1,4
 8017,Eixample,Wednesday,May,3,Afternoon,1,0,1,2
 8018,Eixample,Tuesday,September,26,Afternoon,1,0,1,2
@@ -7787,7 +7523,6 @@
 8075,Eixample,Wednesday,February,1,Morning,1,0,1,2
 8076,Eixample,Sunday,January,15,Afternoon,0,0,0,2
 8077,Eixample,Wednesday,February,8,Afternoon,1,0,1,2
-8078,Eixample,Saturday,January,7,Morning,1,0,1,3
 8079,Eixample,Friday,March,24,Afternoon,1,0,1,1
 8080,Eixample,Friday,December,15,Afternoon,2,0,2,2
 8081,Eixample,Tuesday,May,9,Morning,2,0,2,3
@@ -7816,13 +7551,11 @@
 8104,Eixample,Tuesday,April,18,Afternoon,3,0,3,4
 8105,Eixample,Wednesday,November,15,Morning,2,0,2,2
 8106,Eixample,Saturday,October,28,Night,1,0,1,1
-8107,Eixample,Wednesday,November,1,Afternoon,1,0,1,3
 8109,Eixample,Saturday,February,25,Afternoon,1,0,1,2
 8110,Eixample,Tuesday,June,27,Afternoon,2,0,2,2
 8111,Eixample,Saturday,July,1,Morning,2,0,2,1
 8112,Eixample,Monday,February,13,Night,1,0,1,1
 8113,Eixample,Thursday,November,16,Afternoon,1,0,1,2
-8114,Eixample,Tuesday,February,14,Morning,1,0,1,2
 8115,Eixample,Saturday,February,11,Morning,2,0,2,2
 8116,Eixample,Tuesday,September,19,Night,1,0,1,2
 8117,Eixample,Wednesday,July,5,Afternoon,2,0,2,2
@@ -7837,7 +7570,6 @@
 8126,Eixample,Wednesday,January,18,Afternoon,1,0,1,2
 8127,Eixample,Thursday,April,13,Afternoon,1,0,1,2
 8128,Eixample,Monday,June,19,Afternoon,1,0,1,2
-8129,Eixample,Friday,January,6,Night,1,0,1,2
 8130,Eixample,Thursday,August,3,Afternoon,1,0,1,2
 8131,Eixample,Monday,March,20,Morning,1,0,1,2
 8132,Eixample,Thursday,January,12,Afternoon,1,0,1,2
@@ -7878,7 +7610,6 @@
 8169,Eixample,Thursday,August,31,Morning,1,0,1,2
 8170,Eixample,Friday,February,3,Morning,1,0,1,2
 8171,Eixample,Saturday,April,1,Afternoon,1,0,1,2
-8172,Eixample,Monday,May,1,Afternoon,2,0,2,2
 8173,Eixample,Saturday,January,28,Morning,1,0,1,3
 8174,Eixample,Friday,February,17,Morning,1,0,1,2
 8175,Eixample,Thursday,March,16,Afternoon,1,0,1,2
@@ -7914,7 +7645,6 @@
 8205,Eixample,Monday,March,20,Afternoon,1,0,1,1
 8206,Eixample,Tuesday,January,3,Morning,2,0,2,2
 8207,Eixample,Monday,June,26,Afternoon,2,0,2,2
-8208,Eixample,Tuesday,February,14,Morning,1,0,1,3
 8209,Eixample,Wednesday,May,10,Morning,0,0,0,2
 8210,Eixample,Saturday,May,27,Afternoon,2,0,2,2
 8211,Eixample,Tuesday,November,7,Morning,1,0,1,2
@@ -7957,7 +7687,6 @@
 8249,Eixample,Thursday,August,3,Morning,1,0,1,2
 8250,Eixample,Monday,December,4,Morning,1,0,1,1
 8251,Eixample,Friday,June,16,Morning,1,0,1,2
-8252,Eixample,Monday,May,1,Night,2,0,2,3
 8253,Eixample,Wednesday,November,22,Morning,1,0,1,1
 8254,Eixample,Monday,October,16,Afternoon,2,0,2,3
 8255,Eixample,Saturday,October,28,Morning,1,0,1,1
@@ -8059,7 +7788,6 @@
 8355,Sants-Montjuïc,Wednesday,March,22,Morning,1,0,1,1
 8356,Sants-Montjuïc,Tuesday,May,9,Night,0,0,0,1
 8357,Sants-Montjuïc,Monday,February,20,Afternoon,1,0,1,2
-8358,Sants-Montjuïc,Friday,June,2,Morning,1,0,1,2
 8359,Sants-Montjuïc,Friday,January,27,Afternoon,1,0,1,2
 8360,Sants-Montjuïc,Tuesday,September,12,Morning,1,0,1,2
 8361,Sants-Montjuïc,Tuesday,June,20,Morning,1,0,1,1
@@ -8095,7 +7823,6 @@
 8391,Sants-Montjuïc,Sunday,January,8,Morning,2,0,2,2
 8392,Sants-Montjuïc,Tuesday,January,17,Afternoon,1,0,1,2
 8393,Sants-Montjuïc,Wednesday,May,24,Morning,1,0,1,2
-8394,Sants-Montjuïc,Saturday,June,3,Morning,1,0,1,3
 8395,Sants-Montjuïc,Tuesday,February,28,Afternoon,1,0,1,2
 8396,Sants-Montjuïc,Tuesday,October,3,Morning,2,0,2,2
 8397,Sants-Montjuïc,Thursday,April,20,Afternoon,1,0,1,2
@@ -8128,8 +7855,6 @@
 8424,Sants-Montjuïc,Wednesday,January,18,Afternoon,1,0,1,2
 8425,Sants-Montjuïc,Thursday,June,15,Afternoon,1,0,1,1
 8426,Sants-Montjuïc,Friday,November,24,Morning,1,0,1,2
-8427,Sants-Montjuïc,Sunday,April,30,Morning,1,0,1,2
-8428,Sants-Montjuïc,Sunday,June,4,Afternoon,2,0,2,2
 8429,Sants-Montjuïc,Sunday,April,9,Morning,1,0,1,2
 8430,Sants-Montjuïc,Friday,August,18,Morning,2,0,2,2
 8431,Sants-Montjuïc,Saturday,March,18,Afternoon,2,0,2,3
@@ -8178,7 +7903,6 @@
 8474,Sants-Montjuïc,Monday,July,3,Night,2,0,2,2
 8475,Sants-Montjuïc,Sunday,October,8,Morning,0,0,0,1
 8476,Sants-Montjuïc,Saturday,August,26,Afternoon,2,0,2,2
-8477,Sants-Montjuïc,Friday,June,2,Afternoon,0,0,0,2
 8478,Sants-Montjuïc,Wednesday,November,22,Morning,1,0,1,2
 8479,Sants-Montjuïc,Monday,July,17,Afternoon,1,0,1,2
 8480,Sants-Montjuïc,Friday,October,20,Morning,1,0,1,1
@@ -8283,7 +8007,6 @@
 8584,Sarrià-Sant Gervasi,Sunday,April,2,Night,0,0,0,3
 8585,Sarrià-Sant Gervasi,Wednesday,March,1,Morning,2,0,2,2
 8586,Sarrià-Sant Gervasi,Thursday,January,12,Afternoon,1,0,1,1
-8587,Sarrià-Sant Gervasi,Sunday,April,30,Night,1,0,1,2
 8588,Sarrià-Sant Gervasi,Thursday,January,19,Morning,3,0,3,2
 8589,Sarrià-Sant Gervasi,Monday,March,13,Afternoon,1,0,1,1
 8590,Sarrià-Sant Gervasi,Wednesday,March,1,Afternoon,1,0,1,2
@@ -8291,7 +8014,6 @@
 8592,Sarrià-Sant Gervasi,Wednesday,December,27,Night,1,0,1,2
 8594,Sarrià-Sant Gervasi,Saturday,November,4,Morning,1,0,1,2
 8595,Sarrià-Sant Gervasi,Tuesday,December,5,Morning,1,0,1,2
-8596,Sarrià-Sant Gervasi,Friday,June,2,Morning,1,0,1,2
 8597,Sarrià-Sant Gervasi,Wednesday,December,13,Afternoon,1,0,1,2
 8598,Sarrià-Sant Gervasi,Wednesday,December,13,Afternoon,1,0,1,2
 8599,Sarrià-Sant Gervasi,Tuesday,October,31,Afternoon,1,0,1,2
@@ -8364,7 +8086,6 @@
 8672,Sarrià-Sant Gervasi,Wednesday,October,25,Afternoon,1,0,1,2
 8673,Sarrià-Sant Gervasi,Monday,June,19,Afternoon,1,0,1,2
 8674,Sarrià-Sant Gervasi,Saturday,October,14,Morning,1,0,1,2
-8675,Sarrià-Sant Gervasi,Friday,June,2,Morning,1,0,1,2
 8676,Sarrià-Sant Gervasi,Thursday,April,27,Morning,1,0,1,2
 8677,Sarrià-Sant Gervasi,Friday,February,3,Morning,0,0,0,1
 8678,Sarrià-Sant Gervasi,Tuesday,May,2,Morning,1,1,2,1
@@ -8381,7 +8102,6 @@
 8689,Sarrià-Sant Gervasi,Monday,June,12,Afternoon,1,0,1,2
 8690,Sarrià-Sant Gervasi,Tuesday,May,9,Afternoon,1,0,1,2
 8691,Sarrià-Sant Gervasi,Friday,September,15,Afternoon,1,0,1,2
-8692,Sarrià-Sant Gervasi,Tuesday,February,14,Afternoon,0,0,0,2
 8693,Sarrià-Sant Gervasi,Monday,September,18,Afternoon,1,0,1,2
 8694,Sarrià-Sant Gervasi,Friday,August,11,Afternoon,1,0,1,2
 8695,Sarrià-Sant Gervasi,Monday,November,20,Morning,1,0,1,2
@@ -8412,7 +8132,6 @@
 8720,Sarrià-Sant Gervasi,Monday,December,18,Morning,1,0,1,1
 8721,Sarrià-Sant Gervasi,Sunday,May,7,Morning,1,0,1,2
 8722,Sarrià-Sant Gervasi,Saturday,March,25,Morning,0,0,0,1
-8723,Gràcia,Friday,June,2,Morning,1,0,1,2
 8724,Gràcia,Wednesday,February,8,Afternoon,1,0,1,2
 8725,Gràcia,Thursday,May,11,Afternoon,1,0,1,2
 8726,Gràcia,Thursday,June,29,Night,2,0,2,1
@@ -8480,7 +8199,6 @@
 8791,Gràcia,Thursday,June,1,Morning,2,0,2,1
 8792,Horta-Guinardó,Tuesday,March,21,Morning,1,0,1,2
 8793,Horta-Guinardó,Monday,August,28,Night,1,0,1,1
-8794,Horta-Guinardó,Tuesday,December,26,Night,0,0,0,1
 8795,Horta-Guinardó,Friday,June,30,Afternoon,1,0,1,1
 8796,Horta-Guinardó,Sunday,July,23,Night,1,0,1,1
 8797,Horta-Guinardó,Saturday,March,18,Night,1,0,1,2
@@ -8609,7 +8327,6 @@
 8921,Nou Barris,Thursday,April,27,Morning,1,0,1,2
 8922,Nou Barris,Wednesday,November,29,Afternoon,2,0,2,2
 8923,Nou Barris,Sunday,July,2,Afternoon,5,0,5,2
-8924,Nou Barris,Saturday,June,3,Morning,2,0,2,2
 8925,Nou Barris,Tuesday,August,22,Morning,2,0,2,3
 8926,Nou Barris,Monday,January,2,Afternoon,1,0,1,2
 8927,Nou Barris,Thursday,June,22,Morning,1,0,1,2
@@ -8631,7 +8348,6 @@
 8943,Nou Barris,Monday,March,27,Morning,1,0,1,1
 8944,Nou Barris,Friday,June,9,Afternoon,1,0,1,2
 8945,Nou Barris,Saturday,August,12,Night,1,0,1,2
-8946,Nou Barris,Saturday,January,7,Night,1,0,1,2
 8947,Nou Barris,Sunday,December,17,Afternoon,1,0,1,2
 8948,Nou Barris,Wednesday,December,13,Morning,1,0,1,3
 8949,Nou Barris,Monday,August,28,Morning,2,0,2,2
@@ -8641,7 +8357,6 @@
 8953,Nou Barris,Friday,May,5,Morning,1,0,1,1
 8955,Nou Barris,Tuesday,October,31,Afternoon,0,1,1,1
 8956,Nou Barris,Thursday,June,8,Afternoon,0,1,1,2
-8957,Nou Barris,Saturday,January,7,Night,3,0,3,2
 8958,Nou Barris,Friday,May,12,Afternoon,1,0,1,2
 8959,Nou Barris,Friday,August,25,Morning,0,0,0,2
 8960,Nou Barris,Wednesday,January,18,Morning,1,0,1,3
@@ -8701,11 +8416,8 @@
 9014,Sant Andreu,Thursday,August,31,Afternoon,2,0,2,3
 9015,Sant Andreu,Saturday,March,25,Afternoon,2,0,2,1
 9016,Sant Andreu,Tuesday,November,21,Morning,1,0,1,2
-9017,Sant Andreu,Saturday,April,29,Morning,1,0,1,2
-9018,Sant Andreu,Tuesday,August,15,Morning,1,0,1,2
 9019,Sant Andreu,Tuesday,July,11,Morning,1,0,1,2
 9020,Sant Andreu,Thursday,August,10,Afternoon,1,0,1,2
-9021,Sant Andreu,Tuesday,December,26,Afternoon,1,0,1,1
 9022,Sant Andreu,Tuesday,July,18,Afternoon,2,0,2,2
 9023,Sant Andreu,Friday,June,30,Morning,2,0,2,2
 9024,Sant Andreu,Monday,February,6,Morning,2,0,2,2
@@ -8761,12 +8473,10 @@
 9075,Sant Martí,Sunday,July,23,Morning,2,0,2,3
 9076,Sant Martí,Tuesday,February,7,Afternoon,2,0,2,2
 9077,Sant Martí,Wednesday,May,3,Night,1,0,1,2
-9078,Sant Martí,Friday,June,2,Morning,1,0,1,2
 9079,Sant Martí,Wednesday,March,29,Afternoon,1,0,1,1
 9080,Sant Martí,Thursday,April,6,Afternoon,1,0,1,2
 9081,Sant Martí,Wednesday,March,8,Afternoon,1,0,1,2
 9082,Sant Martí,Friday,February,3,Afternoon,1,0,1,2
-9083,Sant Martí,Sunday,April,30,Night,1,0,1,2
 9084,Sant Martí,Friday,August,4,Night,2,1,3,2
 9085,Sant Martí,Thursday,April,6,Afternoon,1,0,1,2
 9086,Sant Martí,Sunday,June,25,Morning,1,0,1,2
@@ -8798,7 +8508,6 @@
 9112,Sant Martí,Friday,December,15,Afternoon,1,0,1,1
 9113,Sant Martí,Friday,August,4,Night,1,0,1,2
 9114,Sant Martí,Thursday,January,5,Morning,2,0,2,2
-9115,Sant Martí,Friday,June,2,Afternoon,1,0,1,2
 9116,Sant Martí,Friday,December,1,Afternoon,1,0,1,2
 9117,Sant Martí,Thursday,September,7,Afternoon,0,0,0,2
 9118,Sant Martí,Thursday,March,2,Afternoon,1,0,1,2
@@ -8907,7 +8616,6 @@
 9231,Sant Martí,Sunday,December,10,Morning,0,0,0,1
 9232,Sant Martí,Tuesday,October,10,Morning,1,0,1,2
 9233,Sant Martí,Monday,April,3,Afternoon,1,0,1,2
-9234,Sant Martí,Thursday,October,12,Afternoon,1,0,1,1
 9235,Sant Martí,Wednesday,October,25,Afternoon,1,0,1,2
 9236,Ciutat Vella,Sunday,May,21,Night,1,0,1,1
 9237,Sant Martí,Wednesday,August,9,Afternoon,2,0,2,1
@@ -8932,7 +8640,6 @@
 9259,Ciutat Vella,Thursday,April,6,Afternoon,2,0,2,1
 9260,Ciutat Vella,Sunday,February,5,Morning,1,0,1,2
 9261,Ciutat Vella,Thursday,June,22,Afternoon,1,0,1,3
-9262,Ciutat Vella,Saturday,April,29,Night,1,0,1,1
 9263,Ciutat Vella,Friday,February,24,Morning,1,0,1,1
 9264,Ciutat Vella,Wednesday,January,25,Afternoon,1,0,1,2
 9265,Ciutat Vella,Friday,December,1,Morning,1,0,1,3
@@ -8961,7 +8668,6 @@
 9288,Ciutat Vella,Wednesday,September,27,Afternoon,1,0,1,3
 9289,Ciutat Vella,Saturday,September,2,Afternoon,1,0,1,2
 9290,Ciutat Vella,Sunday,October,15,Afternoon,1,0,1,2
-9291,Ciutat Vella,Friday,April,28,Afternoon,1,0,1,2
 9292,Ciutat Vella,Sunday,February,12,Afternoon,1,0,1,2
 9293,Ciutat Vella,Thursday,March,23,Afternoon,2,0,2,2
 9294,Ciutat Vella,Thursday,March,23,Afternoon,1,0,1,2
@@ -8975,7 +8681,6 @@
 9302,Ciutat Vella,Friday,August,4,Morning,0,0,0,1
 9303,Ciutat Vella,Wednesday,November,15,Night,1,0,1,2
 9304,Ciutat Vella,Sunday,May,28,Afternoon,1,0,1,2
-9305,Ciutat Vella,Friday,April,28,Afternoon,1,0,1,2
 9306,Ciutat Vella,Tuesday,September,26,Morning,1,0,1,2
 9307,Ciutat Vella,Monday,April,10,Morning,1,0,1,1
 9308,Eixample,Monday,November,27,Afternoon,1,0,1,1
@@ -9010,7 +8715,6 @@
 9338,Eixample,Sunday,July,23,Morning,1,0,1,2
 9339,Eixample,Saturday,November,18,Night,5,0,5,5
 9340,Eixample,Tuesday,May,2,Morning,1,0,1,2
-9341,Eixample,Tuesday,February,14,Afternoon,1,0,1,2
 9342,Eixample,Thursday,February,9,Morning,1,0,1,2
 9343,Eixample,Tuesday,December,12,Afternoon,1,0,1,4
 9344,Eixample,Thursday,July,6,Night,0,0,0,2
@@ -9022,7 +8726,6 @@
 9350,Eixample,Wednesday,November,22,Afternoon,1,0,1,2
 9351,Eixample,Friday,May,26,Afternoon,1,0,1,2
 9352,Eixample,Wednesday,August,2,Afternoon,1,0,1,2
-9353,Eixample,Thursday,October,12,Afternoon,3,0,3,3
 9354,Eixample,Tuesday,June,27,Afternoon,4,0,4,3
 9355,Eixample,Wednesday,November,22,Morning,1,0,1,2
 9356,Eixample,Tuesday,March,21,Afternoon,1,0,1,2
@@ -9045,20 +8748,17 @@
 9373,Eixample,Tuesday,February,7,Night,1,0,1,2
 9374,Eixample,Saturday,September,2,Night,2,0,2,2
 9375,Eixample,Friday,June,30,Morning,1,0,1,2
-9377,Eixample,Friday,April,28,Afternoon,2,0,2,1
 9378,Eixample,Wednesday,July,26,Night,1,0,1,2
 9379,Eixample,Tuesday,June,6,Afternoon,1,0,1,1
 9380,Eixample,Tuesday,September,19,Afternoon,0,0,1,1
 9381,Eixample,Thursday,March,16,Afternoon,2,0,2,1
 9382,Eixample,Friday,December,1,Morning,1,0,1,2
 9383,Eixample,Saturday,October,28,Night,2,0,3,2
-9384,Eixample,Sunday,June,4,Morning,1,0,1,1
 9385,Eixample,Thursday,August,24,Afternoon,2,0,2,2
 9386,Eixample,Friday,August,4,Morning,5,0,5,2
 9387,Eixample,Monday,July,17,Afternoon,1,0,1,2
 9388,Eixample,Thursday,March,9,Afternoon,1,0,1,1
 9389,Eixample,Friday,January,13,Morning,1,0,1,1
-9390,Eixample,Tuesday,February,14,Afternoon,1,0,1,2
 9391,Eixample,Friday,November,24,Afternoon,1,0,1,2
 9392,Eixample,Thursday,August,10,Afternoon,1,0,1,2
 9393,Eixample,Wednesday,October,4,Morning,0,0,0,2
@@ -9093,7 +8793,6 @@
 9423,Eixample,Thursday,May,4,Morning,1,0,1,3
 9424,Eixample,Friday,March,31,Morning,1,0,1,2
 9425,Eixample,Wednesday,May,17,Afternoon,3,0,3,1
-9426,Eixample,Saturday,June,3,Afternoon,0,0,0,4
 9427,Eixample,Tuesday,March,7,Morning,1,0,1,2
 9428,Eixample,Wednesday,November,29,Afternoon,0,0,0,7
 9429,Eixample,Monday,February,20,Afternoon,1,0,1,2
@@ -9117,7 +8816,6 @@
 9447,Eixample,Tuesday,February,21,Afternoon,1,0,1,2
 9448,Eixample,Tuesday,March,7,Afternoon,2,0,2,2
 9449,Eixample,Saturday,June,10,Morning,1,0,1,2
-9450,Eixample,Tuesday,February,14,Morning,1,0,1,2
 9451,Eixample,Tuesday,July,25,Afternoon,1,0,1,2
 9452,Eixample,Tuesday,May,30,Afternoon,2,0,2,2
 9453,Eixample,Monday,October,23,Afternoon,1,0,1,2
@@ -9175,7 +8873,6 @@
 9506,Eixample,Tuesday,January,31,Morning,0,1,1,1
 9507,Eixample,Tuesday,September,19,Morning,1,0,1,2
 9508,Eixample,Friday,February,17,Afternoon,1,0,1,1
-9509,Eixample,Saturday,June,3,Afternoon,1,0,1,2
 9511,Eixample,Wednesday,September,6,Afternoon,1,0,1,2
 9512,Eixample,Saturday,December,23,Afternoon,1,0,1,2
 9513,Eixample,Friday,December,15,Morning,1,0,1,1
@@ -9200,7 +8897,6 @@
 9532,Eixample,Monday,December,18,Morning,1,0,1,1
 9533,Eixample,Thursday,January,26,Night,1,0,1,2
 9534,Eixample,Monday,May,29,Morning,1,0,1,2
-9535,Eixample,Sunday,June,4,Morning,2,0,2,1
 9536,Eixample,Friday,July,28,Morning,1,0,1,5
 9537,Eixample,Friday,February,24,Afternoon,1,0,1,2
 9538,Eixample,Tuesday,June,6,Morning,4,0,4,1
@@ -9218,7 +8914,6 @@
 9550,Eixample,Saturday,October,7,Morning,2,0,2,2
 9551,Eixample,Friday,March,10,Morning,1,0,1,2
 9552,Eixample,Thursday,January,19,Night,2,0,2,2
-9553,Eixample,Saturday,January,7,Afternoon,1,0,1,1
 9554,Eixample,Monday,May,8,Morning,1,0,1,2
 9555,Eixample,Sunday,March,5,Night,1,0,1,3
 9556,Eixample,Saturday,April,22,Morning,1,0,1,1
@@ -9241,7 +8936,6 @@
 9574,Eixample,Sunday,May,14,Night,2,0,2,1
 9575,Eixample,Saturday,April,1,Night,1,0,1,2
 9576,Eixample,Thursday,May,11,Afternoon,1,0,1,2
-9577,Eixample,Tuesday,February,14,Morning,1,0,1,2
 9578,Eixample,Friday,May,12,Afternoon,1,0,1,2
 9579,Eixample,Wednesday,January,4,Morning,0,1,1,2
 9580,Eixample,Monday,February,27,Afternoon,1,0,1,2
@@ -9323,7 +9017,6 @@
 9659,Eixample,Thursday,April,20,Afternoon,1,0,1,2
 9660,Eixample,Thursday,June,15,Morning,1,0,1,2
 9661,Eixample,Saturday,October,21,Morning,1,0,1,1
-9662,Eixample,Saturday,April,29,Night,1,1,2,3
 9663,Eixample,Sunday,April,2,Night,2,0,2,2
 9664,Eixample,Sunday,July,2,Morning,0,0,0,10
 9665,Eixample,Wednesday,December,27,Afternoon,2,0,2,2
@@ -9370,7 +9063,6 @@
 9708,Sants-Montjuïc,Tuesday,August,1,Night,1,0,1,1
 9709,Sants-Montjuïc,Monday,May,15,Afternoon,0,0,0,2
 9710,Sants-Montjuïc,Thursday,September,28,Afternoon,1,0,1,2
-9711,Sants-Montjuïc,Friday,June,2,Afternoon,1,0,1,2
 9712,Sants-Montjuïc,Friday,February,24,Morning,0,0,0,2
 9713,Sants-Montjuïc,Sunday,October,22,Morning,1,0,1,1
 9714,Sants-Montjuïc,Thursday,August,31,Morning,2,0,2,3
@@ -9388,7 +9080,6 @@
 9726,Sants-Montjuïc,Wednesday,March,29,Afternoon,1,0,1,2
 9727,Sants-Montjuïc,Wednesday,February,1,Night,2,0,2,2
 9728,Sants-Montjuïc,Friday,May,19,Morning,1,0,1,2
-9729,Sants-Montjuïc,Sunday,June,4,Afternoon,0,0,0,2
 9730,Sants-Montjuïc,Thursday,January,12,Afternoon,2,0,2,1
 9731,Sants-Montjuïc,Tuesday,May,16,Morning,1,0,1,2
 9732,Sants-Montjuïc,Monday,June,26,Afternoon,1,0,1,3
@@ -9494,7 +9185,6 @@
 9835,Les Corts,Wednesday,August,2,Afternoon,2,0,2,2
 9836,Les Corts,Friday,May,19,Afternoon,1,0,1,2
 9837,Les Corts,Wednesday,October,4,Night,1,0,1,2
-9838,Les Corts,Thursday,October,12,Afternoon,1,0,1,2
 9839,Les Corts,Monday,April,10,Afternoon,1,0,1,2
 9840,Les Corts,Friday,July,21,Afternoon,2,0,2,1
 9841,Les Corts,Tuesday,December,12,Afternoon,1,0,1,2
@@ -9502,7 +9192,6 @@
 9843,Les Corts,Saturday,November,18,Afternoon,1,0,1,2
 9844,Les Corts,Tuesday,March,28,Afternoon,1,0,1,2
 9845,Les Corts,Wednesday,November,8,Morning,2,0,2,2
-9846,Les Corts,Saturday,January,7,Morning,4,0,4,2
 9848,Les Corts,Wednesday,October,11,Afternoon,1,0,1,2
 9849,Les Corts,Sunday,July,30,Afternoon,1,0,1,1
 9850,Les Corts,Monday,July,10,Morning,1,0,1,2
@@ -9511,7 +9200,6 @@
 9853,Les Corts,Tuesday,June,20,Afternoon,1,0,1,2
 9854,Les Corts,Thursday,November,23,Afternoon,1,0,1,2
 9855,Les Corts,Wednesday,March,29,Night,2,0,2,2
-9856,Les Corts,Sunday,April,30,Morning,1,0,1,2
 9857,Les Corts,Friday,May,19,Morning,0,0,0,2
 9858,Les Corts,Monday,December,4,Afternoon,1,0,1,2
 9859,Les Corts,Wednesday,January,18,Morning,1,0,1,2
@@ -9542,7 +9230,6 @@
 9884,Les Corts,Saturday,February,4,Afternoon,1,0,1,1
 9885,Les Corts,Monday,January,16,Afternoon,1,0,1,2
 9886,Les Corts,Tuesday,September,19,Morning,1,0,1,2
-9887,Les Corts,Sunday,June,4,Morning,3,4,7,2
 9888,Les Corts,Monday,July,3,Night,0,1,1,1
 9889,Les Corts,Monday,June,12,Morning,1,0,1,1
 9890,Les Corts,Thursday,February,2,Afternoon,1,0,1,1
@@ -9556,7 +9243,6 @@
 9899,Les Corts,Saturday,November,11,Afternoon,1,0,1,2
 9900,Les Corts,Friday,November,10,Afternoon,3,0,3,2
 9901,Les Corts,Monday,May,15,Afternoon,1,0,1,2
-9902,Les Corts,Tuesday,February,14,Morning,1,0,1,2
 9903,Les Corts,Thursday,November,9,Morning,2,0,2,2
 9904,Les Corts,Saturday,March,11,Night,0,0,0,5
 9905,Les Corts,Saturday,January,14,Morning,1,0,1,2
@@ -9567,8 +9253,6 @@
 9910,Les Corts,Tuesday,April,18,Morning,0,0,0,1
 9911,Sarrià-Sant Gervasi,Thursday,July,6,Afternoon,2,0,2,1
 9912,Sarrià-Sant Gervasi,Monday,August,28,Afternoon,1,0,1,2
-9913,Sarrià-Sant Gervasi,Saturday,June,3,Afternoon,0,0,0,2
-9914,Sarrià-Sant Gervasi,Tuesday,February,14,Afternoon,1,0,1,2
 9915,Sarrià-Sant Gervasi,Tuesday,April,18,Afternoon,1,0,1,2
 9916,Sarrià-Sant Gervasi,Thursday,November,16,Morning,1,0,1,2
 9917,Sarrià-Sant Gervasi,Wednesday,August,2,Night,1,0,1,6
@@ -9636,7 +9320,6 @@
 9980,Sarrià-Sant Gervasi,Thursday,March,23,Night,1,0,1,2
 9981,Sarrià-Sant Gervasi,Tuesday,January,3,Afternoon,1,0,1,2
 9982,Sarrià-Sant Gervasi,Monday,December,18,Afternoon,3,0,3,4
-9983,Sarrià-Sant Gervasi,Thursday,October,12,Afternoon,1,0,1,2
 9984,Sarrià-Sant Gervasi,Thursday,February,16,Morning,1,0,1,2
 9985,Sarrià-Sant Gervasi,Friday,July,21,Afternoon,2,0,2,2
 9986,Sarrià-Sant Gervasi,Monday,January,16,Afternoon,1,0,1,2
@@ -9651,8 +9334,6 @@
 9996,Sarrià-Sant Gervasi,Sunday,November,19,Afternoon,2,0,2,2
 9997,Sarrià-Sant Gervasi,Thursday,September,7,Afternoon,1,0,1,2
 9998,Sarrià-Sant Gervasi,Tuesday,February,28,Afternoon,1,0,1,2
-9999,Sarrià-Sant Gervasi,Saturday,April,29,Afternoon,1,0,1,2
-10000,Sarrià-Sant Gervasi,Saturday,January,7,Morning,1,0,1,2
 10001,Sarrià-Sant Gervasi,Thursday,March,2,Afternoon,1,0,1,2
 10002,Sarrià-Sant Gervasi,Sunday,October,1,Afternoon,1,0,1,1
 10003,Sarrià-Sant Gervasi,Wednesday,January,11,Afternoon,1,0,1,2
@@ -9681,7 +9362,6 @@
 10028,Sarrià-Sant Gervasi,Wednesday,July,12,Night,1,0,1,2
 10029,Sarrià-Sant Gervasi,Sunday,January,29,Afternoon,1,0,1,2
 10030,Sarrià-Sant Gervasi,Friday,August,11,Afternoon,1,0,1,2
-10031,Sarrià-Sant Gervasi,Saturday,June,3,Afternoon,1,0,1,2
 10032,Sarrià-Sant Gervasi,Thursday,June,29,Afternoon,1,0,1,2
 10033,Sarrià-Sant Gervasi,Thursday,November,9,Morning,1,0,1,2
 10034,Sarrià-Sant Gervasi,Thursday,May,4,Morning,2,0,2,2
@@ -9699,7 +9379,6 @@
 10046,Gràcia,Tuesday,October,24,Morning,0,0,0,1
 10047,Gràcia,Wednesday,May,24,Night,0,0,0,1
 10048,Gràcia,Friday,July,7,Morning,1,0,1,2
-10049,Sarrià-Sant Gervasi,Friday,June,2,Morning,0,0,0,1
 10050,Gràcia,Sunday,July,16,Morning,1,0,1,2
 10051,Gràcia,Wednesday,January,25,Morning,1,0,1,2
 10052,Gràcia,Wednesday,June,28,Morning,1,0,1,2
@@ -9727,7 +9406,6 @@
 10074,Gràcia,Thursday,April,27,Afternoon,1,0,1,2
 10075,Gràcia,Monday,September,4,Afternoon,0,0,0,2
 10076,Gràcia,Wednesday,June,14,Morning,0,0,0,2
-10077,Gràcia,Monday,May,1,Afternoon,1,0,1,2
 10078,Gràcia,Wednesday,March,15,Morning,1,0,1,1
 10079,Gràcia,Tuesday,May,23,Morning,1,0,1,2
 10080,Gràcia,Monday,January,2,Afternoon,2,0,2,2
@@ -9749,7 +9427,6 @@
 10096,Gràcia,Thursday,September,14,Afternoon,1,0,1,1
 10097,Horta-Guinardó,Thursday,September,28,Morning,2,0,2,2
 10098,Gràcia,Saturday,June,17,Afternoon,1,0,1,1
-10099,Gràcia,Tuesday,December,26,Afternoon,0,0,0,1
 10100,Gràcia,Thursday,March,16,Afternoon,1,0,1,2
 10101,Horta-Guinardó,Thursday,June,22,Afternoon,1,0,1,2
 10102,Horta-Guinardó,Wednesday,June,7,Night,1,0,1,5
@@ -9760,7 +9437,6 @@
 10108,Gràcia,Saturday,March,25,Afternoon,1,0,1,2
 10109,Gràcia,Sunday,November,5,Night,1,0,1,2
 10110,Gràcia,Thursday,August,17,Night,0,2,2,2
-10111,Gràcia,Wednesday,November,1,Afternoon,1,0,1,2
 10112,Horta-Guinardó,Tuesday,January,3,Afternoon,1,0,1,1
 10113,Horta-Guinardó,Saturday,July,15,Morning,1,0,1,1
 10114,Horta-Guinardó,Sunday,October,22,Night,0,0,0,1
@@ -9791,7 +9467,6 @@
 10140,Horta-Guinardó,Thursday,October,26,Night,1,0,1,2
 10141,Horta-Guinardó,Monday,December,18,Night,2,0,2,1
 10142,Horta-Guinardó,Monday,July,17,Morning,2,0,2,3
-10143,Horta-Guinardó,Tuesday,December,26,Morning,0,0,0,2
 10144,Horta-Guinardó,Friday,July,7,Morning,1,0,1,1
 10145,Horta-Guinardó,Saturday,November,11,Afternoon,1,0,1,1
 10146,Horta-Guinardó,Sunday,October,15,Morning,2,0,2,3
@@ -9814,16 +9489,13 @@
 10163,Horta-Guinardó,Saturday,March,18,Night,3,0,3,2
 10164,Horta-Guinardó,Wednesday,July,5,Morning,1,0,1,1
 10165,Horta-Guinardó,Friday,October,27,Morning,1,0,1,1
-10166,Horta-Guinardó,Tuesday,February,14,Afternoon,0,0,0,1
 10167,Horta-Guinardó,Tuesday,May,2,Afternoon,0,0,0,1
-10168,Horta-Guinardó,Sunday,April,30,Afternoon,1,0,1,2
 10169,Horta-Guinardó,Wednesday,October,18,Morning,1,0,1,2
 10170,Horta-Guinardó,Wednesday,August,30,Morning,1,0,1,1
 10171,Horta-Guinardó,Wednesday,February,1,Afternoon,1,0,1,2
 10172,Horta-Guinardó,Sunday,September,17,Morning,1,0,1,1
 10173,Horta-Guinardó,Wednesday,August,30,Afternoon,1,0,1,1
 10174,Horta-Guinardó,Thursday,January,19,Afternoon,1,0,1,2
-10175,Horta-Guinardó,Tuesday,February,14,Morning,2,0,2,2
 10176,Horta-Guinardó,Thursday,May,4,Morning,1,0,1,1
 10177,Horta-Guinardó,Tuesday,December,5,Morning,1,0,1,2
 10178,Horta-Guinardó,Thursday,January,19,Afternoon,1,0,1,1
@@ -9831,7 +9503,6 @@
 10180,Horta-Guinardó,Tuesday,February,7,Afternoon,1,0,1,1
 10181,Horta-Guinardó,Monday,November,13,Morning,1,0,1,2
 10182,Horta-Guinardó,Monday,November,6,Afternoon,1,0,1,1
-10183,Horta-Guinardó,Friday,June,2,Afternoon,1,0,1,2
 10184,Horta-Guinardó,Saturday,November,4,Afternoon,0,0,0,2
 10185,Horta-Guinardó,Monday,December,11,Afternoon,1,0,1,2
 10186,Horta-Guinardó,Friday,May,5,Afternoon,0,0,0,2
@@ -9859,13 +9530,11 @@
 10208,Nou Barris,Friday,July,14,Afternoon,1,0,1,2
 10209,Nou Barris,Sunday,November,5,Morning,0,0,0,1
 10211,Nou Barris,Thursday,October,5,Morning,1,0,1,2
-10212,Nou Barris,Friday,June,2,Morning,0,1,1,3
 10213,Nou Barris,Wednesday,September,13,Afternoon,2,0,2,2
 10214,Nou Barris,Wednesday,July,5,Morning,1,0,1,2
 10215,Nou Barris,Tuesday,January,3,Morning,1,0,1,2
 10216,Nou Barris,Sunday,July,16,Afternoon,0,2,2,1
 10217,Nou Barris,Thursday,May,25,Morning,1,0,1,4
-10218,Nou Barris,Wednesday,November,1,Morning,1,0,1,2
 10219,Nou Barris,Thursday,November,16,Morning,1,0,1,2
 10220,Nou Barris,Monday,December,4,Morning,2,0,2,5
 10221,Nou Barris,Wednesday,April,26,Night,3,0,3,3
@@ -9953,7 +9622,6 @@
 10306,Sant Andreu,Monday,October,23,Night,1,0,1,1
 10307,Sant Andreu,Thursday,December,21,Afternoon,2,0,2,2
 10308,Sant Andreu,Tuesday,April,25,Afternoon,1,0,1,2
-10309,Sant Andreu,Tuesday,December,26,Afternoon,1,0,1,2
 10310,Sant Andreu,Friday,May,26,Morning,2,0,2,2
 10311,Sant Andreu,Monday,August,14,Afternoon,1,0,1,2
 10312,Sant Andreu,Monday,April,10,Morning,1,0,1,2
