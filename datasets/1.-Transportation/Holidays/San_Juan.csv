@@ -1,0 +1,39 @@
+,Unnamed: 0,Unnamed: 0.1,District Name,Weekday,Month,Day,Part of the day,Mild injuries,Serious injuries,Victims,Vehicles involved,Date
+0,0,0,Ciutat Vella,Friday,June,23,Night,1,0,1,1,June 23
+1,1,1,Eixample,Friday,June,23,Morning,1,0,1,2,June 23
+2,2,2,Eixample,Friday,June,23,Morning,1,0,1,2,June 23
+3,3,3,Eixample,Friday,June,23,Afternoon,1,0,1,2,June 23
+4,4,4,Sants-Montjuïc,Friday,June,23,Afternoon,2,0,2,1,June 23
+5,5,5,Les Corts,Friday,June,23,Afternoon,1,0,1,2,June 23
+6,6,6,Les Corts,Friday,June,23,Afternoon,1,0,1,3,June 23
+7,7,7,Nou Barris,Saturday,June,24,Afternoon,1,0,1,2,June 24
+8,8,8,Eixample,Friday,June,23,Morning,1,0,1,2,June 23
+9,9,9,Eixample,Friday,June,23,Afternoon,1,0,1,2,June 23
+10,10,10,Eixample,Friday,June,23,Morning,1,0,1,2,June 23
+11,11,11,Eixample,Saturday,June,24,Night,1,0,1,2,June 24
+12,12,12,Sant Andreu,Friday,June,23,Night,1,0,1,2,June 23
+13,13,13,Sant Andreu,Friday,June,23,Afternoon,1,0,1,2,June 23
+14,14,14,Sant Andreu,Friday,June,23,Afternoon,1,0,1,2,June 23
+15,15,15,Sant Martí,Friday,June,23,Night,1,0,1,1,June 23
+16,16,16,Eixample,Friday,June,23,Afternoon,1,0,1,2,June 23
+17,17,17,Eixample,Friday,June,23,Afternoon,0,0,0,2,June 23
+18,18,18,Eixample,Friday,June,23,Morning,1,0,1,1,June 23
+19,19,19,Eixample,Friday,June,23,Night,0,0,0,1,June 23
+20,20,20,Eixample,Friday,June,23,Morning,1,0,1,1,June 23
+21,21,21,Sant Andreu,Friday,June,23,Morning,1,0,1,2,June 23
+22,22,22,Ciutat Vella,Saturday,June,24,Night,0,0,0,1,June 24
+23,23,23,Les Corts,Friday,June,23,Morning,1,0,1,2,June 23
+24,24,24,Horta-Guinardó,Friday,June,23,Afternoon,2,0,2,4,June 23
+25,25,25,Ciutat Vella,Friday,June,23,Afternoon,1,0,1,1,June 23
+26,26,26,Sarrià-Sant Gervasi,Friday,June,23,Afternoon,1,0,1,2,June 23
+27,27,27,Eixample,Friday,June,23,Afternoon,1,0,1,2,June 23
+28,28,28,Sants-Montjuïc,Saturday,June,24,Morning,1,0,1,2,June 24
+29,29,29,Sarrià-Sant Gervasi,Friday,June,23,Night,1,0,1,2,June 23
+30,30,30,Sant Martí,Friday,June,23,Afternoon,1,0,1,2,June 23
+31,31,31,Sant Martí,Saturday,June,24,Afternoon,1,0,1,2,June 24
+32,32,32,Ciutat Vella,Saturday,June,24,Afternoon,1,0,1,2,June 24
+33,33,33,Eixample,Saturday,June,24,Afternoon,0,0,0,2,June 24
+34,34,34,Gràcia,Friday,June,23,Afternoon,1,0,1,2,June 23
+35,35,35,Eixample,Friday,June,23,Afternoon,1,0,1,2,June 23
+36,36,36,Sants-Montjuïc,Friday,June,23,Morning,1,0,1,2,June 23
+37,37,37,Sarrià-Sant Gervasi,Saturday,June,24,Night,4,0,4,2,June 24

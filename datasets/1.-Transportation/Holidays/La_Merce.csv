@@ -1,0 +1,96 @@
+,Unnamed: 0,Unnamed: 0.1,District Name,Weekday,Month,Day,Part of the day,Mild injuries,Serious injuries,Victims,Vehicles involved,Date
+38,38,38,Sant Martí,Sunday,September,24,Morning,1,0,1,4,September 24
+39,39,39,Sant Martí,Sunday,September,24,Night,1,0,1,1,September 24
+40,40,40,Ciutat Vella,Monday,September,25,Afternoon,1,0,1,3,September 25
+41,41,41,Eixample,Saturday,September,23,Night,2,0,2,2,September 23
+42,42,42,Eixample,Sunday,September,24,Afternoon,0,0,0,1,September 24
+43,43,43,Eixample,Friday,September,22,Morning,1,0,1,2,September 22
+44,44,44,Sants-Montjuïc,Friday,September,22,Afternoon,2,0,2,2,September 22
+45,45,45,Les Corts,Friday,September,22,Morning,2,0,2,2,September 22
+46,46,46,Gràcia,Sunday,September,24,Afternoon,1,0,1,1,September 24
+47,47,47,Gràcia,Monday,September,25,Afternoon,2,0,2,2,September 25
+48,48,48,Gràcia,Friday,September,22,Afternoon,0,0,0,1,September 22
+49,49,49,Gràcia,Sunday,September,24,Afternoon,1,0,1,2,September 24
+50,50,50,Nou Barris,Monday,September,25,Morning,0,0,0,1,September 25
+51,51,51,Unknown,Sunday,September,24,Morning,2,0,2,2,September 24
+52,52,52,Sant Martí,Friday,September,22,Night,0,0,0,4,September 22
+53,53,53,Sant Martí,Friday,September,22,Night,0,0,0,1,September 22
+54,54,54,Eixample,Friday,September,22,Morning,1,0,1,2,September 22
+55,55,55,Eixample,Sunday,September,24,Morning,1,0,1,2,September 24
+56,56,56,Sants-Montjuïc,Saturday,September,23,Afternoon,4,0,4,6,September 23
+57,57,57,Horta-Guinardó,Friday,September,22,Afternoon,1,0,1,3,September 22
+58,58,58,Nou Barris,Friday,September,22,Afternoon,1,0,1,2,September 22
+59,59,59,Sant Martí,Friday,September,22,Morning,1,0,1,2,September 22
+60,60,60,Ciutat Vella,Monday,September,25,Night,1,0,1,3,September 25
+61,61,61,Ciutat Vella,Saturday,September,23,Afternoon,1,0,1,2,September 23
+62,62,62,Eixample,Monday,September,25,Morning,1,0,1,2,September 25
+63,63,63,Eixample,Sunday,September,24,Night,2,0,2,2,September 24
+64,64,64,Eixample,Sunday,September,24,Night,1,0,1,1,September 24
+65,65,65,Eixample,Friday,September,22,Night,2,0,2,2,September 22
+66,66,66,Sants-Montjuïc,Friday,September,22,Afternoon,2,0,2,2,September 22
+67,67,67,Sants-Montjuïc,Sunday,September,24,Afternoon,1,0,1,2,September 24
+68,68,68,Sants-Montjuïc,Friday,September,22,Afternoon,2,0,2,2,September 22
+69,69,69,Sants-Montjuïc,Monday,September,25,Afternoon,1,0,1,1,September 25
+70,70,70,Sarrià-Sant Gervasi,Friday,September,22,Afternoon,1,0,1,2,September 22
+71,71,71,Eixample,Sunday,September,24,Afternoon,2,0,2,1,September 24
+72,72,72,Eixample,Saturday,September,23,Afternoon,2,0,2,1,September 23
+73,73,73,Eixample,Friday,September,22,Morning,1,0,1,2,September 22
+74,74,74,Eixample,Friday,September,22,Night,0,0,0,1,September 22
+75,75,75,Eixample,Sunday,September,24,Morning,2,0,2,2,September 24
+76,76,76,Les Corts,Saturday,September,23,Morning,1,0,1,3,September 23
+77,77,77,Les Corts,Friday,September,22,Afternoon,2,0,2,2,September 22
+78,78,78,Les Corts,Friday,September,22,Morning,2,0,2,2,September 22
+79,79,79,Nou Barris,Monday,September,25,Morning,1,0,1,2,September 25
+80,80,80,Nou Barris,Sunday,September,24,Afternoon,5,0,5,5,September 24
+81,81,81,Sant Martí,Saturday,September,23,Morning,2,0,2,1,September 23
+82,82,82,Sant Martí,Saturday,September,23,Afternoon,1,0,1,2,September 23
+83,83,83,Sant Martí,Saturday,September,23,Afternoon,1,0,1,2,September 23
+84,84,84,Ciutat Vella,Friday,September,22,Afternoon,2,0,2,2,September 22
+85,85,85,Ciutat Vella,Monday,September,25,Morning,0,0,0,2,September 25
+86,86,86,Eixample,Friday,September,22,Afternoon,1,0,1,2,September 22
+87,87,87,Eixample,Sunday,September,24,Night,1,0,1,1,September 24
+88,88,88,Eixample,Sunday,September,24,Afternoon,1,0,1,2,September 24
+89,89,89,Sarrià-Sant Gervasi,Friday,September,22,Afternoon,1,0,1,2,September 22
+90,90,90,Sarrià-Sant Gervasi,Friday,September,22,Morning,2,0,2,3,September 22
+91,91,91,Horta-Guinardó,Friday,September,22,Afternoon,1,0,1,2,September 22
+92,92,92,Horta-Guinardó,Saturday,September,23,Morning,1,0,1,2,September 23
+93,93,93,Sants-Montjuïc,Saturday,September,23,Morning,2,0,2,2,September 23
+94,94,94,Sants-Montjuïc,Friday,September,22,Afternoon,1,0,1,2,September 22
+95,95,95,Les Corts,Monday,September,25,Afternoon,1,0,1,2,September 25
+96,96,96,Les Corts,Sunday,September,24,Afternoon,1,0,1,2,September 24
+97,97,97,Les Corts,Saturday,September,23,Afternoon,1,0,1,2,September 23
+98,98,98,Les Corts,Sunday,September,24,Night,1,0,1,2,September 24
+99,99,99,Sarrià-Sant Gervasi,Monday,September,25,Morning,2,0,2,1,September 25
+100,100,100,Horta-Guinardó,Saturday,September,23,Afternoon,2,0,2,2,September 23
+101,101,101,Horta-Guinardó,Friday,September,22,Afternoon,1,0,1,2,September 22
+102,102,102,Horta-Guinardó,Sunday,September,24,Morning,1,0,1,1,September 24
+103,103,103,Horta-Guinardó,Friday,September,22,Afternoon,1,0,1,2,September 22
+104,104,104,Horta-Guinardó,Friday,September,22,Afternoon,1,0,1,2,September 22
+105,105,105,Horta-Guinardó,Saturday,September,23,Afternoon,1,0,1,2,September 23
+106,106,106,Nou Barris,Friday,September,22,Morning,2,0,2,5,September 22
+107,107,107,Sant Martí,Friday,September,22,Afternoon,1,0,1,3,September 22
+108,108,108,Sant Martí,Monday,September,25,Afternoon,1,0,1,3,September 25
+109,109,109,Eixample,Monday,September,25,Morning,1,0,1,2,September 25
+110,110,110,Eixample,Friday,September,22,Morning,0,1,1,1,September 22
+111,111,111,Eixample,Sunday,September,24,Afternoon,1,0,1,2,September 24
+112,112,112,Sarrià-Sant Gervasi,Sunday,September,24,Night,1,0,1,2,September 24
+113,113,113,Sarrià-Sant Gervasi,Sunday,September,24,Night,1,0,1,1,September 24
+114,114,114,Sarrià-Sant Gervasi,Saturday,September,23,Afternoon,1,0,1,2,September 23
+115,115,115,Sarrià-Sant Gervasi,Saturday,September,23,Afternoon,2,0,2,1,September 23
+116,116,116,Nou Barris,Friday,September,22,Night,0,0,0,2,September 22
+117,117,117,Sant Martí,Friday,September,22,Morning,1,0,1,1,September 22
+118,118,118,Sant Martí,Saturday,September,23,Night,0,0,0,1,September 23
+119,119,119,Sant Martí,Saturday,September,23,Afternoon,0,0,0,2,September 23
+120,120,120,Sant Martí,Sunday,September,24,Afternoon,1,0,1,3,September 24
+121,121,121,Eixample,Saturday,September,23,Afternoon,2,0,2,3,September 23
+122,122,122,Eixample,Friday,September,22,Afternoon,1,0,1,2,September 22
+123,123,123,Eixample,Friday,September,22,Afternoon,1,0,1,2,September 22
+124,124,124,Eixample,Saturday,September,23,Afternoon,3,0,3,2,September 23
+125,125,125,Eixample,Friday,September,22,Afternoon,1,0,1,2,September 22
+126,126,126,Eixample,Saturday,September,23,Afternoon,1,0,1,1,September 23
+127,127,127,Sants-Montjuïc,Saturday,September,23,Night,1,0,1,3,September 23
+128,128,128,Les Corts,Friday,September,22,Afternoon,1,0,1,2,September 22
+129,129,129,Sarrià-Sant Gervasi,Sunday,September,24,Morning,0,0,0,2,September 24
+130,130,130,Nou Barris,Saturday,September,23,Night,2,0,2,1,September 23
+131,131,131,Nou Barris,Friday,September,22,Night,0,0,0,2,September 22
+132,132,132,Sant Andreu,Monday,September,25,Night,0,0,0,2,September 25
