@@ -1,7 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
+<<<<<<< HEAD
 *[Aine Gates & Víctor López]*
+=======
+*[Aine Gates & Víctor López*
+>>>>>>> 0c2b52bbdc08368809f2ba8dc56cbd3a781170cf
 
 *[DAFT October 2020, Barcelona & 30/10/2020]*
 
@@ -16,6 +20,7 @@
 
 
 ## Project Description
+<<<<<<< HEAD
 Seeing the amount of students with driver licenses and that holidays are pretty close, we wanted to check how dangerous is drive in Barcelona on those days.
 
 The goal of our project was find insights to share with the rest of the class with the aim of keeping everyone safe.
@@ -27,13 +32,30 @@ The questions that we want to answer are the following ones:
   * When do more accidents occur?
   * Which is the most dangerous holiday?
 Before we started checking the data, we thought that Barcelona was more dangerous on holidays, specially in the night. Shall we were correct?
+=======
+
+
+## Questions & Hypotheses
+The questions that we want to answer are the following ones:
+  * 
+>>>>>>> 0c2b52bbdc08368809f2ba8dc56cbd3a781170cf
 What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+The dataset that we used was the original contained on the folder, the **accidents-2017.csv**. From that data, we isolated part of it in different CSV files mentioned above.
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+The structure of our database follows the same structure for both tables created, named **acc-with-hol.csv** and **acc-without-hol.csv**. The structure is the following:
+  * District Name
+  * Weekday
+  * Month
+  * Day
+  * Part of the day
+  * Mild injuries
+  * Serious injuries
+  * Victims
+  * Vehicles Involved
+  * Date
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
