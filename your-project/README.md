@@ -2,6 +2,7 @@
 
 # The danger of driving in Barcelona
 *Aine Gates & Víctor López*
+
 *DAFT October 2020, Barcelona & 30/10/2020*
 
 ## Content
