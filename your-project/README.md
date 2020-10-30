@@ -16,7 +16,8 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+Seeing the amount of students with driver licenses and that holidays are pretty close, we wanted to check how dangerous is drive in Barcelona on those days.
+The goal of our project was find insights to share with the rest of the class with the aim of keeping everyone safe.
 
 ## Questions & Hypotheses
 What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
@@ -38,6 +39,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/agates696/Project-Week-2-Barcelona)  
+[Slides](https://docs.google.com/presentation/d/1Xr-MfL-JKuHftDQ3Wa_5WiYvZ4dkvOmhbYBhuULpFJM/edit?usp=sharing)  
+[Trello](https://trello.com/b/clRY0s73/project-2-barcelona)  
