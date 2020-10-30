@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[Aine Gates & Víctor López*
 
-*[Your Cohort, Campus & Date]*
+*[DAFT October 2020, Barcelona & 30/10/2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,13 +16,15 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+
 
 ## Questions & Hypotheses
+The questions that we want to answer are the following ones:
+  * 
 What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+The dataset that we used was the original contained on the folder, the **accidents-2017.csv**. From that data, we isolated part of it in different CSV files mentioned above.
 
 ## Database
 The structure of our database follows the same structure for both tables created, named **acc-with-hol.csv** and **acc-without-hol.csv**. The structure is the following:
@@ -48,6 +50,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/agates696/Project-Week-2-Barcelona)  
+[Slides](https://docs.google.com/presentation/d/1Xr-MfL-JKuHftDQ3Wa_5WiYvZ4dkvOmhbYBhuULpFJM/edit?usp=sharing)  
+[Trello](https://trello.com/b/clRY0s73/project-2-barcelona)  
