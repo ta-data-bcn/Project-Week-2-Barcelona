@@ -25,7 +25,17 @@ What are the questions you would like to answer with your analysis? What did you
 What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+The structure of our database follows the same structure for both tables created, named **acc-with-hol.csv** and **acc-without-hol.csv**. The structure is the following:
+  * District Name
+  * Weekday
+  * Month
+  * Day
+  * Part of the day
+  * Mild injuries
+  * Serious injuries
+  * Victims
+  * Vehicles Involved
+  * Date
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
