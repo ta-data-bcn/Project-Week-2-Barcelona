@@ -18,7 +18,7 @@
 ## Project Description
 Seeing the amount of students with driver licenses and that holidays are pretty close, we wanted to check how dangerous is drive in Barcelona on those days.
 
-The goal of our project was find insights to share with the rest of the class with the aim of keeping everyone safe.
+The goal of our project was **find insights to share with the rest of the class with the aim of keeping everyone safe.**
 
 ## Questions & Hypotheses
 The questions that we want to answer are the following ones:
@@ -46,7 +46,10 @@ The structure of our database follows the same structure for both tables created
   * Date
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+The workflow that we followed was, first of all, find an initial hypothesis of the project. Later on, we started thinking about initial questions that we wanted to answer. 
+After having that in mind, we share it with our mentor and started cleaning the data. That was the most difficult part, as we were new with Pandas. 
+Once our data was updated, we figured out if the initial questions make sense, which should we change and we started coding on the new datasets trying to find those insights.
+Last, but not least, we gathered all the information and decided how to structure it for the final presentation.
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
