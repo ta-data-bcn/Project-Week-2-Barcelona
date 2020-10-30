@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Spanish General Elections NOV'19 in Barcelona
 *[Anna Fonte & Sergio Monge]*
 
 *[Data analytics, Barcelona October 2020]*
