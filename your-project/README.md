@@ -17,6 +17,7 @@
 
 ## Project Description
 Seeing the amount of students with driver licenses and that holidays are pretty close, we wanted to check how dangerous is drive in Barcelona on those days.
+
 The goal of our project was find insights to share with the rest of the class with the aim of keeping everyone safe.
 
 ## Questions & Hypotheses
