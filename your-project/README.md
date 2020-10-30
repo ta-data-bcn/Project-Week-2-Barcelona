@@ -21,6 +21,12 @@ Seeing the amount of students with driver licenses and that holidays are pretty 
 The goal of our project was find insights to share with the rest of the class with the aim of keeping everyone safe.
 
 ## Questions & Hypotheses
+The questions that we want to answer are the following ones:
+  * How dangerous is driving in Barcelona?
+  * Where are those accidents mostly located?
+  * When do more accidents occur?
+  * Which is the most dangerous holiday?
+Before we started checking the data, we thought that Barcelona was more dangerous on holidays, specially in the night. Shall we were correct?
 What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
 
 ## Dataset
