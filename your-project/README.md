@@ -47,8 +47,11 @@ The structure of our database follows the same structure for both tables created
 
 ## Workflow
 The workflow that we followed was, first of all, find an initial hypothesis of the project. Later on, we started thinking about initial questions that we wanted to answer. 
+
 After having that in mind, we share it with our mentor and started cleaning the data. That was the most difficult part, as we were new with Pandas. 
+
 Once our data was updated, we figured out if the initial questions make sense, which should we change and we started coding on the new datasets trying to find those insights.
+
 Last, but not least, we gathered all the information and decided how to structure it for the final presentation.
 
 ## Organization
