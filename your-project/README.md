@@ -26,6 +26,7 @@ The questions that we want to answer are the following ones:
   * Where are those accidents mostly located?
   * When do more accidents occur?
   * Which is the most dangerous holiday?
+  
 Before we started checking the data, we thought that Barcelona was more dangerous on holidays, specially in the night. Shall we were correct
 
 ## Dataset
