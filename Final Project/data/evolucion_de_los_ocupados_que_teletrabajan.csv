@@ -1,0 +1,26 @@
+﻿"Año";"Periodo";"Ocupados"
+"2010";"Año";"707.100"
+"2011";"Año";"742.800"
+"2012";"Año";"786.200"
+"2013";"Año";"734.800"
+"2014";"Año";"737.500"
+"2015";"Año";"642.200"
+"2016";"Año";"643.600"
+"2017";"Año";"806.500"
+"2018";"Año";"823.600"
+"2019";"Año";"951.800"
+"2020";"Año";"3.015.200"
+;;
+;;
+"Métrica":"Ocupados"
+"Fuente":"Randstad, INE"
+"Clasificación":""
+"Unidad":"Trabajadores"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/evolucion-ocupados-teletrabajan-habitualmente/0f1607f6-2567-4d4f-b465-ac50c2beacd2"
+"Titulo":"Evolución de los ocupados que teletrabajan habitualmente"
+"Subtitulo":""
