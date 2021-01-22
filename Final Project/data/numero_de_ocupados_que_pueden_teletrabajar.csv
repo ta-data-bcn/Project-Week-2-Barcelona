@@ -1,0 +1,44 @@
+﻿"Año";"Periodo";"Parámetro";"Profesionales que podrían teletrabajar";"Porcentaje respecto al total de teletrabajo";"Porcentaje respecto al total de su ocupación"
+"2019";"Año";"a) Técnicos y profesionales cientificos e intelectuales";"2.194.295";"49,8";"59,9"
+"2019";"Año";"b) Empleados contables, administrativos y otros empleados de oficina";"890.927";"20,2";"43,6"
+"2019";"Año";"c) Directores y gerentes";"781.300";"17,7";"100"
+"2019";"Año";"d) Técnicos y profesionales de apoyo";"472.983";"10,7";"22,3"
+"2019";"Año";"e) Trabajadores de industrias manufactureras y la construcción";"65.814";"1,5";"3"
+"2019";"Año";"k) Total";"4.405.319";"";""
+"2019";"Año";"f) Servicios de restauración, personales, protección y vendedores";"";"0";"0"
+"2019";"Año";"g) Sector agrícola, ganadero, forestal y pesquero";"";"0";"0"
+"2019";"Año";"h) Operadores de istalaciones y maquinaria, y montadores";"";"0";"0"
+"2019";"Año";"i) Ocupaciones elementales";"";"0";"0"
+"2019";"Año";"j) Ocupaciones militares";"";"0";"0"
+;;;;
+;;;;
+"Métrica":"Profesionales que podrían teletrabajar"
+"Fuente":"Randstad"
+"Clasificación":""
+"Unidad":"Nº de ocupados"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Métrica":"Porcentaje respecto al total de teletrabajo"
+"Fuente":"Randstad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Métrica":"Porcentaje respecto al total de su ocupación"
+"Fuente":"Randstad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Url":"https://www.epdata.es/numero-ocupados-pueden-teletrabajar-espana-randstad/cc2ad55c-9677-4278-822d-3045c83acfa8"
+"Titulo":"Número de ocupados que pueden teletrabajar en España, según Randstad"
+"Subtitulo":""
